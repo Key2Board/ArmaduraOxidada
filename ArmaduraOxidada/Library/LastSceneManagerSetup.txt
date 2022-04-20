@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Assets/PolygonDungeonRealms/Scenes/Demo_Dungeon_01.unity
+- path: Assets/Scenes/Nivel1.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
