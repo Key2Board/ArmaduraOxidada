@@ -6146,7 +6146,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxGrappleDistance: 20
   rope: {fileID: 739930269}
-  maximumSpeed: 15.23
+  maximumSpeed: 10
   deceleration: 2500
   deceleratingTime: 1.4
   crossHairSpinningPart: {fileID: 0}
@@ -6189,7 +6189,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1379252897}
   serializedVersion: 2
-  m_Mass: 139.95
+  m_Mass: 80
   m_Drag: 0
   m_AngularDrag: 0
   m_UseGravity: 1
