@@ -31203,7 +31203,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Pasos: {fileID: 1009983774}
   bobbingSpeed: 0.035
-  bobbingAmount: 0.3
+  bobbingAmount: 0.13
   midpoint: 2
   player: {fileID: 1427518750}
   pause: {fileID: 1055487482}
