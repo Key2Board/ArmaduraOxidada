@@ -1,0 +1,1706 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.30f1 (1fb1bf06830e) revision 2077119'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19041) 64bit Professional' Language: 'es' Physical Memory: 16215 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.30f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/alfa armadura oxidada/ArmaduraOxidada - copia/ArmaduraOxidada
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64295
+Successfully changed project path to: C:/alfa armadura oxidada/ArmaduraOxidada - copia/ArmaduraOxidada
+C:/alfa armadura oxidada/ArmaduraOxidada - copia/ArmaduraOxidada
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 120.13 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.30f1 (1fb1bf06830e)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/alfa armadura oxidada/ArmaduraOxidada - copia/ArmaduraOxidada/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f15)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   30.0.15.1179
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56512
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001722 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 127.79 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.609 seconds
+Domain Reload Profiling:
+	ReloadAssembly (609ms)
+		BeginReloadAssembly (55ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (492ms)
+			LoadAssemblies (53ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (130ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (25ms)
+			SetupLoadedEditorAssemblies (245ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (128ms)
+				BeforeProcessingInitializeOnLoad (14ms)
+				ProcessInitializeOnLoadAttributes (74ms)
+				ProcessInitializeOnLoadMethodAttributes (25ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003852 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.34 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.865 seconds
+Domain Reload Profiling:
+	ReloadAssembly (866ms)
+		BeginReloadAssembly (133ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (16ms)
+		EndReloadAssembly (675ms)
+			LoadAssemblies (79ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (227ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (36ms)
+			SetupLoadedEditorAssemblies (256ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (69ms)
+				ProcessInitializeOnLoadAttributes (168ms)
+				ProcessInitializeOnLoadMethodAttributes (8ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 1.38 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1685 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 103.5 MB.
+System memory in use after: 103.6 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2135.
+Total: 2.169900 ms (FindLiveObjects: 0.114700 ms CreateObjectMapping: 0.052700 ms MarkObjects: 1.904900 ms  DeleteObjects: 0.096600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/PolygonFantasyCharacters/Prefabs/Character_Male_King_01.prefab
+  artifactKey: Guid(5ad43ee3802caa04ab0928a13c462a56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/Character_Male_King_01.prefab using Guid(5ad43ee3802caa04ab0928a13c462a56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83a99da38d6f6fc56a6608933ff1e2cd') in 0.120370 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs/Character_Female_Peasant_02.prefab
+  artifactKey: Guid(29e0acc4764696c4198aa7ffda2fdf48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/Character_Female_Peasant_02.prefab using Guid(29e0acc4764696c4198aa7ffda2fdf48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f62b40cf08c466f0b4296f1f828c702') in 0.027909 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs/Character_Male_Peasant_01.prefab
+  artifactKey: Guid(66ec70d7de4f4c644a7ace1f5f0a2a9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/Character_Male_Peasant_01.prefab using Guid(66ec70d7de4f4c644a7ace1f5f0a2a9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77be791ac80e52762482b0dee480b8ac') in 0.018838 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs/SM_Prop_Dagger_01.prefab
+  artifactKey: Guid(a72fcdd51f52f5146b54b8faccf63756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/SM_Prop_Dagger_01.prefab using Guid(a72fcdd51f52f5146b54b8faccf63756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8434543cd1d0f53c15e2a842da4cde3') in 0.011497 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs/SM_Prop_Jug_01.prefab
+  artifactKey: Guid(0ceb7a0fab62ffe4c8c9220209ae013c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/SM_Prop_Jug_01.prefab using Guid(0ceb7a0fab62ffe4c8c9220209ae013c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9298d027947864ddeda2a860f8d8874') in 0.013605 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs/Character_Male_Baird_01.prefab
+  artifactKey: Guid(97c46f85ed671244b83b2409f56039d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/Character_Male_Baird_01.prefab using Guid(97c46f85ed671244b83b2409f56039d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e9888d5960ca497302a8cbd21accd70') in 0.019366 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs/SM_Prop_Crystal_Ball_01.prefab
+  artifactKey: Guid(c0ad510f3323b234e9fb6ba5b6f4a6bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/SM_Prop_Crystal_Ball_01.prefab using Guid(c0ad510f3323b234e9fb6ba5b6f4a6bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8f74638fad871bd9cd8724a89e3ad51') in 0.013022 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs/SM_Prop_Lute_01.prefab
+  artifactKey: Guid(4045dbaae77b39241bd7c0edbd188a33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/SM_Prop_Lute_01.prefab using Guid(4045dbaae77b39241bd7c0edbd188a33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '619e1d876153a231abcd533572cdda4d') in 0.013096 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs/SM_Prop_Wand_01.prefab
+  artifactKey: Guid(2d065c8c4ae1e8547b898e804918c86e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/SM_Prop_Wand_01.prefab using Guid(2d065c8c4ae1e8547b898e804918c86e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c50cfa2491f418b4e4c98a2fcc1ba7b') in 0.012904 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs/Character_Female_Gypsy_01.prefab
+  artifactKey: Guid(0a5c236a7b8473c4db6e870cfe814a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/Character_Female_Gypsy_01.prefab using Guid(0a5c236a7b8473c4db6e870cfe814a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7761ea1c64ee7b0e8ea02f541036127d') in 0.018768 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs/SM_Prop_Sceptre_01.prefab
+  artifactKey: Guid(24438bb8ac649ea46b56ab6b0404db1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/SM_Prop_Sceptre_01.prefab using Guid(24438bb8ac649ea46b56ab6b0404db1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f1316cdf9116e3dca40e6aea2b97f4e') in 0.012859 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs/SM_Prop_SwordOrnate_01.prefab
+  artifactKey: Guid(9e311f4d0c272f44ea83aed3c3b15c40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/SM_Prop_SwordOrnate_01.prefab using Guid(9e311f4d0c272f44ea83aed3c3b15c40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dbb540b32602c455b620c71a0639024') in 0.012424 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs/Character_Male_Rouge_01.prefab
+  artifactKey: Guid(534b7b0f42c1d304299f3f3762536fb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/Character_Male_Rouge_01.prefab using Guid(534b7b0f42c1d304299f3f3762536fb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4184200183da95cae6c6ec70c0083ebb') in 0.019547 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs/SM_Prop_WizardStaff_01.prefab
+  artifactKey: Guid(1006941873f215d46b09517732f49978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/SM_Prop_WizardStaff_01.prefab using Guid(1006941873f215d46b09517732f49978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '077beafb25940a0a171b48600b20f54e') in 0.011171 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs/SM_Prop_SpellBook_02.prefab
+  artifactKey: Guid(287641c6816a5d6439b3abd4dbe279ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/SM_Prop_SpellBook_02.prefab using Guid(287641c6816a5d6439b3abd4dbe279ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd264724cb56cc005be902788f1b338f0') in 0.012302 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs/Character_Male_Sorcerer_01.prefab
+  artifactKey: Guid(3f42b29f9f09e0e40b05df7c984384f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/Character_Male_Sorcerer_01.prefab using Guid(3f42b29f9f09e0e40b05df7c984384f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56e9d0fe9d7853ee267188374edc5245') in 0.018876 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs/SM_Prop_Broom_01.prefab
+  artifactKey: Guid(74472bc2f47a23b41aa71c9d0d2c408f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/SM_Prop_Broom_01.prefab using Guid(74472bc2f47a23b41aa71c9d0d2c408f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca8fb0e6b8db575b15dfd151df088d81') in 0.010972 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs/SM_Prop_Druid_Staff_01.prefab
+  artifactKey: Guid(12caa982699ea3b41a15a260d90f16a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/SM_Prop_Druid_Staff_01.prefab using Guid(12caa982699ea3b41a15a260d90f16a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '164dfdf1d4c6ff1d221affa49bdfb3d5') in 0.014643 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs/SM_Prop_Vials_01.prefab
+  artifactKey: Guid(7f285613e2a51df40a71af5d91b8e7c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/SM_Prop_Vials_01.prefab using Guid(7f285613e2a51df40a71af5d91b8e7c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e701c50715f2523cb50274e9d9822e81') in 0.012203 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs/Character_Female_Queen_01.prefab
+  artifactKey: Guid(e1f36af446286a549b992a70451f884e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/Character_Female_Queen_01.prefab using Guid(e1f36af446286a549b992a70451f884e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7598f0c71cb048b1e509941553ec02e') in 0.021917 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs/SM_Prop_Bucket_01.prefab
+  artifactKey: Guid(b6c1c2a5e606d5f49a3095eca864188b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/SM_Prop_Bucket_01.prefab using Guid(b6c1c2a5e606d5f49a3095eca864188b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e51398cdea74ffa0589cbe08ccb57504') in 0.017107 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs/Character_Female_Peasant_01.prefab
+  artifactKey: Guid(be2bbb2411890c147b59423a27c3dc07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/Character_Female_Peasant_01.prefab using Guid(be2bbb2411890c147b59423a27c3dc07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5724a3fd6a3b3fc74d44a0b6bf326ee') in 0.019519 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs
+  artifactKey: Guid(93c74715787f3e748b35b453d359532a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs using Guid(93c74715787f3e748b35b453d359532a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3518b3b663c4d5472dd8970daea19269') in 0.004840 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs/Character_Female_Druid_01.prefab
+  artifactKey: Guid(f7e586317327fe240bef5a82944f49c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/Character_Female_Druid_01.prefab using Guid(f7e586317327fe240bef5a82944f49c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3843aab4ad7d7edf0d88d40ed3abb595') in 0.020601 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs/SM_Prop_SpellBook_01.prefab
+  artifactKey: Guid(d64f40bf7e223c14894e18fe15958fa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/SM_Prop_SpellBook_01.prefab using Guid(d64f40bf7e223c14894e18fe15958fa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f3e10072b8a6019c4a5637200097dc8') in 0.012031 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs/SM_Prop_SpellBook_Chained_01.prefab
+  artifactKey: Guid(e1e83d50907dd454ebd8e9adf4305361) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/SM_Prop_SpellBook_Chained_01.prefab using Guid(e1e83d50907dd454ebd8e9adf4305361) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67f51de25da52292fc8abf30243e00ea') in 0.012737 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs/Character_Female_Witch_01.prefab
+  artifactKey: Guid(d4d17342014c96842ae633419b8f07a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/Character_Female_Witch_01.prefab using Guid(d4d17342014c96842ae633419b8f07a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05a4dfeae22f961bcf557606a2835957') in 0.018748 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs/Character_Male_Wizard_01.prefab
+  artifactKey: Guid(aea27ca7a35042c419065833e8daf224) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/Character_Male_Wizard_01.prefab using Guid(aea27ca7a35042c419065833e8daf224) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd686d699d50d48cdc737e50167aabcb7') in 0.017152 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 37.553666 seconds.
+  path: Assets/PolygonFantasyCharacters/Materials/Polygon_Fantasy_Characters_Mat_01_A.mat
+  artifactKey: Guid(2516edcba6fec964787b5492b55edbd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Materials/Polygon_Fantasy_Characters_Mat_01_A.mat using Guid(2516edcba6fec964787b5492b55edbd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7679893ddb1c79501f0784f49f324e8') in 0.029068 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.006651 seconds.
+  path: Assets/PolygonFantasyCharacters/Models/Characters.fbx
+  artifactKey: Guid(e2958561779b1a748a4246b9d0c0b309) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Models/Characters.fbx using Guid(e2958561779b1a748a4246b9d0c0b309) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cac5c8380459fc2904ae8f331bd7d426') in 0.181415 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004665 seconds.
+  path: Assets/PolygonFantasyCharacters/Textures/Polygon_Fantasy_Characters_Texture_Emmision.png
+  artifactKey: Guid(937f52e949a65074f9fa113c1a850ff1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Textures/Polygon_Fantasy_Characters_Texture_Emmision.png using Guid(937f52e949a65074f9fa113c1a850ff1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0041c3ff9b8b73a427a3c211ebdc43d') in 0.016210 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.008689 seconds.
+  path: Assets/PolygonFantasyCharacters/Textures/Polygon_Fantasy_Characters_Texture_01_A.png
+  artifactKey: Guid(5dab8b5d7a5db2b4aacf7b82c82b9e31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Textures/Polygon_Fantasy_Characters_Texture_01_A.png using Guid(5dab8b5d7a5db2b4aacf7b82c82b9e31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c476a6cd125c0e786627bcd9e4244338') in 0.010174 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004125 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.51 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.867 seconds
+Domain Reload Profiling:
+	ReloadAssembly (867ms)
+		BeginReloadAssembly (102ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (28ms)
+		EndReloadAssembly (711ms)
+			LoadAssemblies (88ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (259ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (247ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (69ms)
+				ProcessInitializeOnLoadAttributes (159ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.42 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1888 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 125.4 MB.
+System memory in use after: 125.5 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2411.
+Total: 2.198400 ms (FindLiveObjects: 0.134000 ms CreateObjectMapping: 0.065100 ms MarkObjects: 1.979600 ms  DeleteObjects: 0.019000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 488.642333 seconds.
+  path: Assets/Animacion/Running Forward Flip.fbx
+  artifactKey: Guid(1d53571da8004da47bde39181b49b0ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animacion/Running Forward Flip.fbx using Guid(1d53571da8004da47bde39181b49b0ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99cd7dd2533111cc3f667d09cbb82069') in 0.260395 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 45.352726 seconds.
+  path: Assets/Animacion/animacion arbol.anim
+  artifactKey: Guid(5abb22ac06cdfba4e98e362a3360001e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animacion/animacion arbol.anim using Guid(5abb22ac06cdfba4e98e362a3360001e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81375f9bd7d8937fb347740614790f32') in 0.006942 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008289 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.44 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.749 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1750ms)
+		BeginReloadAssembly (202ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (60ms)
+		EndReloadAssembly (1438ms)
+			LoadAssemblies (185ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (523ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (72ms)
+			SetupLoadedEditorAssemblies (520ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (160ms)
+				ProcessInitializeOnLoadAttributes (320ms)
+				ProcessInitializeOnLoadMethodAttributes (20ms)
+				AfterProcessingInitializeOnLoad (12ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (13ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.84 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1888 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 126.1 MB.
+System memory in use after: 126.3 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2414.
+Total: 2.609400 ms (FindLiveObjects: 0.167700 ms CreateObjectMapping: 0.077400 ms MarkObjects: 2.339200 ms  DeleteObjects: 0.024000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 200.069221 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Battlements_Pillar_01.fbx
+  artifactKey: Guid(d68bba841b570c148b02dcd43c46ab55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Battlements_Pillar_01.fbx using Guid(d68bba841b570c148b02dcd43c46ab55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c76bd5371076489a6166141e6fc4096d') in 0.085291 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Pillar_Stone_02_Convex.asset
+  artifactKey: Guid(7dd110006ae08e740ae0d01853a20d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Pillar_Stone_02_Convex.asset using Guid(7dd110006ae08e740ae0d01853a20d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0dc8ad467ba51596ebb9d542043d6aa') in 0.017736 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Pillar_Stone_04.fbx
+  artifactKey: Guid(712540703031ba64fa21fe846e635a8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Pillar_Stone_04.fbx using Guid(712540703031ba64fa21fe846e635a8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a663a3bc105c408c20bf7ee6acc91d0') in 0.022208 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Battlements_Pillar_01_Convex.asset
+  artifactKey: Guid(2d4701df3a1b13a43ab8df314f1075c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Battlements_Pillar_01_Convex.asset using Guid(2d4701df3a1b13a43ab8df314f1075c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '645f7f2368bc973f041608d969d6e771') in 0.018667 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Battlements_Pillar_04_Convex.asset
+  artifactKey: Guid(8bb429562441d1f4186f249ff8af1832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Battlements_Pillar_04_Convex.asset using Guid(8bb429562441d1f4186f249ff8af1832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58c241fc2969f5200047794bb2b61b62') in 0.013842 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Battlements_Pillar_02_Convex.asset
+  artifactKey: Guid(479031d85d27cab4fbb3b60cb1988810) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Battlements_Pillar_02_Convex.asset using Guid(479031d85d27cab4fbb3b60cb1988810) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae16800035e7e57111f14a3fb951486d') in 0.015071 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Battlements_Pillar_04.fbx
+  artifactKey: Guid(18e0e2eade0044a4a815af1f202dbfab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Battlements_Pillar_04.fbx using Guid(18e0e2eade0044a4a815af1f202dbfab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b8c159d862c19f65642f43e176fc6e3') in 0.019933 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Battlements_Pillar_05_Convex.asset
+  artifactKey: Guid(9222b45f77c0b9d469f2890c4b200d6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Battlements_Pillar_05_Convex.asset using Guid(9222b45f77c0b9d469f2890c4b200d6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf3140ef2e7e4a4dd86be96eb10ebaeb') in 0.013898 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Pillar_Stone_01.fbx
+  artifactKey: Guid(c9e18d86d9bf83744961a05445c90f88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Pillar_Stone_01.fbx using Guid(c9e18d86d9bf83744961a05445c90f88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9a32e8a43fc5286eb9227def5935c55') in 0.016215 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Battlements_Pillar_03.fbx
+  artifactKey: Guid(c6df2e3d4bca57342b72a0922f1ed38f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Battlements_Pillar_03.fbx using Guid(c6df2e3d4bca57342b72a0922f1ed38f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3d92bcb05a91e8a2b8587da39c7202c') in 0.016922 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Pillar_Stone_05.fbx
+  artifactKey: Guid(05a7d1de7b9110541a656938cae605fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Pillar_Stone_05.fbx using Guid(05a7d1de7b9110541a656938cae605fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc5f9846eb79f89c858a3f1905e1bd78') in 0.017995 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Castle_Battlements_Pillar_04.prefab
+  artifactKey: Guid(047fe5fb71260b244a9ef37e1f5ae547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Castle_Battlements_Pillar_04.prefab using Guid(047fe5fb71260b244a9ef37e1f5ae547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c4952e1ee763a5fed870439092a997d') in 0.080790 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Pillar_Stone_04_Convex.asset
+  artifactKey: Guid(7bee68b69d2e9b746bda47d11adde314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Pillar_Stone_04_Convex.asset using Guid(7bee68b69d2e9b746bda47d11adde314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a40212eeab8e545351ca42d2712a9616') in 0.012000 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Pillar_Stone_05_Half_Convex.asset
+  artifactKey: Guid(8f686b8a1f04a07429c892ceaa67c78f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Pillar_Stone_05_Half_Convex.asset using Guid(8f686b8a1f04a07429c892ceaa67c78f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a1b508e2ca25239e161eab9f37dfec7') in 0.013633 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Battlements_Pillar_03_Convex.asset
+  artifactKey: Guid(a38781d6bc3c22640905501365ce21d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Battlements_Pillar_03_Convex.asset using Guid(a38781d6bc3c22640905501365ce21d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71cd51cbf6ec39a7f407a59d3644e230') in 0.012917 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Castle_Battlements_Pillar_02.prefab
+  artifactKey: Guid(b9d467e8405438a4e9aed4d50b2a9ff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Castle_Battlements_Pillar_02.prefab using Guid(b9d467e8405438a4e9aed4d50b2a9ff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '139eb6e55f1c28f52e286ee2521d83d8') in 0.019580 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Castle_Battlements_Pillar_05.prefab
+  artifactKey: Guid(65536b6f987d09142906cbbb77509f78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Castle_Battlements_Pillar_05.prefab using Guid(65536b6f987d09142906cbbb77509f78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8ce35905b36ed125ae6bbb3a21b636a') in 0.019699 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Pillar_Stone_05_Half.fbx
+  artifactKey: Guid(3f0be8432f6fbaa4f90607d9b9457978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Pillar_Stone_05_Half.fbx using Guid(3f0be8432f6fbaa4f90607d9b9457978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8cf39db62e8d04776b2d013c4c94b23') in 0.017408 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Castle_Battlements_Pillar_01.prefab
+  artifactKey: Guid(c4aac38d8dcf1984ebd51619c5c77c22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Castle_Battlements_Pillar_01.prefab using Guid(c4aac38d8dcf1984ebd51619c5c77c22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '014f045e7e4b51c84821353e924864a0') in 0.018430 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Pillar_Stone_Half_01.fbx
+  artifactKey: Guid(3978fc888bbcffc46a029db61a457a06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Pillar_Stone_Half_01.fbx using Guid(3978fc888bbcffc46a029db61a457a06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '027b8ce9d18a2d7203b8ac219a71a7f6') in 0.017401 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Pillar_Stone_05_Convex.asset
+  artifactKey: Guid(69ca96e050add4344a2b64ba6a43b198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Pillar_Stone_05_Convex.asset using Guid(69ca96e050add4344a2b64ba6a43b198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f4eb18a158231f71fe408ddb13a3623') in 0.014167 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Pillar_Stone_02.fbx
+  artifactKey: Guid(220ef83255645f848ac85f872e2113e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Pillar_Stone_02.fbx using Guid(220ef83255645f848ac85f872e2113e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79ed61897064b35d2b41f5d1cf1445dc') in 0.016855 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Pillar_Stone_01_Convex.asset
+  artifactKey: Guid(d8b119ac98faefd4b9d181d531d2b8c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Pillar_Stone_01_Convex.asset using Guid(d8b119ac98faefd4b9d181d531d2b8c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5da4b89124b7e16178f250cbd906cbbe') in 0.012591 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Pillar_Stone_Half_01_Convex.asset
+  artifactKey: Guid(3df141fd82676dc429c387b6e1128dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Pillar_Stone_Half_01_Convex.asset using Guid(3df141fd82676dc429c387b6e1128dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30831d1a9407a11f5f5213f6de913b26') in 0.013008 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Pillar_Stone_03.fbx
+  artifactKey: Guid(3cb6fa7058029d94c894fddffd1c1479) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Pillar_Stone_03.fbx using Guid(3cb6fa7058029d94c894fddffd1c1479) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be48da2a811ad8730ca261ad4a558237') in 0.017515 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Pillar_Stone_Half_02_Convex.asset
+  artifactKey: Guid(5096eec77371c994b89c53bbf63888ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Pillar_Stone_Half_02_Convex.asset using Guid(5096eec77371c994b89c53bbf63888ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd29b91d2c32125e38265eb60e5c03eb1') in 0.013710 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Battlements_Pillar_06.fbx
+  artifactKey: Guid(4d689be4ca12ceb4d80217e67b0cbf70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Battlements_Pillar_06.fbx using Guid(4d689be4ca12ceb4d80217e67b0cbf70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '757f2a80fb800f548692725aa0e95ef1') in 0.018732 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Battlements_Pillar_02.fbx
+  artifactKey: Guid(14526d26e9885f740a3d2270c58d3b09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Battlements_Pillar_02.fbx using Guid(14526d26e9885f740a3d2270c58d3b09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d06e244b0b84ae679daf99ae50e607d') in 0.016587 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Battlements_Pillar_05.fbx
+  artifactKey: Guid(2887300ca0ea90e44943b6f6ab03f3b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Battlements_Pillar_05.fbx using Guid(2887300ca0ea90e44943b6f6ab03f3b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4d3bfee1260ebfc6acfe0fcb106167e') in 0.015487 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Pillar_Stone_Half_02.fbx
+  artifactKey: Guid(7171056cddfa7de42971cc879af86160) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Pillar_Stone_Half_02.fbx using Guid(7171056cddfa7de42971cc879af86160) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8f07bc376e1e25d1430a5269fe281c3') in 0.016487 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Pillar_Stone_Half_03.fbx
+  artifactKey: Guid(9e3fcf342379ce94bb6ab495d53dab44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Pillar_Stone_Half_03.fbx using Guid(9e3fcf342379ce94bb6ab495d53dab44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afd92ae1c743e36228f9912b39fa1279') in 0.012965 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Battlements_Pillar_06_Convex.asset
+  artifactKey: Guid(e210f2c8adfae564d90dc40259c9ce0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Battlements_Pillar_06_Convex.asset using Guid(e210f2c8adfae564d90dc40259c9ce0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e18f7a41a20bfee330db0adf16de8305') in 0.012716 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Castle_Battlements_Pillar_03.prefab
+  artifactKey: Guid(ed99f949a4dc1ef46beaed9b70c6d6b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Castle_Battlements_Pillar_03.prefab using Guid(ed99f949a4dc1ef46beaed9b70c6d6b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c626689a88865663a99da6ce971f94d') in 0.017202 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Pillar_Stone_03_Convex.asset
+  artifactKey: Guid(b7240c95e39df754e9affd9e195919b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Pillar_Stone_03_Convex.asset using Guid(b7240c95e39df754e9affd9e195919b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad9fe34f223d70afb4f99d27cd626f27') in 0.014599 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.541243 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Pillar_Stone_Half_03_Convex.asset
+  artifactKey: Guid(1d7940d919682f944af28dcddde2d09c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Pillar_Stone_Half_03_Convex.asset using Guid(1d7940d919682f944af28dcddde2d09c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9c56734e3719cf7413baee837ee266a') in 0.012106 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Pillar_Stone_Round_01_Convex.asset
+  artifactKey: Guid(7c71215dcd159ea40b32b8ef395df548) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Pillar_Stone_Round_01_Convex.asset using Guid(7c71215dcd159ea40b32b8ef395df548) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b787f73abd8d12267528a73d21dfcb0') in 0.012108 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Pillar_Stone_Round_03.fbx
+  artifactKey: Guid(386291f6a2dcef443a13933392f36323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Pillar_Stone_Round_03.fbx using Guid(386291f6a2dcef443a13933392f36323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b486ea4a9357eb91a8bf02341b2528d') in 0.018425 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Pillar_Stone_Round_02.fbx
+  artifactKey: Guid(01e5f334d86661c4d935027bc9f9bc61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Pillar_Stone_Round_02.fbx using Guid(01e5f334d86661c4d935027bc9f9bc61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a6f2fe4d57b72bd8579112b690a05c7') in 0.016222 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Pillar_Stone_Round_03_Convex.asset
+  artifactKey: Guid(3bc20c2eb72280a49bf74301d5cdaedb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Pillar_Stone_Round_03_Convex.asset using Guid(3bc20c2eb72280a49bf74301d5cdaedb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24cf30be223a36b0a5908b984962a5e5') in 0.012892 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Pillar_Stone_Round_01.fbx
+  artifactKey: Guid(4b486a6c9b78d1344bb6579c403b8359) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Pillar_Stone_Round_01.fbx using Guid(4b486a6c9b78d1344bb6579c403b8359) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad906ee020f16ecb1e3725ecf011e839') in 0.017424 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Pillar_Stone_Round_02_Convex.asset
+  artifactKey: Guid(c3c2b52ab049157459c0fbf3a68273a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Pillar_Stone_Round_02_Convex.asset using Guid(c3c2b52ab049157459c0fbf3a68273a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cf2e6d72c3fd9204a7d349ea0854661') in 0.016135 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.232584 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Castle_Wall_Pillars_Half_01.prefab
+  artifactKey: Guid(5b527dab48d69864d8d0062544d9b246) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Castle_Wall_Pillars_Half_01.prefab using Guid(5b527dab48d69864d8d0062544d9b246) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcd7fd3858d38eb828963f6283c928c0') in 0.014329 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Wall_Pillars_Half_Corner_L_01_Convex.asset
+  artifactKey: Guid(0accb0cc4f4a78e488f2dfcbc42e5a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Wall_Pillars_Half_Corner_L_01_Convex.asset using Guid(0accb0cc4f4a78e488f2dfcbc42e5a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db03bc7b62b1e4f2dbbf4e3a6b6a5090') in 0.011265 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Wall_Pillars_Half_Corner_L_01_Convex 1.asset
+  artifactKey: Guid(c1cea32d5d1a22c4db10baa09bd9a1ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Wall_Pillars_Half_Corner_L_01_Convex 1.asset using Guid(c1cea32d5d1a22c4db10baa09bd9a1ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8764594ed231cb0d3cd30de92df37a7c') in 0.044447 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Wall_Pillars_Half_01.fbx
+  artifactKey: Guid(f2a8501be03ea16429a549d10a2d3616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Wall_Pillars_Half_01.fbx using Guid(f2a8501be03ea16429a549d10a2d3616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f728794b0b071c6d72f0c6ca0c75a97d') in 0.014126 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Castle_Wall_Pillars_Half_Corner_L_01.prefab
+  artifactKey: Guid(447e684fe9154604da9673900abbb610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Castle_Wall_Pillars_Half_Corner_L_01.prefab using Guid(447e684fe9154604da9673900abbb610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '951bb5107e68f182b97d9dc79765ab17') in 0.020469 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Wall_Pillars_Half_Corner_L_01.fbx
+  artifactKey: Guid(6421dfe2ec587e94b9fd1939219a45d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Wall_Pillars_Half_Corner_L_01.fbx using Guid(6421dfe2ec587e94b9fd1939219a45d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfe3fb7f1618c3c8327b865b065cdc87') in 0.016978 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Wall_Pillars_Half_01_Convex 1.asset
+  artifactKey: Guid(e3da9e575c3a90a48bf59e1111d8fe7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Wall_Pillars_Half_01_Convex 1.asset using Guid(e3da9e575c3a90a48bf59e1111d8fe7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f96bff226cd2073d9da2d1dbc7acb13') in 0.036659 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Wall_Pillars_Half_01_Convex.asset
+  artifactKey: Guid(e2e3566268f120040a6af7c0090f9713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Wall_Pillars_Half_01_Convex.asset using Guid(e2e3566268f120040a6af7c0090f9713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f54f6db56505b945de37f567305b71b5') in 0.013178 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.105028 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Castle_Wall_Pillars_Half_Corner_L_02.prefab
+  artifactKey: Guid(6348c2f5a790c714292a3d21bbb07f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Castle_Wall_Pillars_Half_Corner_L_02.prefab using Guid(6348c2f5a790c714292a3d21bbb07f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3029020ac7119c8dbb50116c761fa483') in 0.016016 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Wall_Pillars_Half_Corner_L_02_Convex 1.asset
+  artifactKey: Guid(8d01bb8b544f3c440a490a06522a02e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Wall_Pillars_Half_Corner_L_02_Convex 1.asset using Guid(8d01bb8b544f3c440a490a06522a02e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81fd9e6d0fc6b8438e20338ff40464c9') in 0.035813 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Wall_Pillars_Half_Corner_L_02_Convex 2.asset
+  artifactKey: Guid(5bf9b130f5c4ce94594528cc66edbd9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Wall_Pillars_Half_Corner_L_02_Convex 2.asset using Guid(5bf9b130f5c4ce94594528cc66edbd9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18e4c7a70eda2674d0dca23f6101257c') in 0.033371 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Castle_Wall_Pillars_Half_Corner_M_01.prefab
+  artifactKey: Guid(a1023631791c62349b60a0116208951d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Castle_Wall_Pillars_Half_Corner_M_01.prefab using Guid(a1023631791c62349b60a0116208951d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29fc0877cc90bfe09f6c289208d84c83') in 0.019260 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Wall_Pillars_Half_Corner_L_02_Convex 3.asset
+  artifactKey: Guid(6c1b29a2e33412d43ae0c0ca648c3e42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Wall_Pillars_Half_Corner_L_02_Convex 3.asset using Guid(6c1b29a2e33412d43ae0c0ca648c3e42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d49dfb9b1c751cb351b611380f867a0') in 0.039196 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Wall_Pillars_Half_Corner_M_01_Convex.asset
+  artifactKey: Guid(4295565208158ac4fb997a1ecaacdebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Wall_Pillars_Half_Corner_M_01_Convex.asset using Guid(4295565208158ac4fb997a1ecaacdebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bff83ee02aa212089ae926fae62d3a2f') in 0.010577 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Castle_Wall_Pillars_Half_Corner_S_01.prefab
+  artifactKey: Guid(0d7c030b8107eb3409151c6f44a00401) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Castle_Wall_Pillars_Half_Corner_S_01.prefab using Guid(0d7c030b8107eb3409151c6f44a00401) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a0e60aa4a6318aca6c2431605b6ced4') in 0.018688 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Wall_Pillars_Half_Corner_L_02_Convex 4.asset
+  artifactKey: Guid(30346b031bc00a34eb9b338f161a8ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Wall_Pillars_Half_Corner_L_02_Convex 4.asset using Guid(30346b031bc00a34eb9b338f161a8ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '244591502878e1490e560a23c7f3d27c') in 0.036960 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Wall_Pillars_Half_Corner_S_02.fbx
+  artifactKey: Guid(fac69cfa2b8c87943be62041e9f5c3d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Wall_Pillars_Half_Corner_S_02.fbx using Guid(fac69cfa2b8c87943be62041e9f5c3d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '953083ea48c3c93fa31bd856e4d08256') in 0.017168 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Wall_Pillars_Half_Corner_M_01_Convex 1.asset
+  artifactKey: Guid(c7fd6c3d5701f674d808ac89058111e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Wall_Pillars_Half_Corner_M_01_Convex 1.asset using Guid(c7fd6c3d5701f674d808ac89058111e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af4fabc71b10f6fc695f9559aedb67c1') in 0.034395 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Wall_Pillars_Half_Corner_S_01_Convex.asset
+  artifactKey: Guid(fce301de6ad9158449129f8502d83362) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Wall_Pillars_Half_Corner_S_01_Convex.asset using Guid(fce301de6ad9158449129f8502d83362) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16514247eb02396a13ab11ed0eab5f04') in 0.010996 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Wall_Pillars_Half_Corner_M_02_Convex.asset
+  artifactKey: Guid(ab93416c550f44b44b0aa7a3ec9a78f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Wall_Pillars_Half_Corner_M_02_Convex.asset using Guid(ab93416c550f44b44b0aa7a3ec9a78f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e28a4ea1e90a40a76b43dc866e54b1e') in 0.012025 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Wall_Pillars_Half_Corner_M_02_Convex 1.asset
+  artifactKey: Guid(6a2b342d2c3aca0458c7392169c72924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Wall_Pillars_Half_Corner_M_02_Convex 1.asset using Guid(6a2b342d2c3aca0458c7392169c72924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abbf6fa4ead261df5e8deb7aa18bdf30') in 0.034550 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Wall_Pillars_Half_Corner_S_01.fbx
+  artifactKey: Guid(9fa027ff9f0a96041a07a5747df6c78b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Wall_Pillars_Half_Corner_S_01.fbx using Guid(9fa027ff9f0a96041a07a5747df6c78b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '560fd98ee1ca3b52500eaa8ec29bcc2f') in 0.016519 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Wall_Pillars_Half_Corner_M_01.fbx
+  artifactKey: Guid(5ab5874fd443a21418da86394c5d4528) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Wall_Pillars_Half_Corner_M_01.fbx using Guid(5ab5874fd443a21418da86394c5d4528) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da425ac705ad67e9b93f7bf6d1420ab3') in 0.014991 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Castle_Wall_Pillars_Half_Corner_M_02.prefab
+  artifactKey: Guid(337a03268a7409c4daabb763b1e64eb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Castle_Wall_Pillars_Half_Corner_M_02.prefab using Guid(337a03268a7409c4daabb763b1e64eb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cd6e798ef5974760afa3d0c1580664d') in 0.020395 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Wall_Pillars_Half_Corner_S_01_Convex 1.asset
+  artifactKey: Guid(c5c37910397bf2e49985ac6eaa126a1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Wall_Pillars_Half_Corner_S_01_Convex 1.asset using Guid(c5c37910397bf2e49985ac6eaa126a1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff737645a61ad4578d2dda9eb36b95f0') in 0.035123 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Wall_Pillars_Half_Corner_M_02.fbx
+  artifactKey: Guid(e5f079a4cee6ee34795da01985f6be18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Wall_Pillars_Half_Corner_M_02.fbx using Guid(e5f079a4cee6ee34795da01985f6be18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07c7419d7b6305e72d0d782372d6aaab') in 0.015407 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Wall_Pillars_Half_Corner_L_02_Convex 5.asset
+  artifactKey: Guid(0611452ef79d5db438f1edb86a6f1522) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Wall_Pillars_Half_Corner_L_02_Convex 5.asset using Guid(0611452ef79d5db438f1edb86a6f1522) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d51b3f634687d1940714eed3af4e9eb') in 0.042570 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Castle_Wall_Pillars_Half_Corner_S_02.prefab
+  artifactKey: Guid(5f1b0c46dd688fc4a8bca1c22ded4035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Castle_Wall_Pillars_Half_Corner_S_02.prefab using Guid(5f1b0c46dd688fc4a8bca1c22ded4035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdd5cbcf2061732320794fd75626d988') in 0.017862 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Wall_Pillars_Half_Corner_L_02.fbx
+  artifactKey: Guid(b0f2379504439bf40b74cfa091c72261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Wall_Pillars_Half_Corner_L_02.fbx using Guid(b0f2379504439bf40b74cfa091c72261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17fce503db1006ffc02065c6dd41b6a6') in 0.016662 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Wall_Pillars_Half_Corner_L_02_Convex.asset
+  artifactKey: Guid(487cd2bc6df8dc94dad6d554c94165ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Wall_Pillars_Half_Corner_L_02_Convex.asset using Guid(487cd2bc6df8dc94dad6d554c94165ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba781097a45840c6236b457d2bf24874') in 0.014342 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.171996 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Wall_Pillars_Half_Corner_S_02_Convex.asset
+  artifactKey: Guid(a63e800cc893a704a9d82b71ad88f046) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Wall_Pillars_Half_Corner_S_02_Convex.asset using Guid(a63e800cc893a704a9d82b71ad88f046) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '295c741f770ab732a487b0cc4e01392b') in 0.010514 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Keep_Pillar_01.fbx
+  artifactKey: Guid(c144940f27217ff4aafa754663a43358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Keep_Pillar_01.fbx using Guid(c144940f27217ff4aafa754663a43358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f8acb276bc3229f97b877e0f98c192d') in 0.020336 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Keep_Pillar_01_Convex.asset
+  artifactKey: Guid(e2f9e98879d15bb4e905908dced1ee82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Keep_Pillar_01_Convex.asset using Guid(e2f9e98879d15bb4e905908dced1ee82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6e5864d9e58d491c04e5f0998c1b0aa') in 0.013613 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Keep_Pillar_02.fbx
+  artifactKey: Guid(2a7644bb5a2a4004fb6b05b806e52e66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Keep_Pillar_02.fbx using Guid(2a7644bb5a2a4004fb6b05b806e52e66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f942a94e5267ac714aa2c8b9a9190e1') in 0.017912 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Keep_Pillar_01.prefab
+  artifactKey: Guid(8804e8d28a8d0124cab97d96f73aa955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Keep_Pillar_01.prefab using Guid(8804e8d28a8d0124cab97d96f73aa955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed736b9666f8d4a3354f322b7bc2b5ef') in 0.016397 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Keep_Pillar_02.prefab
+  artifactKey: Guid(38350180c7aab2c409bbcfc4bd8b52f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Keep_Pillar_02.prefab using Guid(38350180c7aab2c409bbcfc4bd8b52f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e994bca096b5e720e6cc3cb865c8514f') in 0.014197 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Keep_Pillar_Cap_01.prefab
+  artifactKey: Guid(cc84c1cbf02be5149aeebfc6195cdbdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Keep_Pillar_Cap_01.prefab using Guid(cc84c1cbf02be5149aeebfc6195cdbdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e566cb348a6da498b34a56274894ef0c') in 0.019311 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Keep_Pillar_04.fbx
+  artifactKey: Guid(c6dd84843ee867e4ca8c1de6d0ed88d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Keep_Pillar_04.fbx using Guid(c6dd84843ee867e4ca8c1de6d0ed88d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22096812b27dbe731915b896f6274d9f') in 0.019922 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Keep_Pillar_03.fbx
+  artifactKey: Guid(7ae13ffa64d85f44cb2d8f5984515d4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Keep_Pillar_03.fbx using Guid(7ae13ffa64d85f44cb2d8f5984515d4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22fb180652c24253e7ddf4445e266ab0') in 0.020271 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Keep_Pillar_03_Convex.asset
+  artifactKey: Guid(99c6a659d65598e4b943fc33abd04a77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Keep_Pillar_03_Convex.asset using Guid(99c6a659d65598e4b943fc33abd04a77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da7bfb3fd56a093f435976b8ecf187bd') in 0.013263 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Keep_Pillar_03.prefab
+  artifactKey: Guid(f5e2c5de12c427649a8d0f4edf171ed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Keep_Pillar_03.prefab using Guid(f5e2c5de12c427649a8d0f4edf171ed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db457000c22090793bf6be7deb19d4f4') in 0.017914 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Keep_Pillar_02_Convex.asset
+  artifactKey: Guid(3f1a95e1862fe2845be05b7ad200ee37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Keep_Pillar_02_Convex.asset using Guid(3f1a95e1862fe2845be05b7ad200ee37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61eda09f26f3df0194ec590ae09633db') in 0.012591 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Keep_Pillar_04_Convex.asset
+  artifactKey: Guid(52a4fc7d5c5b7ca4b86e811fbc9de8a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Keep_Pillar_04_Convex.asset using Guid(52a4fc7d5c5b7ca4b86e811fbc9de8a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aafc3df5471978b4c9707b899deca2ca') in 0.012996 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Keep_Pillar_Cap_01.fbx
+  artifactKey: Guid(bd7e881986a747a46abdf0580d372f3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Keep_Pillar_Cap_01.fbx using Guid(bd7e881986a747a46abdf0580d372f3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0eb9b08f95af803b916091633fc85706') in 0.012944 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Wall_Pillars_Half_Corner_S_02_Convex 1.asset
+  artifactKey: Guid(b80c64a381381f94e807f04926ab8194) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Wall_Pillars_Half_Corner_S_02_Convex 1.asset using Guid(b80c64a381381f94e807f04926ab8194) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54b725e0845be14bce035e3c0b813e98') in 0.037473 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Keep_Pillar_Cap_01_Convex.asset
+  artifactKey: Guid(1d1c5745182cc7d46ad0d1d441aeee56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Keep_Pillar_Cap_01_Convex.asset using Guid(1d1c5745182cc7d46ad0d1d441aeee56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '741ee59e12bcf61865d19e482c933da5') in 0.012198 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Keep_Pillar_04.prefab
+  artifactKey: Guid(49d2da42a5c6f3045be3d16b62c5e1bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Keep_Pillar_04.prefab using Guid(49d2da42a5c6f3045be3d16b62c5e1bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7959e36c9c1ae73536c0b5b59622b998') in 0.021958 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.434895 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Bld_Ruin_Pillar_01.fbx
+  artifactKey: Guid(751a0d63ae81fce4096697fefe970a2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Bld_Ruin_Pillar_01.fbx using Guid(751a0d63ae81fce4096697fefe970a2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d4c1e0007ebead92f0100de3f4cda7e') in 0.017128 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Bld_Ruin_Pillar_01_Convex.asset
+  artifactKey: Guid(f171fe015f8d89843978a39738db63e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Bld_Ruin_Pillar_01_Convex.asset using Guid(f171fe015f8d89843978a39738db63e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1a266ec495edb4321cd22b907696f89') in 0.020449 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.054331 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Bld_Ruin_Pillar_Broken_01.fbx
+  artifactKey: Guid(be86807a0ead97b4481f85c9bd1b58fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Bld_Ruin_Pillar_Broken_01.fbx using Guid(be86807a0ead97b4481f85c9bd1b58fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bffb0574290cbd596bf4f25b2a644440') in 0.019175 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Bld_Ruin_Pillar_Broken_01_Convex.asset
+  artifactKey: Guid(42a0e7f9428a4d848a47cf09ea332757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Bld_Ruin_Pillar_Broken_01_Convex.asset using Guid(42a0e7f9428a4d848a47cf09ea332757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd6da059e895bbc31044d9a6d76e4ca1') in 0.012960 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Bld_Ruin_Pillar_Broken_02.fbx
+  artifactKey: Guid(5e710dd7c9445e647be15b7bdb9cdf3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Bld_Ruin_Pillar_Broken_02.fbx using Guid(5e710dd7c9445e647be15b7bdb9cdf3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6d833b7c7e33ad7c99dec3edec9353d') in 0.026474 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.761802 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Bld_Ruin_Pillar_Broken_02_Convex.asset
+  artifactKey: Guid(e955d76cf8c483d4ebf8239389fa4cdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Bld_Ruin_Pillar_Broken_02_Convex.asset using Guid(e955d76cf8c483d4ebf8239389fa4cdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc723b6bffa2f6e0938b71b2b9b768c3') in 0.011749 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Bld_Ruin_Pillar_Broken_03.fbx
+  artifactKey: Guid(3a4dbed3a85ab284681b887ce519fcf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Bld_Ruin_Pillar_Broken_03.fbx using Guid(3a4dbed3a85ab284681b887ce519fcf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edf9b3750525bfb65a356034de437cfd') in 0.018315 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Bld_Ruin_Pillar_Round_01_Convex.asset
+  artifactKey: Guid(381a758413e1e064bb8e220073564e28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Bld_Ruin_Pillar_Round_01_Convex.asset using Guid(381a758413e1e064bb8e220073564e28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2afa089b357dc4bd186ea2fd5c60d1b') in 0.022133 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Bld_Ruin_Pillar_Round_01.fbx
+  artifactKey: Guid(0efb48ce97e6b6d409bd27e1589670f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Bld_Ruin_Pillar_Round_01.fbx using Guid(0efb48ce97e6b6d409bd27e1589670f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7742e9a8415b534742698ac60185f6e6') in 0.028167 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Lava_Duct_Pillar_01.fbx
+  artifactKey: Guid(b3237dd9850738740a3959e74078388c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Lava_Duct_Pillar_01.fbx using Guid(b3237dd9850738740a3959e74078388c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e667ae9b87b9f58d07563a6c12ba04b5') in 0.023479 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Lava_Duct_Pillar_02.fbx
+  artifactKey: Guid(2722bc4d953807741b84618ea6dd386b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Lava_Duct_Pillar_02.fbx using Guid(2722bc4d953807741b84618ea6dd386b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37744afd77d9f248bbb94c88a8a4463f') in 0.030728 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Lava_Duct_Pillar_01_Convex.asset
+  artifactKey: Guid(76c22d3561957a7489c71c0f22397be5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Lava_Duct_Pillar_01_Convex.asset using Guid(76c22d3561957a7489c71c0f22397be5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77790d42c7ff3f2604f7e69adef904c0') in 0.021046 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Walkway_Stone_Railing_Pillar_01.prefab
+  artifactKey: Guid(f8ddb4403e738c64c90bc3b9922f8b38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Walkway_Stone_Railing_Pillar_01.prefab using Guid(f8ddb4403e738c64c90bc3b9922f8b38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c3788b7412e3475c46a3844a4da7d19') in 0.050846 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Walkway_Stone_Railing_Pillar_01_Convex.asset
+  artifactKey: Guid(4421ef77ce91fbf4581f928768d01c8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Walkway_Stone_Railing_Pillar_01_Convex.asset using Guid(4421ef77ce91fbf4581f928768d01c8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59ed9918c670f49c769999ca9d7dd873') in 0.011704 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Bld_Ruin_Pillar_Round_01_Convex 1.asset
+  artifactKey: Guid(93c485dfc0862a24c8b3c187d687b652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Bld_Ruin_Pillar_Round_01_Convex 1.asset using Guid(93c485dfc0862a24c8b3c187d687b652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b10d485b046a0a9aa3c7e59479348f3') in 0.026955 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Bld_Ruin_Pillar_Broken_03_Convex.asset
+  artifactKey: Guid(3fc3235d0b3f88546bd61071dbcf7d35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Bld_Ruin_Pillar_Broken_03_Convex.asset using Guid(3fc3235d0b3f88546bd61071dbcf7d35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28927ad15efa6fe0764236e2b8c991c6') in 0.022020 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Walkway_Stone_Railing_Pillar_01.fbx
+  artifactKey: Guid(1d80b6a4bb7939745bf78b45ce377f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Walkway_Stone_Railing_Pillar_01.fbx using Guid(1d80b6a4bb7939745bf78b45ce377f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2215713368ca7ce9c6aba856be3c64a') in 0.024604 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Forge_01.fbx
+  artifactKey: Guid(3d2ee447ce45c4a4e9b9a20cb018600f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Forge_01.fbx using Guid(3d2ee447ce45c4a4e9b9a20cb018600f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '183339fbda013a9168b7367ca4a458df') in 0.042202 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.065749 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Lava_Duct_Pillar_02_Convex.asset
+  artifactKey: Guid(2d12358be4f78ec4e86c4831778642bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Lava_Duct_Pillar_02_Convex.asset using Guid(2d12358be4f78ec4e86c4831778642bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a99b03114b244343459015bc268dc420') in 0.010564 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_01.fbx
+  artifactKey: Guid(a1df011696dea364d9ca7b12176b22e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_01.fbx using Guid(a1df011696dea364d9ca7b12176b22e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58a14fb467ae00b19ab8535c0961e1df') in 0.015858 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_02_Convex.asset
+  artifactKey: Guid(76898d882424d764f80c409ded707b09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_02_Convex.asset using Guid(76898d882424d764f80c409ded707b09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ddfa402e6dbc649e4fb8dc3cbee891b') in 0.012844 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_02_Convex 1.asset
+  artifactKey: Guid(14e440fb81547864d86f176905bb274f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_02_Convex 1.asset using Guid(14e440fb81547864d86f176905bb274f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a4fff10c873992f5d87450383168831') in 0.021670 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_02.fbx
+  artifactKey: Guid(edb3a37e81ecf89439757d0af2a9c0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_02.fbx using Guid(edb3a37e81ecf89439757d0af2a9c0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'beac0cee3ed1bf627543c8f7585aec2c') in 0.016833 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_01_Convex 1.asset
+  artifactKey: Guid(806d063b480f871438630e61fa54d527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_01_Convex 1.asset using Guid(806d063b480f871438630e61fa54d527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a6553e40eaf4b219cd68cc00ccd8cdc') in 0.024230 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_01_Convex.asset
+  artifactKey: Guid(a684c48ed7ecee74d959f0d692fe539f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_01_Convex.asset using Guid(a684c48ed7ecee74d959f0d692fe539f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b1bd9f294dacc09e0147af5cc24fc82') in 0.013050 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_03.fbx
+  artifactKey: Guid(f8489bec6c3002e42b74479bf8b08702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_03.fbx using Guid(f8489bec6c3002e42b74479bf8b08702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2abe8065e5f15c06bd6fad2ebfcaa13c') in 0.017767 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.199746 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_03_Convex.asset
+  artifactKey: Guid(6ccff5229d6648341b70f64886812e72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_03_Convex.asset using Guid(6ccff5229d6648341b70f64886812e72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26544349cb71d6c7b633dab6082ca1a2') in 0.010768 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_04_Convex.asset
+  artifactKey: Guid(ddf76d113dcc70e4abce69dac1cf5c34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_04_Convex.asset using Guid(ddf76d113dcc70e4abce69dac1cf5c34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0eae7107a524f7dd038801642b5fefa') in 0.012408 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_05_Convex 1.asset
+  artifactKey: Guid(c6b15dea140260b4fb9f3cdb10426b59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_05_Convex 1.asset using Guid(c6b15dea140260b4fb9f3cdb10426b59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94fccfa09db22bac1fd6d86ad6aa3d30') in 0.012791 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_04_Convex 1.asset
+  artifactKey: Guid(ca96628f195bdc340bd8004f55451c48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_04_Convex 1.asset using Guid(ca96628f195bdc340bd8004f55451c48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37895beb7fd88471fd66ff262122f19a') in 0.013656 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_04.fbx
+  artifactKey: Guid(05364438a42d3e842acbd91c2723b39d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_04.fbx using Guid(05364438a42d3e842acbd91c2723b39d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fb7d1c47668fa44cdb0bbcdce532827') in 0.020465 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_05.fbx
+  artifactKey: Guid(0d269d6e421b78442b4b05fef7edbe65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_05.fbx using Guid(0d269d6e421b78442b4b05fef7edbe65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bec135c263bb094f438e25bf955abfc0') in 0.016531 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_06_Convex.asset
+  artifactKey: Guid(fafa70bf3c325e5408a1f2cedee92a6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_06_Convex.asset using Guid(fafa70bf3c325e5408a1f2cedee92a6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5e3d41932d3502c14b6b8fee5feb272') in 0.011252 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_08_Convex.asset
+  artifactKey: Guid(95ff389395938dd48afa3299ff62cc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_08_Convex.asset using Guid(95ff389395938dd48afa3299ff62cc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1e4b2b0d0e0a11a49e226977fc9197a') in 0.014221 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_06_Convex 1.asset
+  artifactKey: Guid(9e56d0d3309370f46b382c7d1e308cbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_06_Convex 1.asset using Guid(9e56d0d3309370f46b382c7d1e308cbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70e8c063c652b378968d49ff4afb7f35') in 0.024694 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_07.fbx
+  artifactKey: Guid(4e64b2013e1fc1048a0be4c55199864c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_07.fbx using Guid(4e64b2013e1fc1048a0be4c55199864c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f73809e5591db0dd1430356c2bb6d2b4') in 0.018189 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_07_Convex.asset
+  artifactKey: Guid(6e9c2f4b1eff8ad4f9d20a52461a5839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_07_Convex.asset using Guid(6e9c2f4b1eff8ad4f9d20a52461a5839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fea1d633b284e0cf6322edb0b677513') in 0.013680 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_08.fbx
+  artifactKey: Guid(1eac29f3b9419f042ada07dc6c24ae49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_08.fbx using Guid(1eac29f3b9419f042ada07dc6c24ae49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec2f9392a55d594ed493e6a765727d9a') in 0.016732 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_06.fbx
+  artifactKey: Guid(9bf3192b3bd90714c8cff0a541d6b3e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_06.fbx using Guid(9bf3192b3bd90714c8cff0a541d6b3e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2b597004c935e8351b856e703dbbf75') in 0.020973 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_05_Convex.asset
+  artifactKey: Guid(ecf1af682d54af94a8a599d8ab765dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_05_Convex.asset using Guid(ecf1af682d54af94a8a599d8ab765dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ecb9e937c4ac26f996d7af1f6637f6d') in 0.012577 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.379688 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Base_01.fbx
+  artifactKey: Guid(8b07b04478d1f664f8f3eecff751ea5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Base_01.fbx using Guid(8b07b04478d1f664f8f3eecff751ea5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '244a8f724c99c64ff2b0183c072402e7') in 0.014065 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Base_03_Convex.asset
+  artifactKey: Guid(dd8cee0e42eb31b488b4c44c4766b9db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Base_03_Convex.asset using Guid(dd8cee0e42eb31b488b4c44c4766b9db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d1d08072cc058727194bcae5a10ce90') in 0.013054 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Base_01_Convex.asset
+  artifactKey: Guid(c8faa1f104bd16a4cb09c37778975f79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Base_01_Convex.asset using Guid(c8faa1f104bd16a4cb09c37778975f79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8ef44d9337bd480061697f698a37cba') in 0.012706 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Base_03.fbx
+  artifactKey: Guid(dee6ce031419be341948b801c43b6fb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Base_03.fbx using Guid(dee6ce031419be341948b801c43b6fb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd885f3092fd8525a2708c29e8609e663') in 0.017547 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Base_02_Convex.asset
+  artifactKey: Guid(c513cefa30da31145bb338a6e32d0d35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Base_02_Convex.asset using Guid(c513cefa30da31145bb338a6e32d0d35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23eed69585389fd516a099e9d37aefab') in 0.013142 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Base_02.fbx
+  artifactKey: Guid(f91f2dbb340e3e0489b823868bcdd1e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Base_02.fbx using Guid(f91f2dbb340e3e0489b823868bcdd1e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c569fd3aa6989206fdc386268ef1d50') in 0.019081 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.009294 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Base_04.fbx
+  artifactKey: Guid(896c0ffcab3cb5443abbc052840c7e04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Base_04.fbx using Guid(896c0ffcab3cb5443abbc052840c7e04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaf2da96e691a14fb5152ed567ac8455') in 0.015216 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Base_05_Convex.asset
+  artifactKey: Guid(907d1f60527092b4a8dce8a0a24a523e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Base_05_Convex.asset using Guid(907d1f60527092b4a8dce8a0a24a523e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee686ccfc9a373668f029bae84bddb4b') in 0.013783 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Cap_01.fbx
+  artifactKey: Guid(515902ff0e88acc49b5b16a6de6e57dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Cap_01.fbx using Guid(515902ff0e88acc49b5b16a6de6e57dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5893b65754bc2573239069a4973736fa') in 0.020565 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Base_05.fbx
+  artifactKey: Guid(5ff68a5ad8d14d54eb48c8de50b23839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Base_05.fbx using Guid(5ff68a5ad8d14d54eb48c8de50b23839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5311b16ecef4265aae05009ecf5c061b') in 0.018086 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Cap_02.fbx
+  artifactKey: Guid(3369dd8755602ea418dcaa7130b1bbcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Cap_02.fbx using Guid(3369dd8755602ea418dcaa7130b1bbcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3fc2f59d6ad35cd827c2b568307b5b3') in 0.018480 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Cap_01_Convex.asset
+  artifactKey: Guid(10a871ee0befcb540a19a906adf4c25f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Cap_01_Convex.asset using Guid(10a871ee0befcb540a19a906adf4c25f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '454a932dbbb55dbbee59d1c521a32dd4') in 0.013325 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Base_04_Convex.asset
+  artifactKey: Guid(7250bbc9e042f5e4aa92d0990ebe8114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Base_04_Convex.asset using Guid(7250bbc9e042f5e4aa92d0990ebe8114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39620f669a74e0cea4f2db8ca13d1af0') in 0.014818 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.830268 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Cap_02_Convex.asset
+  artifactKey: Guid(0a9b757039b9f644fb40948b95d044fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Cap_02_Convex.asset using Guid(0a9b757039b9f644fb40948b95d044fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61fe44d62789d4ddba874133234f9bcc') in 0.011172 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Half_01_Convex.asset
+  artifactKey: Guid(1289bcb198de0fa448febf7fcc1d9161) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Half_01_Convex.asset using Guid(1289bcb198de0fa448febf7fcc1d9161) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0c16ca31bece3fdc37c570b85e680bc') in 0.011970 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Half_02_Convex.asset
+  artifactKey: Guid(4d05527f655750c4ba4b46617f37fb19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Half_02_Convex.asset using Guid(4d05527f655750c4ba4b46617f37fb19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '318c57622ffcc860d12ed3aaa00a03d8') in 0.014346 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Half_02_Convex 1.asset
+  artifactKey: Guid(82f5fef6d39e52943b67debe35359d09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Half_02_Convex 1.asset using Guid(82f5fef6d39e52943b67debe35359d09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72406c0a2bef1c5e7c32c0851e5cf1f0') in 0.023772 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Half_02.fbx
+  artifactKey: Guid(41b53dbf06f1a924eb1f666f5ac610dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Half_02.fbx using Guid(41b53dbf06f1a924eb1f666f5ac610dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a8705f73100d9d2be810262509fc474') in 0.018707 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Half_01_Convex 1.asset
+  artifactKey: Guid(f32da7914ff80944fa2a590da18ce5d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Half_01_Convex 1.asset using Guid(f32da7914ff80944fa2a590da18ce5d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5c9d3a112269c8b0d1647216c975a8e') in 0.026762 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Half_01.fbx
+  artifactKey: Guid(34535cf09e9e4bc43b9aa03d31914397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Half_01.fbx using Guid(34535cf09e9e4bc43b9aa03d31914397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c858dcf2909d8ea7c5242ea438a16d8') in 0.018442 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.319103 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Half_03.fbx
+  artifactKey: Guid(022db9d4a7c83a8408353df835c5cefa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Half_03.fbx using Guid(022db9d4a7c83a8408353df835c5cefa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46fe4844ff4ffabf4ef0190c53496bd6') in 0.016590 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Half_04.fbx
+  artifactKey: Guid(0017d0338a7bb3741b89d2493d11f55c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Half_04.fbx using Guid(0017d0338a7bb3741b89d2493d11f55c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0ec4ad40f3cf3e8bd0c83a8d6734c90') in 0.019506 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Half_04_Convex.asset
+  artifactKey: Guid(6eaa4e4906f16ed4c8bd64b31af1bb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Half_04_Convex.asset using Guid(6eaa4e4906f16ed4c8bd64b31af1bb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0196365444784d70d66d19a3fa90dac') in 0.020741 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Top_01.fbx
+  artifactKey: Guid(e4b4f2960cc46e44ea1b956a6ac3bbb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Top_01.fbx using Guid(e4b4f2960cc46e44ea1b956a6ac3bbb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8db287d427c571f9e3d21ae3af668d9') in 0.015755 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Top_02_Extension_Convex.asset
+  artifactKey: Guid(8bd0af702ba0a9b449749815c399d5aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Top_02_Extension_Convex.asset using Guid(8bd0af702ba0a9b449749815c399d5aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd35a2615646f45a411f3cc4aacefcea') in 0.017323 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Half_05_Convex.asset
+  artifactKey: Guid(d44a76f9c6f21c94cbc0e4b33d409061) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Half_05_Convex.asset using Guid(d44a76f9c6f21c94cbc0e4b33d409061) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd910ea00761008ca06ee2a5e36b8818e') in 0.017425 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Half_03_Convex.asset
+  artifactKey: Guid(c3668d243694d7446aafb8276025fa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Half_03_Convex.asset using Guid(c3668d243694d7446aafb8276025fa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a6104058838a5ce7a251a52c4759192') in 0.015150 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Top_03.fbx
+  artifactKey: Guid(ea10ddd7f34b04148b9c9251623cf570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Top_03.fbx using Guid(ea10ddd7f34b04148b9c9251623cf570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a99d2adf6c88c582a6f75dc35dd38cec') in 0.018556 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Top_02_Convex.asset
+  artifactKey: Guid(777352ea7a8e9a24d84077e0f1d80b97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Top_02_Convex.asset using Guid(777352ea7a8e9a24d84077e0f1d80b97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61feaeffaa01a0406f7db318574bf457') in 0.013517 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Top_01_Convex.asset
+  artifactKey: Guid(ac60a90e643d8f04092e3ff0eef4951f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Top_01_Convex.asset using Guid(ac60a90e643d8f04092e3ff0eef4951f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2d425735810b3c2e03b224023f01a26') in 0.023092 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Top_02_Extension.fbx
+  artifactKey: Guid(a6c6151ae430b4746917248f3a8d7fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Top_02_Extension.fbx using Guid(a6c6151ae430b4746917248f3a8d7fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2d1db2a15d3f016c9692c45061464a0') in 0.028848 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000455 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Half_05.fbx
+  artifactKey: Guid(6eb6d8d2e45a1654883e2950a5aaccd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Half_05.fbx using Guid(6eb6d8d2e45a1654883e2950a5aaccd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00bd9da2e97fee904d818002b669f4e5') in 0.029669 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Top_02.fbx
+  artifactKey: Guid(dc523575f145f0c49a910dced40be26b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Top_02.fbx using Guid(dc523575f145f0c49a910dced40be26b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d185497c5cdf07127f9d71c81ac02c7') in 0.026999 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Half_05_Convex 1.asset
+  artifactKey: Guid(621fcbdb19df40d4ab15fe9ef97938e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Half_05_Convex 1.asset using Guid(621fcbdb19df40d4ab15fe9ef97938e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33bc81aac39b2ce7cde5d9953acd09ff') in 0.026969 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.171052 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Top_03_Convex.asset
+  artifactKey: Guid(b5acf3e8ba71bd5408c3b85aca7c7db2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Pillar_Top_03_Convex.asset using Guid(b5acf3e8ba71bd5408c3b85aca7c7db2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3253343ae72556da9984941eeed5d172') in 0.012411 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Stairs_Pillar_02.fbx
+  artifactKey: Guid(97ab655ddf351d744993b7a73c5aecd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Stairs_Pillar_02.fbx using Guid(97ab655ddf351d744993b7a73c5aecd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1cf4ddd02f54191219e3386080e4300') in 0.022242 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Stairs_Pillar_01.fbx
+  artifactKey: Guid(0724847f8c6a33c44a7661e821685d3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Stairs_Pillar_01.fbx using Guid(0724847f8c6a33c44a7661e821685d3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28543e70bf50d897996bd096588c7c62') in 0.024095 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Stairs_Pillar_02_Convex.asset
+  artifactKey: Guid(c535588775256454eaf6645d7fae0626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Stairs_Pillar_02_Convex.asset using Guid(c535588775256454eaf6645d7fae0626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea19e4cd8bc5259faed291649abfebb0') in 0.017601 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Stairs_Pillar_01_Convex.asset
+  artifactKey: Guid(94da53d150e130c43a3fb8493ed25141) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Stairs_Pillar_01_Convex.asset using Guid(94da53d150e130c43a3fb8493ed25141) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66fb5aa076ab99b4550cd8c0ce6c05bf') in 0.019259 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Stairs_Pillar_03.fbx
+  artifactKey: Guid(7aa84952a29bf9d4588f701531ed8cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Stairs_Pillar_03.fbx using Guid(7aa84952a29bf9d4588f701531ed8cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd06c46301c05732c5ad941adff72ce7c') in 0.023520 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.433020 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Stairs_Pillar_03_Convex.asset
+  artifactKey: Guid(206b5f91b6bcd264e8456fee7f2dacad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Stairs_Pillar_03_Convex.asset using Guid(206b5f91b6bcd264e8456fee7f2dacad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12b2c13efa30b216bac2ce2acd454f58') in 0.011979 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Wall_Angled_Pillar_01.fbx
+  artifactKey: Guid(7f912bec68330004eb8af0cc1e6036b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Wall_Angled_Pillar_01.fbx using Guid(7f912bec68330004eb8af0cc1e6036b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0450dab84d7421486f817913153c2c94') in 0.017021 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Stairs_Pillar_04.fbx
+  artifactKey: Guid(95df980b60aee9a42b90ee12c51cffe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Stairs_Pillar_04.fbx using Guid(95df980b60aee9a42b90ee12c51cffe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2799813706d672cbd8f5fef07d2aa82') in 0.022012 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Pillar_01.fbx
+  artifactKey: Guid(2ebf8a93c270066468611a78ff97d021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Pillar_01.fbx using Guid(2ebf8a93c270066468611a78ff97d021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f897b70f66adbe92673b05abcb9a7d0') in 0.012859 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Pillar_02_Convex 1.asset
+  artifactKey: Guid(909cbfbc9cdb26c498fc151221038f6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Pillar_02_Convex 1.asset using Guid(909cbfbc9cdb26c498fc151221038f6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d5e5f63ed1d48bb7c5709229eb0f5fd') in 0.021832 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Pillar_01_Convex.asset
+  artifactKey: Guid(e7ff63bbc88358a4081632f1a9773874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Pillar_01_Convex.asset using Guid(e7ff63bbc88358a4081632f1a9773874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa9e5c354715c1aac64a0f0558fec88e') in 0.013280 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Pillar_02_Convex 3.asset
+  artifactKey: Guid(0549fbba719caf6439f26ea9872a3ad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Pillar_02_Convex 3.asset using Guid(0549fbba719caf6439f26ea9872a3ad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9da030fe61a45e8aedfefc1449c8f39b') in 0.025582 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Prefabs/Environments/SM_Env_Hell_Pillar_01.prefab
+  artifactKey: Guid(41cb659555c7a9c4bb0482150158796e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Prefabs/Environments/SM_Env_Hell_Pillar_01.prefab using Guid(41cb659555c7a9c4bb0482150158796e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b052fdb9a6873e0d4ade26ccf446b6f5') in 0.080620 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Wall_Angled_Pillar_01_Convex.asset
+  artifactKey: Guid(970755be11ffe1f4c96b675750803dad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Wall_Angled_Pillar_01_Convex.asset using Guid(970755be11ffe1f4c96b675750803dad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3773e51fd8cb871cd20f9df12cb74248') in 0.011593 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Pillar_02.fbx
+  artifactKey: Guid(4f734d87c128c7040aef631ae71fcec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Pillar_02.fbx using Guid(4f734d87c128c7040aef631ae71fcec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e2cec6160ee573879601370ee23d0dd') in 0.018989 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Pillar_03.fbx
+  artifactKey: Guid(638661b7355608c42a951ee4b2836a43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Pillar_03.fbx using Guid(638661b7355608c42a951ee4b2836a43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f87f6fbaed1d1c733332becec09c5918') in 0.017043 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Stairs_Pillar_04_Convex.asset
+  artifactKey: Guid(74c91faaf3f42ed4aba671f88101e846) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Stairs_Pillar_04_Convex.asset using Guid(74c91faaf3f42ed4aba671f88101e846) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dc5072f38743bf842d2610863cc31fd') in 0.012126 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Wall_Angled_Pillar_02.fbx
+  artifactKey: Guid(75c3a4c24f7366040822613006cd9714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Wall_Angled_Pillar_02.fbx using Guid(75c3a4c24f7366040822613006cd9714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e191ddfbb8b90e085b05be06d172bd2') in 0.017480 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Prefabs/Environments/SM_Env_Hell_Pillar_02.prefab
+  artifactKey: Guid(bbe446cd94311574c884242fecaf9883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Prefabs/Environments/SM_Env_Hell_Pillar_02.prefab using Guid(bbe446cd94311574c884242fecaf9883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7de938d8eaf25bc2a1002bf55e28ff38') in 0.048436 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Pillar_02_Convex 2.asset
+  artifactKey: Guid(eaab184308974c4458ab98b6b4b0838e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Pillar_02_Convex 2.asset using Guid(eaab184308974c4458ab98b6b4b0838e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c3e88d964008fb1f457ccc2ac90f5a6') in 0.020301 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Wall_Angled_Pillar_02_Convex.asset
+  artifactKey: Guid(13eb73d03552ff14d96f6f26ebdaff4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Dwarf_Wall_Angled_Pillar_02_Convex.asset using Guid(13eb73d03552ff14d96f6f26ebdaff4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f65cd27a297e1f17b6afd6f27bd9cb91') in 0.012926 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Pillar_02_Convex.asset
+  artifactKey: Guid(44a3a0e764e21044a8383189b35f1983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Pillar_02_Convex.asset using Guid(44a3a0e764e21044a8383189b35f1983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5152ec0cfec68cba2ec0b648aeab07f0') in 0.013599 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.095873 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Prefabs/Environments/SM_Env_Hell_Pillar_03.prefab
+  artifactKey: Guid(8ff94f8665d36b6419b9c053865dd1c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Prefabs/Environments/SM_Env_Hell_Pillar_03.prefab using Guid(8ff94f8665d36b6419b9c053865dd1c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0df47382c04cac720238d886ef424803') in 0.043414 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Pillar_04.fbx
+  artifactKey: Guid(64735cc1af5e41c4fb28ee028d74da20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Pillar_04.fbx using Guid(64735cc1af5e41c4fb28ee028d74da20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74e4695b152e3a4f3e23e317998cb46f') in 0.017236 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Pillar_03_Convex.asset
+  artifactKey: Guid(89a1161f2fc38014489ae6ccc1a90771) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Pillar_03_Convex.asset using Guid(89a1161f2fc38014489ae6ccc1a90771) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62132c8694ec196bb86f509ac7e798ed') in 0.012263 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Pillar_04_Convex 1.asset
+  artifactKey: Guid(38775dd443a4e67498fe532bfcd0dfac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Pillar_04_Convex 1.asset using Guid(38775dd443a4e67498fe532bfcd0dfac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '084e303cd01264942041e16d8af841a0') in 0.017323 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Rock_Cliff_Arch_PIllar_01.fbx
+  artifactKey: Guid(075a0c340182cc74ca616511caed7934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Rock_Cliff_Arch_PIllar_01.fbx using Guid(075a0c340182cc74ca616511caed7934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7db132edffa2314bebfc6332ff027983') in 0.013853 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Prefabs/Environments/SM_Env_Rubble_Pillar_02.prefab
+  artifactKey: Guid(b4ed5cd6767edf94daf3c7bd23457fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Prefabs/Environments/SM_Env_Rubble_Pillar_02.prefab using Guid(b4ed5cd6767edf94daf3c7bd23457fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7450b5e609590073a585475c0c9e2dc0') in 0.051027 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Rubble_Pillar_02.fbx
+  artifactKey: Guid(0332ecec2e4c63147aaa7975bd626867) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Rubble_Pillar_02.fbx using Guid(0332ecec2e4c63147aaa7975bd626867) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4602899e8b7a51d19120ed716408822a') in 0.014527 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Env_StoneWall_Pillar_01.fbx
+  artifactKey: Guid(dc5cc595c71531c469d8d30290f2d8ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Env_StoneWall_Pillar_01.fbx using Guid(dc5cc595c71531c469d8d30290f2d8ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '934795a380a1a071e728b98a44baa595') in 0.016713 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Assets/HandpaintedEnvironmentVol1/Meshes/Import/Props/SM_Unity_Fence_03.fbx
+  artifactKey: Guid(203b2b8f3a2ab7a4589ca5e13eecd9f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/HandpaintedEnvironmentVol1/Meshes/Import/Props/SM_Unity_Fence_03.fbx using Guid(203b2b8f3a2ab7a4589ca5e13eecd9f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5bd08d45087d0a3b73119718d6107c1') in 0.038206 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Rubble_Pillar_01_Convex 1.asset
+  artifactKey: Guid(cb4627ff41bea8c4e9021fba6d991b2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Rubble_Pillar_01_Convex 1.asset using Guid(cb4627ff41bea8c4e9021fba6d991b2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0142abc826c59c2914aa90ceec1bc1ff') in 0.017734 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Rock_Cliff_Arch_PIllar_01_Convex.asset
+  artifactKey: Guid(3a0f7e17caffaa14e827ec3dd665b691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Rock_Cliff_Arch_PIllar_01_Convex.asset using Guid(3a0f7e17caffaa14e827ec3dd665b691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12370b0934bfb1fc3dcf66f7514ad3b1') in 0.013150 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Rubble_Pillar_01_Convex.asset
+  artifactKey: Guid(f80a3a11fb90fb242acba65115cfb784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Rubble_Pillar_01_Convex.asset using Guid(f80a3a11fb90fb242acba65115cfb784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcb649faabc3753c53e1f81c8579ecb4') in 0.014286 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000420 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Prefabs/Environments/SM_Env_Rubble_Pillar_01.prefab
+  artifactKey: Guid(018e2677fb8219146bb22974c416a799) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Prefabs/Environments/SM_Env_Rubble_Pillar_01.prefab using Guid(018e2677fb8219146bb22974c416a799) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2b9930faee82084e207cc027b1a3ae4') in 0.058041 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Rubble_Pillar_01.fbx
+  artifactKey: Guid(60bea9ded04ae37458fc025d6802382f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Rubble_Pillar_01.fbx using Guid(60bea9ded04ae37458fc025d6802382f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12d26654c64fe294b453fff9727bec52') in 0.014860 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Rubble_Pillar_02_Convex 1.asset
+  artifactKey: Guid(4af1c571e4bc5d94bab4d73d0682dfb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Rubble_Pillar_02_Convex 1.asset using Guid(4af1c571e4bc5d94bab4d73d0682dfb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30ef973a60a47941fe29757d3e1ca497') in 0.017963 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Pillar_04_Convex.asset
+  artifactKey: Guid(f388d6ba0688fab468d9e25e6aa04deb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Pillar_04_Convex.asset using Guid(f388d6ba0688fab468d9e25e6aa04deb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d360104f9c7dcd3c2be9e42cb6d9474') in 0.013154 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Prefabs/Environments/SM_Env_Rock_Cliff_Arch_PIllar_01.prefab
+  artifactKey: Guid(b0a1de24d52f9424f903aa66017cdd57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Prefabs/Environments/SM_Env_Rock_Cliff_Arch_PIllar_01.prefab using Guid(b0a1de24d52f9424f903aa66017cdd57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a25af26ed3d0cf108d2958c83da1b8e6') in 0.057560 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Prefabs/Environments/SM_Env_Hell_Pillar_04.prefab
+  artifactKey: Guid(35d750eec5540924192715311b65ea5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Prefabs/Environments/SM_Env_Hell_Pillar_04.prefab using Guid(35d750eec5540924192715311b65ea5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a2f1fd9de48bba3ea9b910d7802884b') in 0.052785 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Rubble_Pillar_02_Convex.asset
+  artifactKey: Guid(7c55c21b1c5ec154b8d8107995513696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Rubble_Pillar_02_Convex.asset using Guid(7c55c21b1c5ec154b8d8107995513696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1f78676697f8cb0b82f34b72bfd5a16') in 0.010359 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.047325 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Pillar_01.fbx
+  artifactKey: Guid(235804f65b558024fb06f05f88370e89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Pillar_01.fbx using Guid(235804f65b558024fb06f05f88370e89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5220a3e190c9a87f1515b01966bb4588') in 0.014824 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Pillar_02.fbx
+  artifactKey: Guid(0c7caf56d331b504db96f1c82350f11e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Pillar_02.fbx using Guid(0c7caf56d331b504db96f1c82350f11e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41057c436ce055d44ef23a260dd5f04e') in 0.020009 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Pillar_01_Convex.asset
+  artifactKey: Guid(8d1aa88405d365c4baa21bac5e7f303f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Pillar_01_Convex.asset using Guid(8d1aa88405d365c4baa21bac5e7f303f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae800a7ee8278635bb5cd5808b61ebe0') in 0.013434 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Pillar_02_Convex.asset
+  artifactKey: Guid(b3d89b92b17acf64199e0cab10dc43ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Pillar_02_Convex.asset using Guid(b3d89b92b17acf64199e0cab10dc43ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d5acdc2d4cc9f4db60724586ecbcb4b') in 0.018122 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Pillar_03_Convex.asset
+  artifactKey: Guid(be1ce46051266f349806e204aa5cd6fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Pillar_03_Convex.asset using Guid(be1ce46051266f349806e204aa5cd6fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca855211d95482fa46235266fa9345da') in 0.017014 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Pillar_03.fbx
+  artifactKey: Guid(379d0439fcf225446a785bf761d90d93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Pillar_03.fbx using Guid(379d0439fcf225446a785bf761d90d93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd86ade0bd82b39b7524db6e0891bcd7') in 0.017472 seconds 

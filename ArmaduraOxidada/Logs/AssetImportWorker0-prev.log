@@ -1,0 +1,713 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.30f1 (1fb1bf06830e) revision 2077119'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19041) 64bit Professional' Language: 'es' Physical Memory: 16215 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.30f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/alfa armadura oxidada/ArmaduraOxidada - copia/ArmaduraOxidada
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63725
+Successfully changed project path to: C:/alfa armadura oxidada/ArmaduraOxidada - copia/ArmaduraOxidada
+C:/alfa armadura oxidada/ArmaduraOxidada - copia/ArmaduraOxidada
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 118.66 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.30f1 (1fb1bf06830e)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/alfa armadura oxidada/ArmaduraOxidada - copia/ArmaduraOxidada/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f15)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   30.0.15.1179
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56444
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001774 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 125.87 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.625 seconds
+Domain Reload Profiling:
+	ReloadAssembly (625ms)
+		BeginReloadAssembly (55ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (508ms)
+			LoadAssemblies (53ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (143ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (25ms)
+			SetupLoadedEditorAssemblies (244ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (126ms)
+				BeforeProcessingInitializeOnLoad (15ms)
+				ProcessInitializeOnLoadAttributes (73ms)
+				ProcessInitializeOnLoadMethodAttributes (25ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004028 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.33 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.872 seconds
+Domain Reload Profiling:
+	ReloadAssembly (873ms)
+		BeginReloadAssembly (132ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (15ms)
+		EndReloadAssembly (689ms)
+			LoadAssemblies (84ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (237ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (256ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (68ms)
+				ProcessInitializeOnLoadAttributes (167ms)
+				ProcessInitializeOnLoadMethodAttributes (9ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 1.36 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1685 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 103.5 MB.
+System memory in use after: 103.6 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2135.
+Total: 2.229000 ms (FindLiveObjects: 0.117200 ms CreateObjectMapping: 0.057400 ms MarkObjects: 1.954600 ms  DeleteObjects: 0.099200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Soldier_Male_01.prefab
+  artifactKey: Guid(767b276e5b6e4b14bbcd51b5a6e78ca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Soldier_Male_01.prefab using Guid(767b276e5b6e4b14bbcd51b5a6e78ca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e5db94dacfe5040d1bf79850cab7299') in 0.186047 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Jester_01.prefab
+  artifactKey: Guid(24e2f7a008fde164698a13a05b6918f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Jester_01.prefab using Guid(24e2f7a008fde164698a13a05b6918f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '252b5256cea2644ab6f0d478a98d590f') in 0.061319 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Peasant_Male_01.prefab
+  artifactKey: Guid(b3a21033f5e25ef47a403070d1d96983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Peasant_Male_01.prefab using Guid(b3a21033f5e25ef47a403070d1d96983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fec7c4cd4951b0b3f3e69c5fb6455c4c') in 0.044705 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Princess_01.prefab
+  artifactKey: Guid(119427e8efe54b54ea5b98536358014a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Princess_01.prefab using Guid(119427e8efe54b54ea5b98536358014a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90756ba1609944838e52607cfd8d6a63') in 0.050420 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Monk_01.prefab
+  artifactKey: Guid(989e70245d7d4924d8758338bd26804a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Monk_01.prefab using Guid(989e70245d7d4924d8758338bd26804a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d228dbac09aae580f46b65d03a59ed2') in 0.045628 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Mage_01.prefab
+  artifactKey: Guid(e0331453113676149a9c0b2bc03e60de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Mage_01.prefab using Guid(e0331453113676149a9c0b2bc03e60de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94296b4366c6e12c937bafc37b63fa2e') in 0.052504 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Headsman_01.prefab
+  artifactKey: Guid(dc6170fded71bf944b115160ab2cae64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Headsman_01.prefab using Guid(dc6170fded71bf944b115160ab2cae64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd928d5c60516e9a6197b2aa28896e6ec') in 0.045081 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Queen_01.prefab
+  artifactKey: Guid(4585a66dfd7209046a39ab9c63600129) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Queen_01.prefab using Guid(4585a66dfd7209046a39ab9c63600129) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '344e72c5328c642ef706c12a7d6e75c3') in 0.050001 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Rider_01.prefab
+  artifactKey: Guid(e11051163540ebf4884417f50c226d1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Rider_01.prefab using Guid(e11051163540ebf4884417f50c226d1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a92478287a859b7838d1a9c2898e5e58') in 0.046363 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters
+  artifactKey: Guid(261c87575100d8a419e8a2a56681257c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters using Guid(261c87575100d8a419e8a2a56681257c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '821849d18adfbacb1303b80b717e548e') in 0.005409 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Priest_01.prefab
+  artifactKey: Guid(f30534c3df593c848ab209d140941eb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Priest_01.prefab using Guid(f30534c3df593c848ab209d140941eb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a165efe6a857b76ef5bbff27b0517ba2') in 0.051520 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Nun_01.prefab
+  artifactKey: Guid(2154df2b1029fce44a5ed87edcaa0546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Nun_01.prefab using Guid(2154df2b1029fce44a5ed87edcaa0546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33b91e44e56b1040495a91c828139148') in 0.046522 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Blacksmith_Female_01.prefab
+  artifactKey: Guid(a129c7755e4c7d843b98bfa2af4b3fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Blacksmith_Female_01.prefab using Guid(a129c7755e4c7d843b98bfa2af4b3fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52794b05b7c88d8d76ccbba2ee329a90') in 0.052656 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_King_01.prefab
+  artifactKey: Guid(78bc42a4ceca0424ca04f3b7e68989ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_King_01.prefab using Guid(78bc42a4ceca0424ca04f3b7e68989ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3559c46fbf7b1387997987aae64fa72a') in 0.049680 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Peasant_Female_01.prefab
+  artifactKey: Guid(8d458e1bc503f3b4d89e72e841681909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Peasant_Female_01.prefab using Guid(8d458e1bc503f3b4d89e72e841681909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8077ab9cb421bde9cb213ed1ccd99546') in 0.044925 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Merchant_01.prefab
+  artifactKey: Guid(4f671f96ada2b43438b517dbc501e523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Merchant_01.prefab using Guid(4f671f96ada2b43438b517dbc501e523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '311343ffe25a7f6651fdd173e53b595b') in 0.047243 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_FortuneTeller_01.prefab
+  artifactKey: Guid(8549abe3859269745a95380e270df83e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_FortuneTeller_01.prefab using Guid(8549abe3859269745a95380e270df83e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fc407ecfaa1d0b33cd2845ccd8c6b04') in 0.045145 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Prince_01.prefab
+  artifactKey: Guid(a8884fa09da891440a328b0212cd9ad4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Prince_01.prefab using Guid(a8884fa09da891440a328b0212cd9ad4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c747d738c597099beecb54ad4ec600f0') in 0.044751 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Soldier_Female_01.prefab
+  artifactKey: Guid(128d74125a472834991824f3f72198b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Soldier_Female_01.prefab using Guid(128d74125a472834991824f3f72198b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed986adaa6b258770b74ca7986610058') in 0.044245 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Blacksmith_Male_01.prefab
+  artifactKey: Guid(f9d0bec09311bef48aa1fb044570e5de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Blacksmith_Male_01.prefab using Guid(f9d0bec09311bef48aa1fb044570e5de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9351f130378bccc34d4ae1d1717494db') in 0.046291 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Fairy_01.prefab
+  artifactKey: Guid(978a5cdcbd88a2b46903dec8fab90da9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Fairy_01.prefab using Guid(978a5cdcbd88a2b46903dec8fab90da9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1546e5bfde1a67f54d6f8d23ef80e5cb') in 0.046392 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Bartender_01.prefab
+  artifactKey: Guid(624582b3b65da9a45bc1d204b8a69122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Bartender_01.prefab using Guid(624582b3b65da9a45bc1d204b8a69122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ce924e97724fecc570ce53a82d1a498') in 0.041977 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Hermit_01.prefab
+  artifactKey: Guid(d5a148a3575c47145a45da3ec571473c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Characters/SM_Chr_Hermit_01.prefab using Guid(d5a148a3575c47145a45da3ec571473c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a13b1c7981f847111c47773bd975f84c') in 0.040866 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 75.188884 seconds.
+  path: Assets/Assets/PolygonPrototype/Models/Materials/Character.mat
+  artifactKey: Guid(a260213968ed1494cbac8b5161dcb39c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Models/Materials/Character.mat using Guid(a260213968ed1494cbac8b5161dcb39c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ef657a52e6c2ceded449de87dead525') in 0.045855 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Character_FPS_Hands/Standard/Character_FPS_Arms_Standard_01.prefab
+  artifactKey: Guid(63b914be36748c74ba47c08297bea915) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Character_FPS_Hands/Standard/Character_FPS_Arms_Standard_01.prefab using Guid(63b914be36748c74ba47c08297bea915) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '484b89366dfdd7eba994ef73a6775248') in 0.031500 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Character_FPS_Hands/Standard/Character_FPS_Arms_Standard_03.prefab
+  artifactKey: Guid(664956de28ada604d8109484559e4751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Character_FPS_Hands/Standard/Character_FPS_Arms_Standard_03.prefab using Guid(664956de28ada604d8109484559e4751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e46ad3cc6ebc932a4090bdd0d9b7b57c') in 0.018624 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Character_FPS_Hands/FiveFinger/Character_FPS_Hands_FiveFinger_01.prefab
+  artifactKey: Guid(cffb3216c7854ab418a0045b21440088) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Character_FPS_Hands/FiveFinger/Character_FPS_Hands_FiveFinger_01.prefab using Guid(cffb3216c7854ab418a0045b21440088) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e5eb05f86d3fba1f17ec4ada8b162de') in 0.024339 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Character_FPS_Hands/FiveFinger/Character_FPS_Arms_FiveFinger_03.prefab
+  artifactKey: Guid(fd5e831e3540bb449acb00ec35e888ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Character_FPS_Hands/FiveFinger/Character_FPS_Arms_FiveFinger_03.prefab using Guid(fd5e831e3540bb449acb00ec35e888ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ca11c2c400f96d2993a46d9646b1bd7') in 0.016711 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Character_FPS_Hands/Standard/Character_FPS_Hands_Standard_01.prefab
+  artifactKey: Guid(f68be8d3fbd733544b5bc54f8afe8b72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Character_FPS_Hands/Standard/Character_FPS_Hands_Standard_01.prefab using Guid(f68be8d3fbd733544b5bc54f8afe8b72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '226865300ebd4c1bbc1ded0fd4101ff0') in 0.016955 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Assets/PolygonPrototype/Models/Character_FPSHands_02.fbx
+  artifactKey: Guid(dacb33b4a6c2e3e4486be79c593a23e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Models/Character_FPSHands_02.fbx using Guid(dacb33b4a6c2e3e4486be79c593a23e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd8763802ace4c24d85508b54b8501c4') in 0.109949 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Characters/Character_Dummy_Male_01.prefab
+  artifactKey: Guid(2f3e27eecb190e44a9af50723c394274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Characters/Character_Dummy_Male_01.prefab using Guid(2f3e27eecb190e44a9af50723c394274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ede1091db17c5c26eb67fb89c94cabe') in 0.033689 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Character_FPS_Hands/FiveFinger/Character_FPS_Arms_FiveFinger_01.prefab
+  artifactKey: Guid(cf8e268b32ddbee488f1327f1fd8c5d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Character_FPS_Hands/FiveFinger/Character_FPS_Arms_FiveFinger_01.prefab using Guid(cf8e268b32ddbee488f1327f1fd8c5d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73c4c609099afd41ed2907885682be3e') in 0.016014 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Characters/Character_Female_Face_01.prefab
+  artifactKey: Guid(538090c735358e94db8b3f02fda66106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Characters/Character_Female_Face_01.prefab using Guid(538090c735358e94db8b3f02fda66106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95683719739fbbbe2a4c0b083bebb60a') in 0.026136 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Characters/Character_Female_NoFace_01.prefab
+  artifactKey: Guid(722ecf17232566e4a81b862e2ca44aa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Characters/Character_Female_NoFace_01.prefab using Guid(722ecf17232566e4a81b862e2ca44aa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58a853816a8c73159067b4018ff00e0f') in 0.017685 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/Assets/PolygonPrototype/Models/Characters.fbx
+  artifactKey: Guid(b5f71c859f9f9bf41badda8a4650082c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Models/Characters.fbx using Guid(b5f71c859f9f9bf41badda8a4650082c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02275bbd7a6266ba5ba3f1bdfe6a9920') in 0.063016 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Characters/Character_Male_Face_01.prefab
+  artifactKey: Guid(194f8fbf67729fd40936b3465af2cc47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Characters/Character_Male_Face_01.prefab using Guid(194f8fbf67729fd40936b3465af2cc47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13f9abf41ac27ba95b0170d79beb0183') in 0.028042 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Assets/PolygonPrototype/Models/Character_FPSHands_01.fbx
+  artifactKey: Guid(3c34d2567f522774bb262a3cfdbc15ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Models/Character_FPSHands_01.fbx using Guid(3c34d2567f522774bb262a3cfdbc15ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '049bab87d30be178812a17163cbeb136') in 0.062964 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Character_FPS_Hands/Standard/Character_FPS_Arms_Standard_02.prefab
+  artifactKey: Guid(dbf18624c8b697a48bf91f3016035764) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Character_FPS_Hands/Standard/Character_FPS_Arms_Standard_02.prefab using Guid(dbf18624c8b697a48bf91f3016035764) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd01c4eace66b3b0a797593a0ba3f8096') in 0.015672 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/FantasyKingdom_Characters.fbx
+  artifactKey: Guid(9d545e43681431348908eab98e78aa45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/FantasyKingdom_Characters.fbx using Guid(9d545e43681431348908eab98e78aa45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1fb36867edadae075ebe419fa86729b') in 0.200775 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Characters/Character_Dummy_Female_01.prefab
+  artifactKey: Guid(8dbb22b9d53a7664b8619d4c6888d92f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Characters/Character_Dummy_Female_01.prefab using Guid(8dbb22b9d53a7664b8619d4c6888d92f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba892cd0d02ff55ffacfdb99c11a2c1f') in 0.016101 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Character_FPS_Hands/FiveFinger/Character_FPS_Arms_FiveFinger_02.prefab
+  artifactKey: Guid(be265e142a7ab1a40b4e9367488943f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Character_FPS_Hands/FiveFinger/Character_FPS_Arms_FiveFinger_02.prefab using Guid(be265e142a7ab1a40b4e9367488943f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '927ff83f99ec3d05a517457c8ffc8b31') in 0.014407 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Characters/Character_Male_NoFace_01.prefab
+  artifactKey: Guid(1617cfd7d856042459cec623d111378d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Characters/Character_Male_NoFace_01.prefab using Guid(1617cfd7d856042459cec623d111378d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0531d58f8ee8090633c599ea5bbcd29') in 0.021689 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.861824 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Characters
+  artifactKey: Guid(9caeb5f285f269547b4d043e7e46eb55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Characters using Guid(9caeb5f285f269547b4d043e7e46eb55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adab8699cf9a4c42c33ca1561b4858ff') in 0.002484 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.041108 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Characters/SM_Chr_Attach_Female_Hair_01.prefab
+  artifactKey: Guid(46235b94f6e09aa47aafad1efcba738c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Characters/SM_Chr_Attach_Female_Hair_01.prefab using Guid(46235b94f6e09aa47aafad1efcba738c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3daa8196de4e7749a8fc1405e1360eb0') in 0.024847 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Characters/SM_Chr_Attach_Male_Hair_01.prefab
+  artifactKey: Guid(0ef332600b733ae49a805628f57f1f10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Characters/SM_Chr_Attach_Male_Hair_01.prefab using Guid(0ef332600b733ae49a805628f57f1f10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c17decfa5e5efda0f1ed9d7dd4a81557') in 0.014296 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.872110 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns
+  artifactKey: Guid(a2b4349c7cbfa5e4f892767cc1b1d5c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns using Guid(a2b4349c7cbfa5e4f892767cc1b1d5c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a35b455cef11889bcf80e37b32878992') in 0.014284 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.051741 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_Cover_Female_01.prefab
+  artifactKey: Guid(3a156a33c79555c42ac3f902b2499cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_Cover_Female_01.prefab using Guid(3a156a33c79555c42ac3f902b2499cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98eb773af64074272e8442af3f5a9ba8') in 0.019506 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_Cower_Female_01.prefab
+  artifactKey: Guid(64500f6234352734ea891f09228b54c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_Cower_Female_01.prefab using Guid(64500f6234352734ea891f09228b54c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88716c097cddbad2179e3cc77f7849e2') in 0.016373 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_Dead_Female_01.prefab
+  artifactKey: Guid(781b40cbd594a1449813c8899719404e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_Dead_Female_01.prefab using Guid(781b40cbd594a1449813c8899719404e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4d9ac89c0e8cb1293064c3ac460cdde') in 0.015507 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_LadderClimb_Female_01.prefab
+  artifactKey: Guid(3d5d1967c284612499e7283e5078eeb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_LadderClimb_Female_01.prefab using Guid(3d5d1967c284612499e7283e5078eeb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0792ecd52220fa84e0fe883e7c4a13d6') in 0.016688 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_Weapon_Male_02.prefab
+  artifactKey: Guid(5423795e6dfd69e4f89c48865dba38bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_Weapon_Male_02.prefab using Guid(5423795e6dfd69e4f89c48865dba38bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '414e830e694d08a68ccd6b75f6db19d1') in 0.017641 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_Weapon_Male_01.prefab
+  artifactKey: Guid(7ab16310faa910d40b16db3d54919077) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_Weapon_Male_01.prefab using Guid(7ab16310faa910d40b16db3d54919077) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c07947c20b4c8f3b1fa087c6b201033') in 0.016615 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_Cower_Male_01.prefab
+  artifactKey: Guid(f0baa043930a14a4b98b03a3fced57fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_Cower_Male_01.prefab using Guid(f0baa043930a14a4b98b03a3fced57fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93d70ff6d764fd17c8c1f0fe090833c2') in 0.017539 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_LadderClimb_Male_01.prefab
+  artifactKey: Guid(1a96158508110cf48918d356a21d7830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_LadderClimb_Male_01.prefab using Guid(1a96158508110cf48918d356a21d7830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd050fcaa0968d1fcd928ff9acf0d4558') in 0.017758 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_Run_Male_01.prefab
+  artifactKey: Guid(b790166e687772541a9e88161f45ee6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_Run_Male_01.prefab using Guid(b790166e687772541a9e88161f45ee6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7687fd87aa6b537c3e5160782a9ad07f') in 0.024202 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_Cover_Male_01.prefab
+  artifactKey: Guid(3579c97d9ed0aae45a8ccabc4ebed8af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_Cover_Male_01.prefab using Guid(3579c97d9ed0aae45a8ccabc4ebed8af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d1c29d264032af13bd781bd57576c61') in 0.017959 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_Walk_Female_01.prefab
+  artifactKey: Guid(5544bd443ff97b74faa514a35a23e167) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_Walk_Female_01.prefab using Guid(5544bd443ff97b74faa514a35a23e167) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c795c5322df7288326ba15cf80cfc211') in 0.018292 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_Handsup_Male_01.prefab
+  artifactKey: Guid(219dd4f5972dbcb4fb40813e7add23fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_Handsup_Male_01.prefab using Guid(219dd4f5972dbcb4fb40813e7add23fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ad7343c6c1b54960ed33a5f886e77ca') in 0.016911 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_Weapon_Female_01.prefab
+  artifactKey: Guid(7390607478adfae42a6b6d85f2d00696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_Weapon_Female_01.prefab using Guid(7390607478adfae42a6b6d85f2d00696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36b662e984139105215df8ce9ee543e4') in 0.017336 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_Idle_Female_01.prefab
+  artifactKey: Guid(38e49ff053f1e7143b935d61f1e5c506) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_Idle_Female_01.prefab using Guid(38e49ff053f1e7143b935d61f1e5c506) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '572001c306354dcb42f9f6d9104e1279') in 0.017350 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_Walk_Male_01.prefab
+  artifactKey: Guid(cb1ee49003ad0a2468059be313073541) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_Walk_Male_01.prefab using Guid(cb1ee49003ad0a2468059be313073541) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69fbda528e562d02d675f806479433ba') in 0.018049 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_Handsup_Female_01.prefab
+  artifactKey: Guid(fb33fe13fe38e0649b4db0919f655f47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_Handsup_Female_01.prefab using Guid(fb33fe13fe38e0649b4db0919f655f47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '200101d5df7a711f9d7c72dd603a401a') in 0.017992 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_Dead_Male_01.prefab
+  artifactKey: Guid(84125a8ade8c402438e35df205c95fe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_Dead_Male_01.prefab using Guid(84125a8ade8c402438e35df205c95fe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b623d677838cef86a6cc2165f50785bb') in 0.017015 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_Run_Female_01.prefab
+  artifactKey: Guid(06004ce41fce0094ab5f737ac3a4c588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_Run_Female_01.prefab using Guid(06004ce41fce0094ab5f737ac3a4c588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a25007c90739855c6efda2487d24609') in 0.017047 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_Idle_Male_01.prefab
+  artifactKey: Guid(de896aef9da32424e969d39f6d5169e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_Idle_Male_01.prefab using Guid(de896aef9da32424e969d39f6d5169e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3b5150c1f079fbab468378788918da6') in 0.016858 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_Weapon_Female_02.prefab
+  artifactKey: Guid(91ee03343bd9594468c7ad42cd629fd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Character_Pawns/SM_Pawn_Weapon_Female_02.prefab using Guid(91ee03343bd9594468c7ad42cd629fd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7fe46006c683262400ab6e679f8639d') in 0.019144 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.666500 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Character_FPS_Hands
+  artifactKey: Guid(034d04b052bc734498ca37abc3800f5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Character_FPS_Hands using Guid(034d04b052bc734498ca37abc3800f5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9488bdd2a78ab7ccec181e27381539d0') in 0.005772 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.948551 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Character_FPS_Hands/Standard
+  artifactKey: Guid(e2055a3f1c17c584285a8a6e7043ac0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Character_FPS_Hands/Standard using Guid(e2055a3f1c17c584285a8a6e7043ac0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '728f0a16dfd15f6d108503e7136829e7') in 0.005660 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.108609 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Character_FPS_Hands/FiveFinger
+  artifactKey: Guid(a633322fb51339f40b1533ba83bc977b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Character_FPS_Hands/FiveFinger using Guid(a633322fb51339f40b1533ba83bc977b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0300d765789400c806695fc2d8f61491') in 0.014304 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.582850 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/Characters
+  artifactKey: Guid(d73b3a7690f2e4c4c8462bb43d7698c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/Characters using Guid(d73b3a7690f2e4c4c8462bb43d7698c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62bc79a360547cf192f13783ce4ad28d') in 0.002616 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.647474 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments
+  artifactKey: Guid(928248f5832c2fd4e9211ba55f525c14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments using Guid(928248f5832c2fd4e9211ba55f525c14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50aafb80611514fb160334bfb770e860') in 0.005415 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.043488 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Ear_01.fbx
+  artifactKey: Guid(5f513a30db3e47b42bcd12e5fea24d3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Ear_01.fbx using Guid(5f513a30db3e47b42bcd12e5fea24d3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bea5d5a176d23be0fa775c6ff6debe87') in 0.019345 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Hair_Hero_Female_01.fbx
+  artifactKey: Guid(778adcd70a4c98943afca108bcfcb204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Hair_Hero_Female_01.fbx using Guid(778adcd70a4c98943afca108bcfcb204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af43ffb26b6261aca7b8b013a0b90c3b') in 0.026035 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Mask_02.fbx
+  artifactKey: Guid(79f599d347967834fa82ca5f1bead6f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Mask_02.fbx using Guid(79f599d347967834fa82ca5f1bead6f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fff8a4e722457b018abc2e47eb12a5b0') in 0.028579 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Feather_01.fbx
+  artifactKey: Guid(6ce989e4829a58f4d88ef95e90fa1517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Feather_01.fbx using Guid(6ce989e4829a58f4d88ef95e90fa1517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c5fce21fc965512df2967522d066c6a') in 0.027013 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Neckwrap_02.fbx
+  artifactKey: Guid(c55aaeef1c68650439fb89a0c3631d53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Neckwrap_02.fbx using Guid(c55aaeef1c68650439fb89a0c3631d53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b0bc4e012be2c440fd5595192cd7c2e') in 0.027252 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Neckwrap_01.fbx
+  artifactKey: Guid(65900043a2fe8f142a63836a375f742b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Neckwrap_01.fbx using Guid(65900043a2fe8f142a63836a375f742b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd96c7dc48981a0cfeab9642929e026d') in 0.028108 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Hair_Hero_Male_01.fbx
+  artifactKey: Guid(8f7b2daaa8cb253429a7265d5d59a9e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Hair_Hero_Male_01.fbx using Guid(8f7b2daaa8cb253429a7265d5d59a9e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37a60a41b245b5815c065092eb2f3b67') in 0.028329 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Mask_04.fbx
+  artifactKey: Guid(5c1c39540ce23df47b426fb078c3086d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Mask_04.fbx using Guid(5c1c39540ce23df47b426fb078c3086d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64a399be89e05dd28d09b62d1e1cfeaf') in 0.026933 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Hat_Round_01.fbx
+  artifactKey: Guid(a6691c609b8c5fb43850e8429986be7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Hat_Round_01.fbx using Guid(a6691c609b8c5fb43850e8429986be7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f64b45f5abba59e7abd7140b786fe734') in 0.027008 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Feather_Shoulder_01.fbx
+  artifactKey: Guid(c0b0902fa7c3c5f43a097a7afb17a284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Feather_Shoulder_01.fbx using Guid(c0b0902fa7c3c5f43a097a7afb17a284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93d150a36bf3634b09ad4eb6ed2e49cc') in 0.028586 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Horns_01.fbx
+  artifactKey: Guid(b88e413cf952c8349b241daca579206e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Horns_01.fbx using Guid(b88e413cf952c8349b241daca579206e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '551131ff3d61c51c037bb271f55a3032') in 0.025778 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Headwrap_03.fbx
+  artifactKey: Guid(36165460c82d6d8419c9e4c644d63487) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Headwrap_03.fbx using Guid(36165460c82d6d8419c9e4c644d63487) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eadfc3829e01ac66696f0edbcfb8aff3') in 0.027742 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Hat_Round_02.fbx
+  artifactKey: Guid(9d0f3f6061376f24d985c864084119ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Hat_Round_02.fbx using Guid(9d0f3f6061376f24d985c864084119ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '323122582ceb7a8f0e93fae2f332d531') in 0.027412 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Hero_Shoulder_01.fbx
+  artifactKey: Guid(e66c9f0fcaebf5649bfa32dbb1f3d2cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Hero_Shoulder_01.fbx using Guid(e66c9f0fcaebf5649bfa32dbb1f3d2cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6c2d8104925e4d847382556c4c13f40') in 0.024738 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Hood_01.fbx
+  artifactKey: Guid(eff0731fcb8132144a48128247197070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Hood_01.fbx using Guid(eff0731fcb8132144a48128247197070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82d36b34b1966c49163334929e68c892') in 0.025944 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Turban_01.fbx
+  artifactKey: Guid(347612ba9fdab24458ff8897c3b49ee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Turban_01.fbx using Guid(347612ba9fdab24458ff8897c3b49ee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2558a807f0d0b2c64ccef682d8977665') in 0.027588 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Hood_03.fbx
+  artifactKey: Guid(a4860911e5c0cc945b323641c42c7b60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Hood_03.fbx using Guid(a4860911e5c0cc945b323641c42c7b60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a2b6cf01eb6d81a561f0106e02b0c4a') in 0.026629 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Hood_02.fbx
+  artifactKey: Guid(3e2d6ff586f352244bab36d7b273a9ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Hood_02.fbx using Guid(3e2d6ff586f352244bab36d7b273a9ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa97002115ac89781612ff4f7eaee59e') in 0.027336 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Shoulder_01.fbx
+  artifactKey: Guid(333545abd1e9958438130a540978ce35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Shoulder_01.fbx using Guid(333545abd1e9958438130a540978ce35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a3c486d1d6971666af6b1c0ab1eeb44') in 0.022281 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Headwrap_02.fbx
+  artifactKey: Guid(a9fdfeb8a6ac08e428a362aad8ed12e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Headwrap_02.fbx using Guid(a9fdfeb8a6ac08e428a362aad8ed12e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f64ede7387feedc486c73c1b1a1d94a3') in 0.024921 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Headwrap_01.fbx
+  artifactKey: Guid(dd9470a5bdb144c4097528ab8f9090f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Headwrap_01.fbx using Guid(dd9470a5bdb144c4097528ab8f9090f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a8abf839a7b522c46e20d3248718236') in 0.020737 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Mask_01.fbx
+  artifactKey: Guid(6e38162da037d14409f401c8c24725b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Mask_01.fbx using Guid(6e38162da037d14409f401c8c24725b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2a664b5ce4923075870d2f1cb215d15') in 0.019498 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Hair_Wild_01.fbx
+  artifactKey: Guid(ed02e2982433efb49bc0b69425c163bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Hair_Wild_01.fbx using Guid(ed02e2982433efb49bc0b69425c163bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebc75379da8e0fc5074195c3020af885') in 0.022315 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Hair_Wild_02.fbx
+  artifactKey: Guid(a3c92c7620fa2c84f8f6b7335d59cca2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Hair_Wild_02.fbx using Guid(a3c92c7620fa2c84f8f6b7335d59cca2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89bf779b401a37140ec0af93d2f4a0d0') in 0.022935 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Mask_03.fbx
+  artifactKey: Guid(8a4473b55e1bd5f43bc352a71e2b37f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/Characters/Attachments/SM_Chr_Attach_Mask_03.fbx using Guid(8a4473b55e1bd5f43bc352a71e2b37f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79407357c165c4e76b5981004024ff34') in 0.021620 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 39.810570 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Prefabs/Characters/BR_Attachmnets
+  artifactKey: Guid(274e87270f3c3ee48938eaaa8bf71c1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Prefabs/Characters/BR_Attachmnets using Guid(274e87270f3c3ee48938eaaa8bf71c1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f50e9eb978c486b957579b5146f2e91b') in 0.005934 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
