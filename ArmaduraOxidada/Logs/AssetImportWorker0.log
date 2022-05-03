@@ -1704,3 +1704,1002 @@ Received Import Request.
   path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Pillar_03.fbx
   artifactKey: Guid(379d0439fcf225446a785bf761d90d93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Pillar_03.fbx using Guid(379d0439fcf225446a785bf761d90d93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd86ade0bd82b39b7524db6e0891bcd7') in 0.017472 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 185.682879 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Stairs_Straight_Wide_01.prefab
+  artifactKey: Guid(6c11b8f1b3f427c41a35412f990d7eec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Stairs_Straight_Wide_01.prefab using Guid(6c11b8f1b3f427c41a35412f990d7eec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a129d8843807466a65d008f01b14b73') in 0.032442 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Stairs_Straight_Wide_Edges_01_Convex.asset
+  artifactKey: Guid(1864a59dfd0f83248a38085dce3d5550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Stairs_Straight_Wide_Edges_01_Convex.asset using Guid(1864a59dfd0f83248a38085dce3d5550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '687a3be58768797cc377e625522deb72') in 0.009721 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Stairs_Straight_Wide_Edges_01_Convex 1.asset
+  artifactKey: Guid(f1c12266fa7f53c408f170c80e4b2d01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Stairs_Straight_Wide_Edges_01_Convex 1.asset using Guid(f1c12266fa7f53c408f170c80e4b2d01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96114539d75ea7ea843eb02017543a0c') in 0.010556 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Stairs_Straight_Wide_Edges_03_Convex 1.asset
+  artifactKey: Guid(c8b874bb14c0f9f489a4791c04e5771b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Stairs_Straight_Wide_Edges_03_Convex 1.asset using Guid(c8b874bb14c0f9f489a4791c04e5771b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f56ad2cc0920fb21e6d9fdd9150fa64') in 0.019551 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Assets/PolygonNature/FX/FX_Prefabs/SM_StreamParticle_Wide.prefab
+  artifactKey: Guid(0d418d39d811ace4895bcbd985fd909f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonNature/FX/FX_Prefabs/SM_StreamParticle_Wide.prefab using Guid(0d418d39d811ace4895bcbd985fd909f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6b91fd506ea2cbf2be3ff8667778a6e') in 0.037868 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Stairs_Straight_Wide_01_Convex.asset
+  artifactKey: Guid(16923096e3ff65b4ebed231e0efbc0ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Stairs_Straight_Wide_01_Convex.asset using Guid(16923096e3ff65b4ebed231e0efbc0ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a919ae31fb48fa738f4fc64bb08e3775') in 0.023300 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Stairs_Straight_Wide_Edges_02.prefab
+  artifactKey: Guid(64ba8aa92e93261488b24ef170057850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Stairs_Straight_Wide_Edges_02.prefab using Guid(64ba8aa92e93261488b24ef170057850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb0e08ccd9234d6b7f941b519f1ad537') in 0.020344 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Collision/SM_Bld_Stairs_Straight_Wide_01_Collision.fbx
+  artifactKey: Guid(66cf240487b9df24a8f32c1bcd47752e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Collision/SM_Bld_Stairs_Straight_Wide_01_Collision.fbx using Guid(66cf240487b9df24a8f32c1bcd47752e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3848ed21e7bec947988a593202cbd07b') in 0.018621 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Stairs_Straight_Wide_Edges_02_Convex 1.asset
+  artifactKey: Guid(d3a848d26f995144c99d13b86f1edc3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Stairs_Straight_Wide_Edges_02_Convex 1.asset using Guid(d3a848d26f995144c99d13b86f1edc3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a234f7ed873f7b8d4878c67f0a1cd917') in 0.018811 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Stairs_Straight_Wide_02.fbx
+  artifactKey: Guid(c569048bb5d4c104fb053caea4f6680f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Stairs_Straight_Wide_02.fbx using Guid(c569048bb5d4c104fb053caea4f6680f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '262bbc1ab974209b253aff477b7ad2cc') in 0.019373 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Stairs_Straight_Wide_Edges_03_Convex 2.asset
+  artifactKey: Guid(edb9eac1b94a14d408494f4d52b66929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Stairs_Straight_Wide_Edges_03_Convex 2.asset using Guid(edb9eac1b94a14d408494f4d52b66929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8908bbbee264c1df2a71bd8f6400cc18') in 0.026353 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Stairs_Straight_Wide_02_Convex.asset
+  artifactKey: Guid(7f73978e3b5e60d4e814686adf03fc9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Stairs_Straight_Wide_02_Convex.asset using Guid(7f73978e3b5e60d4e814686adf03fc9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a518e758fdab13bb4505bb30a6ffd706') in 0.010303 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Stairs_Straight_Wide_Edges_03_Convex 3.asset
+  artifactKey: Guid(8b268628f00475642ae2edffd898606b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Stairs_Straight_Wide_Edges_03_Convex 3.asset using Guid(8b268628f00475642ae2edffd898606b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '851feb43de58c65bcec664115bf7ed42') in 0.031837 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Stairs_Straight_Wide_02.prefab
+  artifactKey: Guid(9cb2c67f56fceac4392e4f6921e976da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Stairs_Straight_Wide_02.prefab using Guid(9cb2c67f56fceac4392e4f6921e976da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66656dc8cc8203b88cf856d7974936dc') in 0.015364 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Collision/SM_Bld_Stairs_Straight_Wide_Edges_01_Collision.fbx
+  artifactKey: Guid(557977b752fdc4246b6f273171a031e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Collision/SM_Bld_Stairs_Straight_Wide_Edges_01_Collision.fbx using Guid(557977b752fdc4246b6f273171a031e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d30774d4b3a16b7069d0763ea0970ce') in 0.019006 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Stairs_Straight_Wide_Edges_03.fbx
+  artifactKey: Guid(1dcaa02d6a931bf439319e9d6f7063ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Stairs_Straight_Wide_Edges_03.fbx using Guid(1dcaa02d6a931bf439319e9d6f7063ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f773d22fa63bab56b0b547ea99b0858') in 0.020735 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Collision/SM_Bld_Stairs_Straight_Wide_02_Collision.fbx
+  artifactKey: Guid(d84a49498d51d3e41b6fc9f28a5390aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Collision/SM_Bld_Stairs_Straight_Wide_02_Collision.fbx using Guid(d84a49498d51d3e41b6fc9f28a5390aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e97e22e6636ee7c2276bd3693483c09') in 0.020692 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Stairs_Straight_Wide_Edges_02.fbx
+  artifactKey: Guid(9ac268b9e55c3ec449b8c767d5de3571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Stairs_Straight_Wide_Edges_02.fbx using Guid(9ac268b9e55c3ec449b8c767d5de3571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68ea0fde14b25fa0b1ae4f50d21acb4c') in 0.015955 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Collision/SM_Bld_Stairs_Straight_Wide_Edges_02_Collision.fbx
+  artifactKey: Guid(2c5c724645445e547b9bb0a55c56d83d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Collision/SM_Bld_Stairs_Straight_Wide_Edges_02_Collision.fbx using Guid(2c5c724645445e547b9bb0a55c56d83d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '468a97cb19905e4fccb246fc2cc12a91') in 0.019554 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Stairs_Straight_Wide_Edges_01.fbx
+  artifactKey: Guid(db408add2dda30041b9c4279028d25ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Stairs_Straight_Wide_Edges_01.fbx using Guid(db408add2dda30041b9c4279028d25ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0d8f474586342ae0e860d727a7147c1') in 0.020413 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Stairs_Straight_Wide_Edges_03.prefab
+  artifactKey: Guid(57b83c4886d29a34ea3777b253d560e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Stairs_Straight_Wide_Edges_03.prefab using Guid(57b83c4886d29a34ea3777b253d560e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b258c4fd2aec3a78591ddcbbb3552192') in 0.017993 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Stairs_Straight_Wide_Edges_01.prefab
+  artifactKey: Guid(3fdec629dbb512444a020fb7652ba3e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Stairs_Straight_Wide_Edges_01.prefab using Guid(3fdec629dbb512444a020fb7652ba3e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5158312291cd9fc975b573aadf300f0') in 0.015413 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Collision/SM_Bld_Stairs_Straight_Wide_Edges_03_Collision.fbx
+  artifactKey: Guid(c0a839faeb5fddc4bae5fa916dc9069b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Collision/SM_Bld_Stairs_Straight_Wide_Edges_03_Collision.fbx using Guid(c0a839faeb5fddc4bae5fa916dc9069b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ac1a793066ed6deedacdde406b6f910') in 0.019231 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Stairs_Straight_Wide_Edges_03_Convex 4.asset
+  artifactKey: Guid(065498a02f5b4b8439694ae1aca8a8f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Stairs_Straight_Wide_Edges_03_Convex 4.asset using Guid(065498a02f5b4b8439694ae1aca8a8f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bd34a0ed6a4fa9f2054b393dbc2dd67') in 0.030369 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Stairs_Straight_Wide_Edges_02_Convex.asset
+  artifactKey: Guid(e0b3bf14563db7844bd7dc3a0841043f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Stairs_Straight_Wide_Edges_02_Convex.asset using Guid(e0b3bf14563db7844bd7dc3a0841043f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3bea1bbcf89592317dfd6021ee76721') in 0.010856 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Stairs_Straight_Wide_01.fbx
+  artifactKey: Guid(a927c8cc230a487419d39fead3a508f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Stairs_Straight_Wide_01.fbx using Guid(a927c8cc230a487419d39fead3a508f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae6ea882d0ff2b02407b321856ad4c07') in 0.012823 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Stairs_Straight_Wide_Edges_03_Convex.asset
+  artifactKey: Guid(c03485ef741213b4588642096b20ca9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Stairs_Straight_Wide_Edges_03_Convex.asset using Guid(c03485ef741213b4588642096b20ca9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe11fa7fe85015449523ad71bb3d84c5') in 0.011372 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.614909 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs/FixedScaleCharacters/Character_Female_Witch.prefab
+  artifactKey: Guid(38209bb6e051c7d4a9e54ebc68332696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/FixedScaleCharacters/Character_Female_Witch.prefab using Guid(38209bb6e051c7d4a9e54ebc68332696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be7d5e119b409667e5b1f695ed275aeb') in 0.038635 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Assets/PolygonNature/FX/FX_Prefabs/Glowing_Dust_01.prefab
+  artifactKey: Guid(e62fe7588430d264ab316d646f76d61d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonNature/FX/FX_Prefabs/Glowing_Dust_01.prefab using Guid(e62fe7588430d264ab316d646f76d61d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f480f5d9d36d872b20034ea43b1009e3') in 0.014415 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/PolygonFantasyCharacters/Models/FixedScaleCharacters/Characters.fbx
+  artifactKey: Guid(c9a34c70f1c0d00409f41fcfbb2a6871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Models/FixedScaleCharacters/Characters.fbx using Guid(c9a34c70f1c0d00409f41fcfbb2a6871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3af037dd725e5c6200643bfa93b4ffac') in 0.129665 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Assets/PolygonNature/FX/FX_Prefabs/FX_Dust_Blowing_01.prefab
+  artifactKey: Guid(6b2d1d33fdbf1a340a25ad352c47f593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonNature/FX/FX_Prefabs/FX_Dust_Blowing_01.prefab using Guid(6b2d1d33fdbf1a340a25ad352c47f593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38de4ce4edf850311d928ca9e026d483') in 0.011970 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Assets/PolygonNature/Textures/Leaves/Leaves_Willow_Texture.png
+  artifactKey: Guid(830fc72bc2c8075489b0a150dbd0ca1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonNature/Textures/Leaves/Leaves_Willow_Texture.png using Guid(830fc72bc2c8075489b0a150dbd0ca1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '298b95d0c625f688da54e485935ef3ef') in 0.018438 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/PolygonFantasyCharacters/Prefabs/FixedScaleCharacters/Character_Male_Wizard.prefab
+  artifactKey: Guid(252a512dd98766344a3e98962ce240d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonFantasyCharacters/Prefabs/FixedScaleCharacters/Character_Male_Wizard.prefab using Guid(252a512dd98766344a3e98962ce240d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd191cf672a21bfa9595d30daea606979') in 0.018974 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Assets/PolygonNature/Textures/Leaves/Leaves_Willow_MaskTexture.png
+  artifactKey: Guid(cb85d02347a64c14195e1ea916e67460) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonNature/Textures/Leaves/Leaves_Willow_MaskTexture.png using Guid(cb85d02347a64c14195e1ea916e67460) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9142b738e015d3a6298a33180b41008') in 0.015812 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Assets/PolygonNature/FX/FX_Prefabs/Grass_Blowing_01.prefab
+  artifactKey: Guid(42d15d42149ed484d8aea06290796e07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonNature/FX/FX_Prefabs/Grass_Blowing_01.prefab using Guid(42d15d42149ed484d8aea06290796e07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fed0d3b672e92b1e451ba5f72abe9330') in 0.022611 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/FantasyKingdom_FairyWings.fbx
+  artifactKey: Guid(f75b9948cb8c2274ea2f8cd63510d8dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/FantasyKingdom_FairyWings.fbx using Guid(f75b9948cb8c2274ea2f8cd63510d8dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c21f1003db1b054aa138556ac7124e3') in 0.028511 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Assets/PolygonNature/Textures/Masks/Leaves_Willow_MaskTexture.png
+  artifactKey: Guid(f27bd715d4b31fb429fa758cb6ae47d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonNature/Textures/Masks/Leaves_Willow_MaskTexture.png using Guid(f27bd715d4b31fb429fa758cb6ae47d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14642dc37b8bd4b1895c6249c7fe276f') in 0.005876 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.969939 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Wall_Window_Fancy_Tall_01.fbx
+  artifactKey: Guid(8a43d085db98e55429630017ea5530b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_Castle_Wall_Window_Fancy_Tall_01.fbx using Guid(8a43d085db98e55429630017ea5530b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4ce5558ad36b529204d7979dc6a310a') in 0.031907 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Wall_Window_Fancy_Tall_01_Convex.asset
+  artifactKey: Guid(04bb685e6fde2424c9884c814bc30e3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_Castle_Wall_Window_Fancy_Tall_01_Convex.asset using Guid(04bb685e6fde2424c9884c814bc30e3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91e5184317bfe2da96a2aac39df0a231') in 0.015029 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Castle_Wall_Window_Fancy_Tall_01.prefab
+  artifactKey: Guid(7cf831b528bbe8240b66aa5ca5ed82a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Castle/SM_Bld_Castle_Wall_Window_Fancy_Tall_01.prefab using Guid(7cf831b528bbe8240b66aa5ca5ed82a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61b09e27687a68da2bd38cfbb979e77e') in 0.027558 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 287.196596 seconds.
+  path: Assets/Assets/HandpaintedEnvironmentVol1/Scenes/DemoScene_Profiles/AlienForest.asset
+  artifactKey: Guid(7da9665b92b9e0548b2154eb896fce6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/HandpaintedEnvironmentVol1/Scenes/DemoScene_Profiles/AlienForest.asset using Guid(7da9665b92b9e0548b2154eb896fce6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd57a8f8e985087a7e135f523de912ed1') in 0.007890 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Assets/HandpaintedEnvironmentVol1/Scenes/DemoScene_Profiles/Autumnforest.asset
+  artifactKey: Guid(09385bb41d4ad8a4babd1d985573b5c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/HandpaintedEnvironmentVol1/Scenes/DemoScene_Profiles/Autumnforest.asset using Guid(09385bb41d4ad8a4babd1d985573b5c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50553bf2f92363d5fff558fc06c91a39') in 0.006415 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.876777 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Prop_Cabinet_Wine_01.fbx
+  artifactKey: Guid(755e9f3e07181784b8bc44a2c34d7821) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Prop_Cabinet_Wine_01.fbx using Guid(755e9f3e07181784b8bc44a2c34d7821) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ef5ae417a610c6adc1a5c644694efb5') in 0.072238 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Materials/Misc/FX_Standard_Soft.mat
+  artifactKey: Guid(0c361341e05282547b4b27a461b09071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Materials/Misc/FX_Standard_Soft.mat using Guid(0c361341e05282547b4b27a461b09071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba953294e174465103cc00e05f295e44') in 0.015640 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Materials/Misc/FX_Standard 1.mat
+  artifactKey: Guid(07a679004d280c24fac8d73ce8c63836) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Materials/Misc/FX_Standard 1.mat using Guid(07a679004d280c24fac8d73ce8c63836) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cb8c29d7a097996305255036391ce2d') in 0.017094 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.320876 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_House_Stairs_01.fbx
+  artifactKey: Guid(26b908ee8815ef64891ec051f70f0774) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_House_Stairs_01.fbx using Guid(26b908ee8815ef64891ec051f70f0774) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b775098ec88cdc8b9b9c53fa8586613b') in 0.027373 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Buildings/SM_Bld_House_Stairs_02_Railing_01.prefab
+  artifactKey: Guid(eeaa4cbfc594eac4ca070dc4c5353ed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Buildings/SM_Bld_House_Stairs_02_Railing_01.prefab using Guid(eeaa4cbfc594eac4ca070dc4c5353ed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd83963c09bcb72c18be164fb7d0ddc23') in 0.043061 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Buildings/SM_Bld_House_Stairs_04_Railing_02.prefab
+  artifactKey: Guid(c6fd2f71cc3d77b47a92dc294f2b102f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Buildings/SM_Bld_House_Stairs_04_Railing_02.prefab using Guid(c6fd2f71cc3d77b47a92dc294f2b102f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58cd85c108e71a282a3b99b911825eae') in 0.041627 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Collision/SM_Bld_House_Stairs_03_Railing_01_Collision.fbx
+  artifactKey: Guid(6fe39b492240f024f9bd37830cfd19ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Collision/SM_Bld_House_Stairs_03_Railing_01_Collision.fbx using Guid(6fe39b492240f024f9bd37830cfd19ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03c1f9f30b65b1701710d76ada94f915') in 0.015608 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Buildings/SM_Bld_House_Stairs_03.prefab
+  artifactKey: Guid(7100078985c3b8b4c8269ec0afc91335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Buildings/SM_Bld_House_Stairs_03.prefab using Guid(7100078985c3b8b4c8269ec0afc91335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1535a944bfa59e62af92868f92907f08') in 0.034803 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_House_Stairs_03.fbx
+  artifactKey: Guid(3fe4a33f56cb51a4698aa4d30d2f8f0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_House_Stairs_03.fbx using Guid(3fe4a33f56cb51a4698aa4d30d2f8f0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eec1049e8cc87b5f5e4b8f5b93c8354f') in 0.014356 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Buildings/SM_Bld_House_Stairs_03_Railing_02.prefab
+  artifactKey: Guid(305fa0981e2b1ba4088c5e47e376d3d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Buildings/SM_Bld_House_Stairs_03_Railing_02.prefab using Guid(305fa0981e2b1ba4088c5e47e376d3d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10d51f162efb2cc14d4d31306b2ca00f') in 0.037873 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_House_Stairs_04_Railing_02.fbx
+  artifactKey: Guid(453d3e7208612db4185e14cbd5741c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_House_Stairs_04_Railing_02.fbx using Guid(453d3e7208612db4185e14cbd5741c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33830881fe6ed812a263236f54ff2795') in 0.012921 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Buildings/SM_Bld_House_Stairs_02.prefab
+  artifactKey: Guid(004e4a6aea928694fafc5a2488985ff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Buildings/SM_Bld_House_Stairs_02.prefab using Guid(004e4a6aea928694fafc5a2488985ff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9df8c0dcdf360da0f193f5d68485bf4') in 0.039506 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/House/SM_Bld_House_Stairs_Railing_01.prefab
+  artifactKey: Guid(fa51137f48b598a4a82dbfe91ec4b898) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/House/SM_Bld_House_Stairs_Railing_01.prefab using Guid(fa51137f48b598a4a82dbfe91ec4b898) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74c86f0fa23eb7c40eafbe8ea764d0c8') in 0.037307 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_House_Stairs_Railing_02.fbx
+  artifactKey: Guid(c71dbc274f675b64294cbb33256dd482) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_House_Stairs_Railing_02.fbx using Guid(c71dbc274f675b64294cbb33256dd482) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08e34ee1c0b8d31f5a36795c7f8435c5') in 0.017940 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_House_Stairs_Railing_01_Convex.asset
+  artifactKey: Guid(7c6b5b7c001effc4da8b23a941d13164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_House_Stairs_Railing_01_Convex.asset using Guid(7c6b5b7c001effc4da8b23a941d13164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a90e584d6ed4da18ef8f6f4aa58db97') in 0.010381 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/House/SM_Bld_House_Stairs_Railing_02.prefab
+  artifactKey: Guid(5cb134cae4de1344aa2c7af13f7c28ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/House/SM_Bld_House_Stairs_Railing_02.prefab using Guid(5cb134cae4de1344aa2c7af13f7c28ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '374646e0160e9d43e46743001af69d81') in 0.034674 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Buildings/SM_Bld_House_Stairs_04_Railing_01.prefab
+  artifactKey: Guid(aead0f8bb162ed147ac2db7a5e22226e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Buildings/SM_Bld_House_Stairs_04_Railing_01.prefab using Guid(aead0f8bb162ed147ac2db7a5e22226e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '393980e9f9ca62b785f6947ee52380ec') in 0.046271 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_House_Stairs_03_Railing_01.fbx
+  artifactKey: Guid(0859fa65cce28d446b827552f4e49d43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_House_Stairs_03_Railing_01.fbx using Guid(0859fa65cce28d446b827552f4e49d43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4891e3718b89d239828752646dd67e2a') in 0.019149 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_House_Stairs_03_Railing_02.fbx
+  artifactKey: Guid(8dfe105eca2c2634f8f8e5427e6f0d63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_House_Stairs_03_Railing_02.fbx using Guid(8dfe105eca2c2634f8f8e5427e6f0d63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3a113cb888284b0bd6a804c672c8042') in 0.014883 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Collision/SM_Bld_House_Stairs_Railing_01_Collision.fbx
+  artifactKey: Guid(81a46b0e00da59b479c5e324934964fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Collision/SM_Bld_House_Stairs_Railing_01_Collision.fbx using Guid(81a46b0e00da59b479c5e324934964fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddd2a64bca8bb098172b74350a7f31eb') in 0.018708 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_House_Stairs_01_Convex.asset
+  artifactKey: Guid(7aaa54aa36eeb964d90bf8da004581c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_House_Stairs_01_Convex.asset using Guid(7aaa54aa36eeb964d90bf8da004581c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b64cfdcae106f6a822aea42ecd7d8ad6') in 0.009887 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_House_Stairs_02_Railing_02.fbx
+  artifactKey: Guid(018940c6e1b7cfa41abc55075ff8c120) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_House_Stairs_02_Railing_02.fbx using Guid(018940c6e1b7cfa41abc55075ff8c120) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '332eea7cd3ad86b8bce84086a7186b43') in 0.018992 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Buildings/SM_Bld_House_Stairs_03_Railing_01.prefab
+  artifactKey: Guid(b3d4bc02764f5f64393331cc2258f52a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Buildings/SM_Bld_House_Stairs_03_Railing_01.prefab using Guid(b3d4bc02764f5f64393331cc2258f52a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9565685ab549a162272348b7fbdcc81f') in 0.032892 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/House/SM_Bld_House_Stairs_01.prefab
+  artifactKey: Guid(373bd9e99c2d7ba43a6ce6fce50b62f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/House/SM_Bld_House_Stairs_01.prefab using Guid(373bd9e99c2d7ba43a6ce6fce50b62f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58300169ea71a7b1219de6965e04bf5d') in 0.032443 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Collision/SM_Bld_House_Stairs_03_Railing_02_Collision.fbx
+  artifactKey: Guid(6c58fb250ae39ef4f8a46f323c7a66e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Collision/SM_Bld_House_Stairs_03_Railing_02_Collision.fbx using Guid(6c58fb250ae39ef4f8a46f323c7a66e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a90d38f3ed3419cdfc1a3918544576c9') in 0.026092 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Collision/SM_Bld_House_Stairs_04_Railing_01_Collision.fbx
+  artifactKey: Guid(1cf2c25e6db58a34091e71938062061b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Collision/SM_Bld_House_Stairs_04_Railing_01_Collision.fbx using Guid(1cf2c25e6db58a34091e71938062061b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '102e1ec6f35ea73f5e5692a0411094a6') in 0.018037 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Collision/SM_Bld_House_Stairs_04_Railing_02_Collision.fbx
+  artifactKey: Guid(354b28ad9ed406e47b28e64bddfe8af4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Collision/SM_Bld_House_Stairs_04_Railing_02_Collision.fbx using Guid(354b28ad9ed406e47b28e64bddfe8af4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2722d87f18715a1b52e0a258ee63a5d4') in 0.018623 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Buildings/SM_Bld_House_Stairs_02_Railing_02.prefab
+  artifactKey: Guid(6aa164b587947424cb1fc13cc2b244e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Buildings/SM_Bld_House_Stairs_02_Railing_02.prefab using Guid(6aa164b587947424cb1fc13cc2b244e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dd4ef8cc96af4f07d90563b76376d62') in 0.035114 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_House_Stairs_02_Railing_01.fbx
+  artifactKey: Guid(d45436cf00d8b1740aded27a416b01b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_House_Stairs_02_Railing_01.fbx using Guid(d45436cf00d8b1740aded27a416b01b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ec5b81c6d421d982065d5b167a1f2fc') in 0.015255 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_House_Stairs_02.fbx
+  artifactKey: Guid(cbbd0ed3399c0ba479653a4798cc1daf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_House_Stairs_02.fbx using Guid(cbbd0ed3399c0ba479653a4798cc1daf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77193c657296f482b1bd17c39555f1be') in 0.013006 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_House_Stairs_04_Railing_01.fbx
+  artifactKey: Guid(01643af8d26952e4983b48d24c42cddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_House_Stairs_04_Railing_01.fbx using Guid(01643af8d26952e4983b48d24c42cddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94a654d74ffae3d3541b27fe3c7e4f41') in 0.014549 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Collision/SM_Bld_House_Stairs_04_Collision.fbx
+  artifactKey: Guid(5ef3c6af24bca3f49834d90e73e248e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Collision/SM_Bld_House_Stairs_04_Collision.fbx using Guid(5ef3c6af24bca3f49834d90e73e248e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '882aa76b77dbdc6bbbcda9704fd7532e') in 0.029083 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_House_Stairs_04.fbx
+  artifactKey: Guid(3303b3728a1f08242b403150a4b2566f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_House_Stairs_04.fbx using Guid(3303b3728a1f08242b403150a4b2566f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16232e5ef5ce7170cd02a5e0e14e0f7d') in 0.019143 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Buildings/SM_Bld_House_Stairs_04.prefab
+  artifactKey: Guid(721d5a6ef5f38dc4e908d7db55dd55b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Buildings/SM_Bld_House_Stairs_04.prefab using Guid(721d5a6ef5f38dc4e908d7db55dd55b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1943dce6c860d386a9666a588338c29a') in 0.036261 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_House_Stairs_Railing_01.fbx
+  artifactKey: Guid(48ba45594f45c994e8d4a07254afb949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_House_Stairs_Railing_01.fbx using Guid(48ba45594f45c994e8d4a07254afb949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d334abac53c259be7695e5ac16b681b') in 0.010212 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.723388 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Collision/SM_Bld_House_Stairs_Railing_02_Collision.fbx
+  artifactKey: Guid(6266ef900a5c67347995e017430f2519) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Collision/SM_Bld_House_Stairs_Railing_02_Collision.fbx using Guid(6266ef900a5c67347995e017430f2519) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b203ad2fee840e078da705304d6f70d0') in 0.015604 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_House_Stairs_Railing_02_Convex.asset
+  artifactKey: Guid(a4f9547d19f0f1342ac41ae50e78c021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_House_Stairs_Railing_02_Convex.asset using Guid(a4f9547d19f0f1342ac41ae50e78c021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0274bace6cc46e214ca96c486bc4b15') in 0.011910 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/House/SM_Bld_House_Stairs_Stone_Block_01.prefab
+  artifactKey: Guid(ea0fc023e04a9ef488cee02ad9d4e3ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/House/SM_Bld_House_Stairs_Stone_Block_01.prefab using Guid(ea0fc023e04a9ef488cee02ad9d4e3ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca71a066aa48519c17c2fe3e71e134a4') in 0.052372 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_House_Stairs_Stone_Block_01.fbx
+  artifactKey: Guid(02c5ea00bc7e02c46bff2cc81692b5c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_House_Stairs_Stone_Block_01.fbx using Guid(02c5ea00bc7e02c46bff2cc81692b5c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02687059cc78c79aa1c94ba8e9f9423d') in 0.017059 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_House_Stairs_Stone_02.fbx
+  artifactKey: Guid(bd5a404e6704cd1468566c3f40083225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_House_Stairs_Stone_02.fbx using Guid(bd5a404e6704cd1468566c3f40083225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd8bf95a90d7d59f4a6e4909ee28ff5d') in 0.027847 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/House/SM_Bld_House_Stairs_Stone_02.prefab
+  artifactKey: Guid(e8d8e88c7e58a0648898db1b1effe95e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/House/SM_Bld_House_Stairs_Stone_02.prefab using Guid(e8d8e88c7e58a0648898db1b1effe95e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cfaafbc6d1e45b2ebe93f77fcab6256') in 0.045704 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/House/SM_Bld_House_Stairs_Stone_01.prefab
+  artifactKey: Guid(2cec3e36c100660409a207648fb52105) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/House/SM_Bld_House_Stairs_Stone_01.prefab using Guid(2cec3e36c100660409a207648fb52105) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abf6295da42d8cf4129733f41ffcbae6') in 0.050139 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_House_Stairs_Stone_01_Convex.asset
+  artifactKey: Guid(a98b86843bbae31458907a57f9f08a8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_House_Stairs_Stone_01_Convex.asset using Guid(a98b86843bbae31458907a57f9f08a8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efc3ba723834585d32731a6fa4db2f16') in 0.013998 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_House_Stairs_Stone_01.fbx
+  artifactKey: Guid(32be2a36454eeba409f2c2b99fb98bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Bld_House_Stairs_Stone_01.fbx using Guid(32be2a36454eeba409f2c2b99fb98bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '277221c8153dc4b4ed7e2fca6f3fb97e') in 0.023235 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_House_Stairs_Stone_02_Convex.asset
+  artifactKey: Guid(3fc5d3f9b840922429f7e60d1ae19a22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Bld_House_Stairs_Stone_02_Convex.asset using Guid(3fc5d3f9b840922429f7e60d1ae19a22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e5596b54b2459ef15adb97405c29e88') in 0.013594 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 66.690336 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Env_Fountain_01.fbx
+  artifactKey: Guid(a381c424633807a4ab2b2bef03eb43e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Env_Fountain_01.fbx using Guid(a381c424633807a4ab2b2bef03eb43e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86da197ba5c29a8f8843f86668c4914e') in 0.056538 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Env_Fountain_01_Convex.asset
+  artifactKey: Guid(a76d026111b0e7749b15e9aef5a4bfdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Env_Fountain_01_Convex.asset using Guid(a76d026111b0e7749b15e9aef5a4bfdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4f0a2d4fee1273c3fdb62bc21a8ab7b') in 0.012646 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Environments/SM_Env_Fountain_01.prefab
+  artifactKey: Guid(7f687487d4bbab24fb547dc9af8ed83f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Environments/SM_Env_Fountain_01.prefab using Guid(7f687487d4bbab24fb547dc9af8ed83f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb852415d17b3251e79f145d72746ff4') in 0.047985 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Fountain_01.fbx
+  artifactKey: Guid(48be4a7a43d42864c93b23fc18429e08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Fountain_01.fbx using Guid(48be4a7a43d42864c93b23fc18429e08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86c726f6fc78a538dc8b567c00a51272') in 0.029802 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Fountain_01_Convex.asset
+  artifactKey: Guid(e0390c73f430a194daa3b8d811b232f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Fountain_01_Convex.asset using Guid(e0390c73f430a194daa3b8d811b232f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82bfb21ba2ddbec85593a7e0083654fe') in 0.013148 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Env_Fountain_01_Convex 1.asset
+  artifactKey: Guid(c7e4ece64e297ed4395fe060675823e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Env_Fountain_01_Convex 1.asset using Guid(c7e4ece64e297ed4395fe060675823e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '614c2be6ba320b546ee16d18f7dd3741') in 0.013846 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Env_Fountain_01_Convex 2.asset
+  artifactKey: Guid(72039eb232c77624f84dbb75792cdb21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Env_Fountain_01_Convex 2.asset using Guid(72039eb232c77624f84dbb75792cdb21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24b824ded566538be7edbe555ef82833') in 0.020424 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 83.203478 seconds.
+  path: Assets/Assets/HandpaintedEnvironmentVol1/Meshes/Prefab/Props/Barrel_01.prefab
+  artifactKey: Guid(85b173a616ad5e24c8121e6226b203c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/HandpaintedEnvironmentVol1/Meshes/Prefab/Props/Barrel_01.prefab using Guid(85b173a616ad5e24c8121e6226b203c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f37ffdaf436c08f048a083eca0abbbbf') in 0.071965 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Prop_Barrel_Dispenser_Small_01.fbx
+  artifactKey: Guid(73d26413abee1a9469ec78bd1e8c83e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Prop_Barrel_Dispenser_Small_01.fbx using Guid(73d26413abee1a9469ec78bd1e8c83e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbcbb50087d8b684df81ecb75161ea36') in 0.020012 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Plug_01.fbx
+  artifactKey: Guid(5f92460e2e4e72b45bb2bc3a09e9cd6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Plug_01.fbx using Guid(5f92460e2e4e72b45bb2bc3a09e9cd6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb79a90d320514f5c96a73c542ed2153') in 0.018806 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_03_Convex.asset
+  artifactKey: Guid(97191ec88877c1647bb177260d9a7684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_03_Convex.asset using Guid(97191ec88877c1647bb177260d9a7684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a81b5df81d890174febe76a3dd118a4') in 0.012085 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Broken_03_Convex.asset
+  artifactKey: Guid(4d916e3ae749d5b44b35435751dffb67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Broken_03_Convex.asset using Guid(4d916e3ae749d5b44b35435751dffb67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5df596444bc5b18a311409b1751e9093') in 0.024820 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Props/SM_Prop_Barrel_Dispenser_Large_01.prefab
+  artifactKey: Guid(356bab106e6583242b77502d598f2c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Props/SM_Prop_Barrel_Dispenser_Large_01.prefab using Guid(356bab106e6583242b77502d598f2c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb13497f9f73a4e98f96812270ba2ee8') in 0.063540 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Shelf_Large_Broken_02_Convex.asset
+  artifactKey: Guid(120e7c533d0ee0a46b3843220c28361d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Shelf_Large_Broken_02_Convex.asset using Guid(120e7c533d0ee0a46b3843220c28361d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f815471561242e58629480bc1dc9773') in 0.013773 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Props/SM_Prop_Barrel_Dispenser_Small_01.prefab
+  artifactKey: Guid(701f0fb9f7bd2f542aa3be8c738e2d80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Props/SM_Prop_Barrel_Dispenser_Small_01.prefab using Guid(701f0fb9f7bd2f542aa3be8c738e2d80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72ee6fca9d93c9ac24e41031e3e23017') in 0.060306 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Assets/PolygonPrototype/Prefabs/Props/SM_Prop_Barrel_01.prefab
+  artifactKey: Guid(f750d5f061e724f4c827ab6b376e2550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Prefabs/Props/SM_Prop_Barrel_01.prefab using Guid(f750d5f061e724f4c827ab6b376e2550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b2e4b8d59253285087b47d3591a2c91') in 0.042732 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Props/SM_Prop_Barrel_01.prefab
+  artifactKey: Guid(b26e035715d763f409a7e837ae204dab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Props/SM_Prop_Barrel_01.prefab using Guid(b26e035715d763f409a7e837ae204dab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ca1b6983c7e671e12ce20af67d8fa2a') in 0.046837 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Plug_02.fbx
+  artifactKey: Guid(c6f5ea458f7b69c4e953b586f970f96c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Plug_02.fbx using Guid(c6f5ea458f7b69c4e953b586f970f96c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a0d021d87cae519e57bd4613fbfdb74') in 0.021638 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Prop_Barrel_01.fbx
+  artifactKey: Guid(ad7e0b3cc539c4c4d9adbe26d67de586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Prop_Barrel_01.fbx using Guid(ad7e0b3cc539c4c4d9adbe26d67de586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da9ed21b553e596df9b80fa7b9fdd333') in 0.018843 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Shelf_Large_01.fbx
+  artifactKey: Guid(4b896a5250559d14db4079b9b52ae69e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Shelf_Large_01.fbx using Guid(4b896a5250559d14db4079b9b52ae69e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79ebaf64084b591f9305a17cc37d4f1a') in 0.024105 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Assets/PolygonPrototype/Models/SM_Prop_Barrel_01.fbx
+  artifactKey: Guid(270efc4fb3c7ef74cb77f88b77cefaa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonPrototype/Models/SM_Prop_Barrel_01.fbx using Guid(270efc4fb3c7ef74cb77f88b77cefaa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee02aa0c1dc3ddcbea7f2f3c30f4e4e4') in 0.018792 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Plug_01_Convex.asset
+  artifactKey: Guid(a7e71e2a9592b7f4dac99fe869dfc431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Plug_01_Convex.asset using Guid(a7e71e2a9592b7f4dac99fe869dfc431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a0cdaaff215a14bca8ef0511fadf617') in 0.016802 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_02_Convex.asset
+  artifactKey: Guid(9203b52264224084a992cdf743081675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_02_Convex.asset using Guid(9203b52264224084a992cdf743081675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfff8c2648c218a2e893b10843199b59') in 0.021304 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Broken_02.fbx
+  artifactKey: Guid(d4f25aa16389e9240b8f7aeb7294e5f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Broken_02.fbx using Guid(d4f25aa16389e9240b8f7aeb7294e5f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a40c455d5465d01c7cf4c600ddb699e3') in 0.029477 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Prop_Barrel_Dispenser_Small_01_Convex.asset
+  artifactKey: Guid(f6d458404997c3641b631c18542852be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Prop_Barrel_Dispenser_Small_01_Convex.asset using Guid(f6d458404997c3641b631c18542852be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2467f45d6e0683e420318648dd44d544') in 0.011756 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Prop_Barrel_01_Convex.asset
+  artifactKey: Guid(18bdadcd56cafef4e957c693a3bb062e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Prop_Barrel_01_Convex.asset using Guid(18bdadcd56cafef4e957c693a3bb062e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c165fb7f5106fd9582d0683ee4244de') in 0.010805 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Plug_02_Convex.asset
+  artifactKey: Guid(242c080c5f2d7f743981961e369d3091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Plug_02_Convex.asset using Guid(242c080c5f2d7f743981961e369d3091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a60d1605d59c59b9adaf6c8e27912a9') in 0.011400 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_01_Convex.asset
+  artifactKey: Guid(f831ef1df7507a44f84c42eefa87592f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_01_Convex.asset using Guid(f831ef1df7507a44f84c42eefa87592f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20ef8817feef5238cc57e625a50ce119') in 0.017706 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Broken_02_Convex.asset
+  artifactKey: Guid(2c6ae7373808c1a46acac0b7ffe24869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Broken_02_Convex.asset using Guid(2c6ae7373808c1a46acac0b7ffe24869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daf4cf296bba11a3092ccdd20a6a23b0') in 0.021265 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Shelf_Large_Broken_02.fbx
+  artifactKey: Guid(600ff4c352695b54c9645feb699183c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Shelf_Large_Broken_02.fbx using Guid(600ff4c352695b54c9645feb699183c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74230d008fb9b2cd26b32da62ee462f4') in 0.025293 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_02.fbx
+  artifactKey: Guid(3ac02e76332377f49af1119810054cb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_02.fbx using Guid(3ac02e76332377f49af1119810054cb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd78b116bdb0fac148280d77e7cb9d95a') in 0.020215 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Broken_03.fbx
+  artifactKey: Guid(78a12e4ddca0324448aa0f49fee8da1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Broken_03.fbx using Guid(78a12e4ddca0324448aa0f49fee8da1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f00ba47e311c78a67fd7c3311b6ec3de') in 0.019910 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Shelf_Small_01.fbx
+  artifactKey: Guid(63139be463889184486d869520d31153) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Shelf_Small_01.fbx using Guid(63139be463889184486d869520d31153) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2a0f1a97ac1b964c93194ce4f72d0c8') in 0.018861 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Shelf_Large_01_Convex.asset
+  artifactKey: Guid(72369babfdeaaa144bcd3015eab235db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Shelf_Large_01_Convex.asset using Guid(72369babfdeaaa144bcd3015eab235db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4995902d25d34323307d70439f9eb81d') in 0.010462 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Shelf_Large_02.fbx
+  artifactKey: Guid(20b9d0c609199534ab6ddc2ac5e46ec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Shelf_Large_02.fbx using Guid(20b9d0c609199534ab6ddc2ac5e46ec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5de3446743bf59e1033ac006df88df83') in 0.019362 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_03.fbx
+  artifactKey: Guid(f212a91bc96233a45a90089327c6d09c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_03.fbx using Guid(f212a91bc96233a45a90089327c6d09c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbb0e471f673d050620c804cc4b55e21') in 0.020036 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Broken_01.fbx
+  artifactKey: Guid(1b5883cc4ce1c564ebec2b79c153b663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Broken_01.fbx using Guid(1b5883cc4ce1c564ebec2b79c153b663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '212f4d5e480e3d32a9f72bf6b3851a77') in 0.022537 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Prop_Barrel_Dispenser_Large_01_Convex.asset
+  artifactKey: Guid(73b418882e708ea43a11cab201e61fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Prop_Barrel_Dispenser_Large_01_Convex.asset using Guid(73b418882e708ea43a11cab201e61fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6373ac0aee0370bab493f5002f8356a2') in 0.010297 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_01.fbx
+  artifactKey: Guid(c46f7e1f5d506b04d8f13a0a5a4116a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_01.fbx using Guid(c46f7e1f5d506b04d8f13a0a5a4116a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20008816cc18500f6de0bf2ab6e39937') in 0.020202 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Shelf_Large_02_Convex.asset
+  artifactKey: Guid(79fe6ba8af2e2ff4e87fb0d282e77365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Shelf_Large_02_Convex.asset using Guid(79fe6ba8af2e2ff4e87fb0d282e77365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f2ccf59dd517935381ebfcc2f328d21') in 0.011776 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Prop_Barrel_Dispenser_Large_01.fbx
+  artifactKey: Guid(62a78b7f22a85d34aa140d5abfa01372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Prop_Barrel_Dispenser_Large_01.fbx using Guid(62a78b7f22a85d34aa140d5abfa01372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c113ec1f9ec0ebdfab5b5950094f138b') in 0.015860 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 47.441432 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Shelf_Small_01_Convex.asset
+  artifactKey: Guid(2ce53285c168e9a418907179804cc9c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Shelf_Small_01_Convex.asset using Guid(2ce53285c168e9a418907179804cc9c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70f382d067c164c25457c2d326b8fe42') in 0.011217 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Shelf_Small_Broken_01.fbx
+  artifactKey: Guid(0f17a233a6d421a458f783f4c6e2a1a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Shelf_Small_Broken_01.fbx using Guid(0f17a233a6d421a458f783f4c6e2a1a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec9fbdaa9262526382e80722a17e4456') in 0.020586 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Shelf_Small_Broken_02.fbx
+  artifactKey: Guid(f969c577d5aa8ff47b5b10939ed5d963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Shelf_Small_Broken_02.fbx using Guid(f969c577d5aa8ff47b5b10939ed5d963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a573a21815f1144b98b319c83a3733dc') in 0.024192 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Shelf_Small_02_Convex.asset
+  artifactKey: Guid(b4ab77729707824419eef98c794e15c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Shelf_Small_02_Convex.asset using Guid(b4ab77729707824419eef98c794e15c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '114d20fcd173cbc01de94e3baeb7acea') in 0.017025 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Shelf_Small_Broken_01_Convex.asset
+  artifactKey: Guid(d182eeec9b3c17f47b4e2aa936c25253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Shelf_Small_Broken_01_Convex.asset using Guid(d182eeec9b3c17f47b4e2aa936c25253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4f535aa30bb9a8f817b11009a51ec46') in 0.018183 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Shelf_Small_02.fbx
+  artifactKey: Guid(0fdeefe76f50da547b4815025acf385c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Shelf_Small_02.fbx using Guid(0fdeefe76f50da547b4815025acf385c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f18ef0708c36d703e2ee93a46694824') in 0.030050 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.051489 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Shelf_Small_Broken_02_Convex.asset
+  artifactKey: Guid(326f89f761cef8a40b3f7aa5854d9d45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Shelf_Small_Broken_02_Convex.asset using Guid(326f89f761cef8a40b3f7aa5854d9d45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a1cb8dcfe900be1df70863a5da09ed5') in 0.011975 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Small_01_Convex.asset
+  artifactKey: Guid(9c6ade9124af450499d47593d98f29b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Small_01_Convex.asset using Guid(9c6ade9124af450499d47593d98f29b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea6e8477d961cdfa216c3a29658bb549') in 0.014018 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Stack_01_Convex.asset
+  artifactKey: Guid(45fe68019e061b04c80e312649e9e512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Stack_01_Convex.asset using Guid(45fe68019e061b04c80e312649e9e512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47f202e703c91ed75c61fffd9ad13f9f') in 0.013551 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Props/SM_Prop_Barrel_Stack_01.prefab
+  artifactKey: Guid(1a67b1e0bb5b63f42b27f651ae919fd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Props/SM_Prop_Barrel_Stack_01.prefab using Guid(1a67b1e0bb5b63f42b27f651ae919fd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1395fca55be206dc80beffb936fd913') in 0.055565 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000421 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Props/SM_Prop_Barrel_Stack_02.prefab
+  artifactKey: Guid(725ee4fa5faa0b842886ba38aa6f8e2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Props/SM_Prop_Barrel_Stack_02.prefab using Guid(725ee4fa5faa0b842886ba38aa6f8e2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f64636a4cdd1e73b39f1b0fdd765ec63') in 0.051708 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Prop_Barrel_Stack_04_Convex.asset
+  artifactKey: Guid(dc37c18dcf27e9c4e8d9f09dad7a959d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Prop_Barrel_Stack_04_Convex.asset using Guid(dc37c18dcf27e9c4e8d9f09dad7a959d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa16fe29d5c27fef94b08a097efae7b0') in 0.013043 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Prop_Barrel_Stack_02_Convex.asset
+  artifactKey: Guid(19fb79a8c8ed4044a91522633ec2f760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Prop_Barrel_Stack_02_Convex.asset using Guid(19fb79a8c8ed4044a91522633ec2f760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a4ac268efefa5ad04a2218e83f53724') in 0.012421 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Prop_Barrel_Stack_02.fbx
+  artifactKey: Guid(e9a4f272f916874408244b54160aaf02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Prop_Barrel_Stack_02.fbx using Guid(e9a4f272f916874408244b54160aaf02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1794f1e1db8f8272ecbe0e49bc197a7') in 0.022226 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Props/SM_Prop_Barrel_Stack_03.prefab
+  artifactKey: Guid(0a9affd0363fb924e9ba59dbac540d35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Props/SM_Prop_Barrel_Stack_03.prefab using Guid(0a9affd0363fb924e9ba59dbac540d35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91607524dfa3e5c50ce7a56c0d9dba5f') in 0.053579 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Prop_Barrel_Stack_03.fbx
+  artifactKey: Guid(305f1f2c25d008d4d9b7ebf18887151a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Prop_Barrel_Stack_03.fbx using Guid(305f1f2c25d008d4d9b7ebf18887151a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fd43271554cbce5bee613fea7b88b8e') in 0.017236 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Prop_Barrel_Stack_03_Convex.asset
+  artifactKey: Guid(efeb8048a4a9f02499e7adbf4e46035a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Prop_Barrel_Stack_03_Convex.asset using Guid(efeb8048a4a9f02499e7adbf4e46035a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22876f7d829c0748294d992c011c8fcf') in 0.014718 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Small_01.fbx
+  artifactKey: Guid(407870ed24481f74aad87e4b288ef7ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Small_01.fbx using Guid(407870ed24481f74aad87e4b288ef7ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49e2a43b8df68a87b68d2dc64b2cb955') in 0.024973 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Prop_Barrel_Stack_01_Convex.asset
+  artifactKey: Guid(062c1eba989d9bf4bbeec6001a917613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Prop_Barrel_Stack_01_Convex.asset using Guid(062c1eba989d9bf4bbeec6001a917613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b12b76e416f0b57b756dd64190ac5a99') in 0.014563 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Props/SM_Prop_Barrel_Stack_04.prefab
+  artifactKey: Guid(c88647a9d96bbda4f8aaae18ce2dd222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Props/SM_Prop_Barrel_Stack_04.prefab using Guid(c88647a9d96bbda4f8aaae18ce2dd222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09e47d4d82c784dd9a854b9ed5081768') in 0.050727 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Prop_Barrel_Stack_04.fbx
+  artifactKey: Guid(a43ac6c4fe47cf04c975b63bd947a172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Prop_Barrel_Stack_04.fbx using Guid(a43ac6c4fe47cf04c975b63bd947a172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7094e8e1522a48734a6630a7806b29b') in 0.013783 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Prop_Barrel_Stack_01.fbx
+  artifactKey: Guid(94c98ad503015774886d4a0ebd79ad90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Prop_Barrel_Stack_01.fbx using Guid(94c98ad503015774886d4a0ebd79ad90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a50473c1de2381653da4edf00d7935a9') in 0.015641 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Stack_01.fbx
+  artifactKey: Guid(e5a6b540c795be24095707a4acbdcecc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Barrel_Stack_01.fbx using Guid(e5a6b540c795be24095707a4acbdcecc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce9092d72175915e5f8f4fb560eecfeb') in 0.015447 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 535.481951 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Torch_01.fbx
+  artifactKey: Guid(3b78da42a3fc1004289d39ac54a191a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Torch_01.fbx using Guid(3b78da42a3fc1004289d39ac54a191a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5d166182bf40fb67a08cc84629fe3dd') in 0.022731 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Torch_02_Convex.asset
+  artifactKey: Guid(6f5b81912d06bfa49afdfc189730eaa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Torch_02_Convex.asset using Guid(6f5b81912d06bfa49afdfc189730eaa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66aab9b88ce17c2faf3423f70e676911') in 0.011300 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Torch_02.fbx
+  artifactKey: Guid(3d8891d00bb76ed4e95774f82d09394f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Torch_02.fbx using Guid(3d8891d00bb76ed4e95774f82d09394f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f986e35abd9f204b3368d9e0d75d9f5') in 0.014853 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Torch_03_Convex.asset
+  artifactKey: Guid(d6b0f5f239ee71c4db3a868a87fd3d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Torch_03_Convex.asset using Guid(d6b0f5f239ee71c4db3a868a87fd3d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9945b3513ba4c6c6e1c696ba7a25d56b') in 0.009663 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Torch_01_Convex.asset
+  artifactKey: Guid(726d3d09d69b05d4c9bc34560e450f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Torch_01_Convex.asset using Guid(726d3d09d69b05d4c9bc34560e450f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dcb8748cdaa8a40bcd69a1107a60448') in 0.010296 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Torch_03.fbx
+  artifactKey: Guid(d7a2ba07057fb1a49ac12511ebca7cda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Dwarf_Torch_03.fbx using Guid(d7a2ba07057fb1a49ac12511ebca7cda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7fbcde6397903d32077344afe23cf09') in 0.017883 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004370 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.52 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.989 seconds
+Domain Reload Profiling:
+	ReloadAssembly (990ms)
+		BeginReloadAssembly (109ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (31ms)
+		EndReloadAssembly (822ms)
+			LoadAssemblies (89ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (299ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (43ms)
+			SetupLoadedEditorAssemblies (303ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (74ms)
+				ProcessInitializeOnLoadAttributes (207ms)
+				ProcessInitializeOnLoadMethodAttributes (9ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.02 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1888 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 126.8 MB.
+System memory in use after: 126.9 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2417.
+Total: 3.912800 ms (FindLiveObjects: 0.152700 ms CreateObjectMapping: 0.076800 ms MarkObjects: 3.630500 ms  DeleteObjects: 0.051700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
