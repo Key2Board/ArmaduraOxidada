@@ -53,7 +53,7 @@
     <UnityVersion>2020.3.30f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
+    <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Assets\Simple FPS Controller\Scripts\SFPSC_KeyManager.cs" />
@@ -79,6 +79,7 @@
     <Compile Include="Assets\Scripts\S.Escenas\CambioEscena.cs" />
     <Compile Include="Assets\Scripts\Triggers\Trigger_Teleport.cs" />
     <Compile Include="Assets\Assets\Simple FPS Controller\Scripts\SFPSC_FPSCamera.cs" />
+    <Compile Include="Assets\Scripts\Triggers\TriggerAnimacion.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Assets\PolygonPrototype\Shaders\Prototype_Glass_Global.shader" />
@@ -90,7 +91,7 @@
     <None Include="Assets\Assets\Simple FPS Controller\Materials\Shaders\Unlit_Texture_Color.shader" />
     <None Include="Assets\Assets\PolygonPrototype\Shaders\Prototype_Global.shader" />
     <None Include="Assets\Assets\PolygonNature\Shaders\SyntyStudios_Vines.shader" />
-    <None Include="Assets\!GET_MORE_ASSETS_FOR_FREE\DEV FREEDOM.txt" />
+    <None Include="Assets\Assets\!GET_MORE_ASSETS_FOR_FREE\DEV FREEDOM.txt" />
     <None Include="Assets\Assets\PolygonNature\Shaders\SyntyStudios_Water.shader" />
     <None Include="Assets\Assets\HandpaintedEnvironmentVol1\Shaders\Wind_Foliage_NoSSS.shader" />
     <None Include="Assets\Assets\PolygonNature\Shaders\SyntyStudios_Trees.shader" />
@@ -684,17 +685,23 @@
     <Reference Include="Unity.VisualStudio.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Formats.Fbx.Runtime">
+      <HintPath>Library\ScriptAssemblies\Unity.Formats.Fbx.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Autodesk.Fbx.Editor">
+      <HintPath>Library\ScriptAssemblies\Autodesk.Fbx.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
       <HintPath>Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Formats.Fbx.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Formats.Fbx.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.UI">
-      <HintPath>Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PlasticSCM.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
@@ -702,14 +709,22 @@
     <Reference Include="Unity.Rider.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.UI">
-      <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+    <Reference Include="Autodesk.Fbx">
+      <HintPath>Library\ScriptAssemblies\Autodesk.Fbx.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Recorder">
       <HintPath>Library\ScriptAssemblies\Unity.Recorder.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="UnityEditor.UI.csproj">
+      <Project>{167DCE34-46D9-2206-9337-F062C1639020}</Project>
+      <Name>UnityEditor.UI</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityEngine.UI.csproj">
+      <Project>{BF910877-414E-8DA4-2A3F-BF750CF4CD75}</Project>
+      <Name>UnityEngine.UI</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
