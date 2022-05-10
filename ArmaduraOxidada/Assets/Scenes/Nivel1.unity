@@ -22681,7 +22681,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1055487487}
         m_TargetAssemblyTypeName: Pausar, Assembly-CSharp
         m_MethodName: LoadMenu
         m_Mode: 1
@@ -25890,7 +25890,7 @@ GameObject:
   - component: {fileID: 1055487484}
   - component: {fileID: 1055487483}
   - component: {fileID: 1055487488}
-  - component: {fileID: 1055487489}
+  - component: {fileID: 1055487487}
   m_Layer: 5
   m_Name: Pausa
   m_TagString: Untagged
@@ -25979,6 +25979,21 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &1055487487
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1055487482}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f898e84444a70274887aecdad3b804ea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pauseMenuUI: {fileID: 119271594}
+  Camera: {fileID: 1071265656}
+  Musica: {fileID: 296360507}
 --- !u!114 &1055487488
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25992,25 +26007,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   audioMixer: {fileID: 24100000, guid: ea7f8fb2af8f34b4e88d85e9769c3bf6, type: 2}
---- !u!114 &1055487489
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1055487482}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e27006e892287e1498aab30c7fe33b68, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  pauseMenuUI: {fileID: 119271594}
-  Camera: {fileID: 1071265656}
-  Musica: {fileID: 296360507}
-  Pajaros: {fileID: 1111580525}
-  Rio: {fileID: 27015318}
-  Tronco: {fileID: 1332243832}
-  Fuente: {fileID: 1999542207}
 --- !u!1001 &1057100963
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -42891,7 +42887,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1055487487}
         m_TargetAssemblyTypeName: Pausar, Assembly-CSharp
         m_MethodName: Resume
         m_Mode: 1
@@ -46329,7 +46325,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1807615624}
-  - component: {fileID: 1807615625}
+  - component: {fileID: 1807615626}
   m_Layer: 0
   m_Name: Camera Position
   m_TagString: Untagged
@@ -46351,7 +46347,7 @@ Transform:
   m_Father: {fileID: 1427518756}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1807615625
+--- !u!114 &1807615626
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -46360,10 +46356,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1807615623}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 908252cb535dabc479778fead6d72a8d, type: 3}
+  m_Script: {fileID: 11500000, guid: 2a84162f341811d4babecd9ce7dabb25, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Pasos: {fileID: 1009983774}
+  Pasos: {fileID: 0}
   bobbingSpeed: 0.03
   bobbingAmount: 0.2
   midpoint: 2

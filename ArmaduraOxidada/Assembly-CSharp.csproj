@@ -53,7 +53,7 @@
     <UnityVersion>2020.3.30f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
+    <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Assets\Simple FPS Controller\Scripts\SFPSC_KeyManager.cs" />
@@ -61,98 +61,97 @@
     <Compile Include="Assets\Scripts\MenuSettings.cs" />
     <Compile Include="Assets\Assets\HandpaintedEnvironmentVol1\Scripts\MenuButton.cs" />
     <Compile Include="Assets\Assets\HandpaintedEnvironmentVol1\Scripts\FPSDisplay.cs" />
+    <Compile Include="Assets\Assets\KriptoFX\MeshEffect\Scripts\ME_MeshMaterialEffect.cs" />
+    <Compile Include="Assets\Assets\KriptoFX\MeshEffect\Scripts\Helpers\ME_EffectSettingColor.cs" />
     <Compile Include="Assets\Scripts\Plataformas.cs" />
     <Compile Include="Assets\Assets\Simple FPS Controller\Scripts\Grappling Hook\SFPSC_Rope.cs" />
     <Compile Include="Assets\Assets\Simple FPS Controller\Scripts\Wall Run\SFPSC_WallRun.cs" />
     <Compile Include="Assets\Scripts\S.Escenas\GameManager.cs" />
     <Compile Include="Assets\Assets\Simple FPS Controller\Scripts\SFPSC_PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\Pausar.cs" />
+    <Compile Include="Assets\Assets\KriptoFX\MeshEffect\Scripts\ME_LightCurves.cs" />
     <Compile Include="Assets\Scripts\Nivel1\HeadBobber1.cs" />
     <Compile Include="Assets\Assets\HandpaintedEnvironmentVol1\Scripts\SmoothMouseLook.cs" />
+    <Compile Include="Assets\Assets\KriptoFX\MeshEffect\PostEffects\PC\Common\ME_MinAttribute.cs" />
     <Compile Include="Assets\Scripts\HeadBobber.cs" />
     <Compile Include="Assets\Assets\HandpaintedEnvironmentVol1\Scripts\Flythrough.cs" />
     <Compile Include="Assets\Scripts\Triggers\TriggerAnimacion.cs" />
     <Compile Include="Assets\Scripts\S.Escenas\MenuPrincipal.cs" />
+    <Compile Include="Assets\Assets\KriptoFX\MeshEffect\Scripts\ME_ParticleGravityPoint.cs" />
+    <Compile Include="Assets\Assets\KriptoFX\MeshEffect\Scripts\PSMeshRendererUpdater.cs" />
     <Compile Include="Assets\Scripts\MouseMovement.cs" />
     <Compile Include="Assets\Assets\Simple FPS Controller\Scripts\Grappling Hook\SFPSC_GrapplingHook.cs" />
     <Compile Include="Assets\Scripts\Nivel1\Pausar1.cs" />
     <Compile Include="Assets\Assets\HandpaintedEnvironmentVol1\Scripts\LevelSelect.cs" />
+    <Compile Include="Assets\NewPlayableBehaviour.cs" />
+    <Compile Include="Assets\Assets\KriptoFX\MeshEffect\Scripts\Helpers\ME_AnimatorEvents.cs" />
+    <Compile Include="Assets\Assets\KriptoFX\MeshEffect\Scripts\ME_ParticleCollisionDecal.cs" />
+    <Compile Include="Assets\Assets\KriptoFX\MeshEffect\DemoResources\Scripts\ME_DemoGUI.cs" />
+    <Compile Include="Assets\Assets\KriptoFX\MeshEffect\PostEffects\Mobile\ME_DistortionAndBloom.cs" />
+    <Compile Include="Assets\Assets\KriptoFX\MeshEffect\PostEffects\PC\Bloom\ME_Bloom.cs" />
+    <Compile Include="Assets\Assets\KriptoFX\MeshEffect\PostEffects\PC\Common\ME_ImageEffectHelper.cs" />
     <Compile Include="Assets\Scripts\Triggers\Teleport.cs" />
+    <Compile Include="Assets\Assets\KriptoFX\MeshEffect\DemoResources\Scripts\ME_RealtimeReflection.cs" />
+    <Compile Include="Assets\Assets\KriptoFX\MeshEffect\Scripts\ME_ParticleTrails.cs" />
+    <Compile Include="Assets\Assets\KriptoFX\MeshEffect\PostEffects\PC\Common\ME_RenderTextureUtility.cs" />
     <Compile Include="Assets\Scripts\Triggers\Audio.cs" />
+    <Compile Include="Assets\Assets\KriptoFX\MeshEffect\Scripts\Helpers\ME_ColorHelper.cs" />
+    <Compile Include="Assets\Assets\KriptoFX\MeshEffect\Scripts\ME_TrailRendererNoise.cs" />
     <Compile Include="Assets\Scripts\S.Escenas\CambioEscena.cs" />
     <Compile Include="Assets\Scripts\Triggers\Trigger_Teleport.cs" />
     <Compile Include="Assets\Assets\Simple FPS Controller\Scripts\SFPSC_FPSCamera.cs" />
-    <Compile Include="Assets\KriptoFX\MeshEffect\PostEffects\PC\Common\ME_RenderTextureUtility.cs" />
-    <Compile Include="Assets\KriptoFX\MeshEffect\DemoResources\Scripts\ME_DemoGUI.cs" />
-    <Compile Include="Assets\KriptoFX\MeshEffect\Scripts\ME_LightCurves.cs" />
-    <Compile Include="Assets\KriptoFX\MeshEffect\PostEffects\PC\Common\ME_MinAttribute.cs" />
-    <Compile Include="Assets\KriptoFX\MeshEffect\Scripts\PSMeshRendererUpdater.cs" />
-    <Compile Include="Assets\KriptoFX\MeshEffect\PostEffects\Mobile\ME_DistortionAndBloom.cs" />
-    <Compile Include="Assets\KriptoFX\MeshEffect\PostEffects\PC\Bloom\ME_Bloom.cs" />
-    <Compile Include="Assets\KriptoFX\MeshEffect\Scripts\ME_TrailRendererNoise.cs" />
-    <Compile Include="Assets\KriptoFX\MeshEffect\Scripts\Helpers\ME_EffectSettingColor.cs" />
-    <Compile Include="Assets\KriptoFX\MeshEffect\Scripts\Helpers\ME_AnimatorEvents.cs" />
-    <Compile Include="Assets\KriptoFX\MeshEffect\Scripts\Helpers\ME_ColorHelper.cs" />
-    <Compile Include="Assets\KriptoFX\MeshEffect\PostEffects\PC\Common\ME_ImageEffectHelper.cs" />
-    <Compile Include="Assets\KriptoFX\MeshEffect\DemoResources\Scripts\ME_MouseOrbit.cs" />
-    <Compile Include="Assets\KriptoFX\MeshEffect\Scripts\ME_MeshMaterialEffect.cs" />
-    <Compile Include="Assets\KriptoFX\MeshEffect\Scripts\ME_ParticleCollisionDecal.cs" />
-    <Compile Include="Assets\KriptoFX\MeshEffect\DemoResources\Scripts\ME_RealtimeReflection.cs" />
-    <Compile Include="Assets\KriptoFX\MeshEffect\Scripts\ME_ParticleGravityPoint.cs" />
-    <Compile Include="Assets\KriptoFX\MeshEffect\Scripts\ME_ParticleTrails.cs" />
-    <Compile Include="Assets\NewPlayableBehaviour.cs" />
+    <Compile Include="Assets\Assets\KriptoFX\MeshEffect\DemoResources\Scripts\ME_MouseOrbit.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Assets\PolygonPrototype\Shaders\Prototype_Glass_Global.shader" />
     <None Include="Assets\Assets\HandpaintedEnvironmentVol1\Shaders\WindGrass.shader" />
-    <None Include="Assets\KriptoFX\MeshEffect\Shaders\ME_SlimeMobile.shader" />
-    <None Include="Assets\KriptoFX\MeshEffect\PostEffects\Mobile\Resources\ME_Bloom.shader" />
-    <None Include="Assets\KriptoFX\MeshEffect\Readme.txt" />
-    <None Include="Assets\KriptoFX\MeshEffect\Shaders\UI3D\UI3D_ME_Gold.shader" />
-    <None Include="Assets\KriptoFX\MeshEffect\PostEffects\Mobile\Resources\ME_Bloom_Inc.cginc" />
-    <None Include="Assets\KriptoFX\MeshEffect\PostEffects\PC\Bloom\Resources\ME_Bloom.cginc" />
+    <None Include="Assets\Assets\KriptoFX\MeshEffect\Shaders\ME_SlimeMobile.shader" />
+    <None Include="Assets\Assets\KriptoFX\MeshEffect\PostEffects\Mobile\Resources\ME_Bloom.shader" />
+    <None Include="Assets\Assets\KriptoFX\MeshEffect\Readme.txt" />
+    <None Include="Assets\Assets\KriptoFX\MeshEffect\Shaders\UI3D\UI3D_ME_Gold.shader" />
+    <None Include="Assets\Assets\KriptoFX\MeshEffect\PostEffects\Mobile\Resources\ME_Bloom_Inc.cginc" />
+    <None Include="Assets\Assets\KriptoFX\MeshEffect\PostEffects\PC\Bloom\Resources\ME_Bloom.cginc" />
     <None Include="Assets\Assets\PolygonPrototype\Shaders\Prototype_Object.shader" />
-    <None Include="Assets\KriptoFX\MeshEffect\Shaders\ME_UberDistortStandardMobile.shader" />
+    <None Include="Assets\Assets\KriptoFX\MeshEffect\Shaders\ME_UberDistortStandardMobile.shader" />
     <None Include="Assets\Assets\PolygonNature\Shaders\SyntyStudios_LOD.shader" />
-    <None Include="Assets\KriptoFX\MeshEffect\Shaders\ME_Gold.shader" />
+    <None Include="Assets\Assets\KriptoFX\MeshEffect\Shaders\ME_Gold.shader" />
     <None Include="Assets\Assets\HandpaintedEnvironmentVol1\Shaders\Blur.shader" />
-    <None Include="Assets\KriptoFX\MeshEffect\Shaders\UI3D\UI3D_ME_SlimeMobile.shader" />
+    <None Include="Assets\Assets\KriptoFX\MeshEffect\Shaders\UI3D\UI3D_ME_SlimeMobile.shader" />
     <None Include="Assets\Assets\HandpaintedEnvironmentVol1\Shaders\WindLeaves_MultiColor.shader" />
-    <None Include="Assets\KriptoFX\MeshEffect\Shaders\UI3D\UI3D_ME_DistortPerlin.shader" />
-    <None Include="Assets\KriptoFX\MeshEffect\Shaders\UI3D\UI3D_ME_UberDistortStandard.shader" />
+    <None Include="Assets\Assets\KriptoFX\MeshEffect\Shaders\UI3D\UI3D_ME_DistortPerlin.shader" />
+    <None Include="Assets\Assets\KriptoFX\MeshEffect\Shaders\UI3D\UI3D_ME_UberDistortStandard.shader" />
     <None Include="Assets\Assets\Simple FPS Controller\Materials\Shaders\Unlit_Texture_Color.shader" />
-    <None Include="Assets\KriptoFX\MeshEffect\Shaders\UI3D\UI3D_ME_DistortPerlinMobile.shader" />
+    <None Include="Assets\Assets\KriptoFX\MeshEffect\Shaders\UI3D\UI3D_ME_DistortPerlinMobile.shader" />
     <None Include="Assets\Assets\PolygonPrototype\Shaders\Prototype_Global.shader" />
-    <None Include="Assets\KriptoFX\MeshEffect\PostEffects\Mobile\Resources\ME_ReplacementPostEffect.shader" />
-    <None Include="Assets\KriptoFX\MeshEffect\Shaders\ME_UberDistortStandard.shader" />
-    <None Include="Assets\KriptoFX\MeshEffect\PostEffects\PC\Bloom\Resources\ME_Bloom.shader" />
-    <None Include="Assets\KriptoFX\MeshEffect\Shaders\ME_GlowCutoutGradient.shader" />
+    <None Include="Assets\Assets\KriptoFX\MeshEffect\PostEffects\Mobile\Resources\ME_ReplacementPostEffect.shader" />
+    <None Include="Assets\Assets\KriptoFX\MeshEffect\Shaders\ME_UberDistortStandard.shader" />
+    <None Include="Assets\Assets\KriptoFX\MeshEffect\PostEffects\PC\Bloom\Resources\ME_Bloom.shader" />
+    <None Include="Assets\Assets\KriptoFX\MeshEffect\Shaders\ME_GlowCutoutGradient.shader" />
     <None Include="Assets\Assets\PolygonNature\Shaders\SyntyStudios_Vines.shader" />
-    <None Include="Assets\KriptoFX\MeshEffect\PostEffects\Mobile\Resources\ME_BloomAdditive.shader" />
-    <None Include="Assets\!GET_MORE_ASSETS_FOR_FREE\DEV FREEDOM.txt" />
+    <None Include="Assets\Assets\KriptoFX\MeshEffect\PostEffects\Mobile\Resources\ME_BloomAdditive.shader" />
     <None Include="Assets\Assets\PolygonNature\Shaders\SyntyStudios_Water.shader" />
-    <None Include="Assets\KriptoFX\MeshEffect\Shaders\UI3D\UI3D_ME_GlowCutout.shader" />
-    <None Include="Assets\KriptoFX\MeshEffect\Shaders\UI3D\UI3D_ME_LightningParticles.shader" />
-    <None Include="Assets\KriptoFX\MeshEffect\Shaders\UI3D\UI3D_ME_UberDistortStandardMobile.shader" />
-    <None Include="Assets\KriptoFX\MeshEffect\Shaders\UI3D\UI3D_ME_Particle.shader" />
-    <None Include="Assets\KriptoFX\MeshEffect\Shaders\ME_DistortPasses.cginc" />
+    <None Include="Assets\Assets\KriptoFX\MeshEffect\Shaders\UI3D\UI3D_ME_GlowCutout.shader" />
+    <None Include="Assets\Assets\KriptoFX\MeshEffect\Shaders\UI3D\UI3D_ME_LightningParticles.shader" />
+    <None Include="Assets\Assets\KriptoFX\MeshEffect\Shaders\UI3D\UI3D_ME_UberDistortStandardMobile.shader" />
+    <None Include="Assets\Assets\KriptoFX\MeshEffect\Shaders\UI3D\UI3D_ME_Particle.shader" />
+    <None Include="Assets\Assets\KriptoFX\MeshEffect\Shaders\ME_DistortPasses.cginc" />
     <None Include="Assets\Assets\HandpaintedEnvironmentVol1\Shaders\Wind_Foliage_NoSSS.shader" />
     <None Include="Assets\Assets\PolygonNature\Shaders\SyntyStudios_Trees.shader" />
-    <None Include="Assets\KriptoFX\MeshEffect\Shaders\UI3D\UI3D_ME_Slime.shader" />
-    <None Include="Assets\KriptoFX\MeshEffect\Shaders\ME_DistortPerlinMobile.shader" />
+    <None Include="Assets\Assets\KriptoFX\MeshEffect\Shaders\UI3D\UI3D_ME_Slime.shader" />
+    <None Include="Assets\Assets\KriptoFX\MeshEffect\Shaders\ME_DistortPerlinMobile.shader" />
     <None Include="Assets\Assets\PolygonNature\Shaders\VS_indirect.cginc" />
-    <None Include="Assets\KriptoFX\MeshEffect\Shaders\ME_DistortPerlin.shader" />
-    <None Include="Assets\KriptoFX\MeshEffect\Shaders\ME_Particle.shader" />
+    <None Include="Assets\Assets\KriptoFX\MeshEffect\Shaders\ME_DistortPerlin.shader" />
+    <None Include="Assets\Assets\KriptoFX\MeshEffect\Shaders\ME_Particle.shader" />
     <None Include="Assets\Assets\PolygonPrototype\Shaders\Prototype_Glass_Object.shader" />
-    <None Include="Assets\KriptoFX\MeshEffect\Shaders\UI3D\UI3D_ME_GlowCutoutGradient.shader" />
+    <None Include="Assets\Assets\KriptoFX\MeshEffect\Shaders\UI3D\UI3D_ME_GlowCutoutGradient.shader" />
     <None Include="Assets\Assets\PolygonNature\Shaders\SyntyStudios_Moss.shader" />
-    <None Include="Assets\KriptoFX\MeshEffect\Shaders\ME_GlowCutout.shader" />
+    <None Include="Assets\Assets\KriptoFX\MeshEffect\Shaders\ME_GlowCutout.shader" />
     <None Include="Assets\Assets\HandpaintedEnvironmentVol1\Shaders\Old\WindLeaves.shader" />
-    <None Include="Assets\KriptoFX\MeshEffect\Shaders\UI3D\UI3D_ME_DistortPasses.cginc" />
-    <None Include="Assets\KriptoFX\MeshEffect\Shaders\ME_LightningParticles.shader" />
+    <None Include="Assets\Assets\KriptoFX\MeshEffect\Shaders\UI3D\UI3D_ME_DistortPasses.cginc" />
+    <None Include="Assets\Assets\KriptoFX\MeshEffect\Shaders\ME_LightningParticles.shader" />
     <None Include="Assets\Assets\PolygonNature\Shaders\SyntyStudios_SkyGradient.shader" />
     <None Include="Assets\Assets\HandpaintedEnvironmentVol1\Shaders\HandpaintedBaseShader.shader" />
-    <None Include="Assets\KriptoFX\MeshEffect\Shaders\ME_Slime.shader" />
+    <None Include="Assets\Assets\KriptoFX\MeshEffect\Shaders\ME_Slime.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -755,9 +754,6 @@
     <Reference Include="Unity.TextMeshPro">
       <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEditor.UI">
-      <HintPath>Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.PlasticSCM.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
     </Reference>
@@ -767,14 +763,19 @@
     <Reference Include="Autodesk.Fbx">
       <HintPath>Library\ScriptAssemblies\Autodesk.Fbx.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.UI">
-      <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.Recorder">
       <HintPath>Library\ScriptAssemblies\Unity.Recorder.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="UnityEditor.UI.csproj">
+      <Project>{167DCE34-46D9-2206-9337-F062C1639020}</Project>
+      <Name>UnityEditor.UI</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityEngine.UI.csproj">
+      <Project>{BF910877-414E-8DA4-2A3F-BF750CF4CD75}</Project>
+      <Name>UnityEngine.UI</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
