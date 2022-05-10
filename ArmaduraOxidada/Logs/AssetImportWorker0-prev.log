@@ -1,304 +1,123 @@
 Using pre-set license
 Built from '2020.3/staging' branch; Version is '2020.3.30f1 (1fb1bf06830e) revision 2077119'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10  (10.0.19044) 64bit Core' Language: 'es' Physical Memory: 16319 MB
+OS: 'Windows 10  (10.0.19041) 64bit Professional' Language: 'es' Physical Memory: 16215 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
 COMMAND LINE ARGUMENTS:
-D:\unity\motor\2020.3.30f1\Editor\Unity.exe
+C:\Program Files\Unity\Hub\Editor\2020.3.30f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-D:/unity/github/ArmaduraOxidada/ArmaduraOxidada
+C:/repositorio github/proyectos 2/ArmaduraOxidada/ArmaduraOxidada
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-63322
-Successfully changed project path to: D:/unity/github/ArmaduraOxidada/ArmaduraOxidada
-D:/unity/github/ArmaduraOxidada/ArmaduraOxidada
+51051
+Successfully changed project path to: C:/repositorio github/proyectos 2/ArmaduraOxidada/ArmaduraOxidada
+C:/repositorio github/proyectos 2/ArmaduraOxidada/ArmaduraOxidada
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 178.11 ms, found 6 plugins.
+Refreshing native plugins compatible for Editor in 338.20 ms, found 6 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.30f1 (1fb1bf06830e)
-[Subsystems] Discovering subsystems at path D:/unity/motor/2020.3.30f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path D:/unity/github/ArmaduraOxidada/ArmaduraOxidada/Assets
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/repositorio github/proyectos 2/ArmaduraOxidada/ArmaduraOxidada/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1e89)
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f15)
     Vendor:   
-    VRAM:     5968 MB
+    VRAM:     5980 MB
     Driver:   30.0.15.1179
 Initialize mono
-Mono path[0] = 'D:/unity/motor/2020.3.30f1/Editor/Data/Managed'
-Mono path[1] = 'D:/unity/motor/2020.3.30f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'D:/unity/motor/2020.3.30f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56932
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56616
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: D:/unity/motor/2020.3.30f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001478 seconds.
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.012644 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 182.04 ms, found 6 plugins.
+Refreshing native plugins compatible for Editor in 192.37 ms, found 6 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.826 seconds
+- Completed reload, in  0.957 seconds
 Domain Reload Profiling:
-	ReloadAssembly (827ms)
-		BeginReloadAssembly (89ms)
+	ReloadAssembly (957ms)
+		BeginReloadAssembly (118ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (660ms)
-			LoadAssemblies (88ms)
+		EndReloadAssembly (740ms)
+			LoadAssemblies (115ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (170ms)
+			SetupTypeCache (191ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (33ms)
-			SetupLoadedEditorAssemblies (333ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (372ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
+				InitializePlatformSupportModulesInManaged (6ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (182ms)
-				BeforeProcessingInitializeOnLoad (16ms)
-				ProcessInitializeOnLoadAttributes (97ms)
-				ProcessInitializeOnLoadMethodAttributes (33ms)
+				RefreshPlugins (193ms)
+				BeforeProcessingInitializeOnLoad (32ms)
+				ProcessInitializeOnLoadAttributes (96ms)
+				ProcessInitializeOnLoadMethodAttributes (45ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.005659 seconds.
+Registered in 0.011120 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.52 ms, found 6 plugins.
+Refreshing native plugins compatible for Editor in 2.40 ms, found 6 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.173 seconds
+- Completed reload, in  2.639 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1174ms)
-		BeginReloadAssembly (191ms)
+	ReloadAssembly (2641ms)
+		BeginReloadAssembly (188ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (6ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (20ms)
-		EndReloadAssembly (918ms)
-			LoadAssemblies (131ms)
+			CreateAndSetChildDomain (28ms)
+		EndReloadAssembly (2376ms)
+			LoadAssemblies (1424ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (315ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (50ms)
-			SetupLoadedEditorAssemblies (342ms)
+			SetupTypeCache (354ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (62ms)
+			SetupLoadedEditorAssemblies (432ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (5ms)
 				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (92ms)
-				ProcessInitializeOnLoadAttributes (228ms)
-				ProcessInitializeOnLoadMethodAttributes (11ms)
-				AfterProcessingInitializeOnLoad (3ms)
+				BeforeProcessingInitializeOnLoad (109ms)
+				ProcessInitializeOnLoadAttributes (281ms)
+				ProcessInitializeOnLoadMethodAttributes (24ms)
+				AfterProcessingInitializeOnLoad (8ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (8ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
-Refreshing native plugins compatible for Editor in 1.55 ms, found 6 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
+Refreshing native plugins compatible for Editor in 3.99 ms, found 6 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1919 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 117.3 MB.
-System memory in use after: 117.4 MB.
+Unloading 1920 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.6 MB.
+System memory in use after: 98.7 MB.
 
-Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2378.
-Total: 3.287200 ms (FindLiveObjects: 0.197400 ms CreateObjectMapping: 0.051500 ms MarkObjects: 2.916200 ms  DeleteObjects: 0.121200 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  path: Assets/Assets/HandpaintedEnvironmentVol1/Textures/Rocks/T_Stones_Update_C.png
-  artifactKey: Guid(f8f53c291e45bea47ae79731f49a2312) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/HandpaintedEnvironmentVol1/Textures/Rocks/T_Stones_Update_C.png using Guid(f8f53c291e45bea47ae79731f49a2312) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a920e6b2ea1ac24a51e924757f613cff') in 0.207398 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000240 seconds.
-  path: Assets/Assets/HandpaintedEnvironmentVol1/Textures/Rocks/T_RuneRock_01_E.png
-  artifactKey: Guid(430e1717f2e82fa4c9985e0c1609abee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/HandpaintedEnvironmentVol1/Textures/Rocks/T_RuneRock_01_E.png using Guid(430e1717f2e82fa4c9985e0c1609abee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc3b8af837aa90e00c175f491ace8f32') in 0.074689 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000190 seconds.
-  path: Assets/Assets/HandpaintedEnvironmentVol1/Textures/Rocks/T_Stones_Update_N.png
-  artifactKey: Guid(3e2fb54f7b463e94790a3d34826d6871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/HandpaintedEnvironmentVol1/Textures/Rocks/T_Stones_Update_N.png using Guid(3e2fb54f7b463e94790a3d34826d6871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a316d822fc2587c7ed631dd11c00d344') in 0.141554 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000198 seconds.
-  path: Assets/Assets/HandpaintedEnvironmentVol1/Textures/Rocks/T_RocksSmall_R.png
-  artifactKey: Guid(653456e8186d0df4dbc78c7a41095679) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/HandpaintedEnvironmentVol1/Textures/Rocks/T_RocksSmall_R.png using Guid(653456e8186d0df4dbc78c7a41095679) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05a4a26f81015c96b38161ee8ab1f13b') in 0.091028 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000166 seconds.
-  path: Assets/Assets/HandpaintedEnvironmentVol1/Textures/Rocks/T_RuneRock_01_R.png
-  artifactKey: Guid(657afc992d0327243a9acf0cf442634c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/HandpaintedEnvironmentVol1/Textures/Rocks/T_RuneRock_01_R.png using Guid(657afc992d0327243a9acf0cf442634c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '613e26243e578455418f76ad22d897b7') in 0.090831 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000172 seconds.
-  path: Assets/Assets/HandpaintedEnvironmentVol1/Textures/Rocks
-  artifactKey: Guid(b44f50875b985954fa3f6cade7837c89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/HandpaintedEnvironmentVol1/Textures/Rocks using Guid(b44f50875b985954fa3f6cade7837c89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3ad7b3acd6464870deb80021aa81755') in 0.007396 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000208 seconds.
-  path: Assets/Assets/HandpaintedEnvironmentVol1/Textures/Rocks/T_RuneRock_02_R.png
-  artifactKey: Guid(fa6a311ffa6b107419913dc856feff4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/HandpaintedEnvironmentVol1/Textures/Rocks/T_RuneRock_02_R.png using Guid(fa6a311ffa6b107419913dc856feff4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b956d66b5642a6c641efc0349974da50') in 0.065184 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000209 seconds.
-  path: Assets/Assets/HandpaintedEnvironmentVol1/Textures/Rocks/T_RuneRock_02_E.png
-  artifactKey: Guid(d9ccbba8389615b4792a4f21f6efbce4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/HandpaintedEnvironmentVol1/Textures/Rocks/T_RuneRock_02_E.png using Guid(d9ccbba8389615b4792a4f21f6efbce4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f61f6c27efb7f45653a1f912ebeeb87') in 0.077669 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000156 seconds.
-  path: Assets/Assets/HandpaintedEnvironmentVol1/Textures/Rocks/T_Stones_Update_R.png
-  artifactKey: Guid(4a82749a9d0a6f848900e52ed341ef4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/HandpaintedEnvironmentVol1/Textures/Rocks/T_Stones_Update_R.png using Guid(4a82749a9d0a6f848900e52ed341ef4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '837b49930b441debbdeac1b7f7425c8f') in 0.092267 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000159 seconds.
-  path: Assets/Assets/HandpaintedEnvironmentVol1/Textures/Rocks/T_RuneRock_01_C.png
-  artifactKey: Guid(7c18a53d7be383649996a52bf625706b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/HandpaintedEnvironmentVol1/Textures/Rocks/T_RuneRock_01_C.png using Guid(7c18a53d7be383649996a52bf625706b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '278043174490f5e790037027f332a8ad') in 0.097128 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000163 seconds.
-  path: Assets/Assets/HandpaintedEnvironmentVol1/Textures/Rocks/T_RuneRock_02_C.png
-  artifactKey: Guid(f8f99a7c9dd68cf49a747b2226e88540) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/HandpaintedEnvironmentVol1/Textures/Rocks/T_RuneRock_02_C.png using Guid(f8f99a7c9dd68cf49a747b2226e88540) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb283ad6718a93f0475ea7d773ea2dc7') in 0.074578 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000167 seconds.
-  path: Assets/Assets/HandpaintedEnvironmentVol1/Textures/Rocks/T_RocksSmall_C.png
-  artifactKey: Guid(3483b257a5761db4aacb3e8620949955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/HandpaintedEnvironmentVol1/Textures/Rocks/T_RocksSmall_C.png using Guid(3483b257a5761db4aacb3e8620949955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e39b25bd3a4e2bafb9ebe9b7a3e2f7f9') in 0.102350 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000227 seconds.
-  path: Assets/Assets/HandpaintedEnvironmentVol1/Textures/Rocks/T_RuneRock_01_N.png
-  artifactKey: Guid(18598d793c2af26458f7b6e2d158c02d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/HandpaintedEnvironmentVol1/Textures/Rocks/T_RuneRock_01_N.png using Guid(18598d793c2af26458f7b6e2d158c02d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77c6c36af3a4dcf1a5a0de2a43d39565') in 0.062182 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000174 seconds.
-  path: Assets/Assets/HandpaintedEnvironmentVol1/Textures/Rocks/T_RocksSmall_N.png
-  artifactKey: Guid(36673cf877703564ea927397347055f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/HandpaintedEnvironmentVol1/Textures/Rocks/T_RocksSmall_N.png using Guid(36673cf877703564ea927397347055f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '205a32e69ae5c6c9d1ece5ce0b872e81') in 0.076527 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000142 seconds.
-  path: Assets/Assets/HandpaintedEnvironmentVol1/Textures/Rocks/T_RuneRock_02_N.png
-  artifactKey: Guid(fac1cf4303a1877428f0e7fc8f63dfa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/HandpaintedEnvironmentVol1/Textures/Rocks/T_RuneRock_02_N.png using Guid(fac1cf4303a1877428f0e7fc8f63dfa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e2cdd9c5b52fdfb580c0947f51e2566') in 0.114096 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 6.528408 seconds.
-  path: Assets/Assets/PolygonNature/Models/SM_Rock_Cluster_Large_03.fbx
-  artifactKey: Guid(690f3b5126e54a74eac23b9a0a34160d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonNature/Models/SM_Rock_Cluster_Large_03.fbx using Guid(690f3b5126e54a74eac23b9a0a34160d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c79c95069186f12cbdbcc2bb61b5e4c') in 0.214960 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000213 seconds.
-  path: Assets/Assets/PolygonNature/Models/SM_Rock_Cluster_Large_04.fbx
-  artifactKey: Guid(108d8e85fe1296f48a2aca1f8a7bbce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonNature/Models/SM_Rock_Cluster_Large_04.fbx using Guid(108d8e85fe1296f48a2aca1f8a7bbce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77d49ced3033f5d806e530df9212ae34') in 0.108875 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000166 seconds.
-  path: Assets/Assets/PolygonNature/Models/SM_Rock_Pile_01.fbx
-  artifactKey: Guid(231d256a707395b4e9e862217ff74bc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonNature/Models/SM_Rock_Pile_01.fbx using Guid(231d256a707395b4e9e862217ff74bc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48d25487cccc00c0c7aa6c02d05103dc') in 0.028889 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000198 seconds.
-  path: Assets/Assets/PolygonNature/Models/SM_Rock_Cluster_Large_06.fbx
-  artifactKey: Guid(cc7c2513c76dcff4b998b3eca14b8c78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonNature/Models/SM_Rock_Cluster_Large_06.fbx using Guid(cc7c2513c76dcff4b998b3eca14b8c78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dce2792a0a5b12c25e6ea48bcf528499') in 0.077464 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000234 seconds.
-  path: Assets/Assets/PolygonNature/Models/SM_Rock_Cluster_Large_05.fbx
-  artifactKey: Guid(f2ad3ca5eab9f924a9f8ff4f947b51c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonNature/Models/SM_Rock_Cluster_Large_05.fbx using Guid(f2ad3ca5eab9f924a9f8ff4f947b51c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a1b45179b4c7e3236c7248ad9ce3a64') in 0.071549 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000250 seconds.
-  path: Assets/Assets/PolygonNature/Models/SM_Rock_Pile_02.fbx
-  artifactKey: Guid(2a1e0b5f6f56676439b62c1e76f3b4c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonNature/Models/SM_Rock_Pile_02.fbx using Guid(2a1e0b5f6f56676439b62c1e76f3b4c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b172d7d609028c93b51844b3d9683510') in 0.019653 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005624 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.57 ms, found 6 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.115 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1116ms)
-		BeginReloadAssembly (139ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (32ms)
-		EndReloadAssembly (907ms)
-			LoadAssemblies (130ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (317ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (44ms)
-			SetupLoadedEditorAssemblies (329ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (90ms)
-				ProcessInitializeOnLoadAttributes (218ms)
-				ProcessInitializeOnLoadMethodAttributes (10ms)
-				AfterProcessingInitializeOnLoad (3ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (8ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 2.16 ms, found 6 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1890 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 118.2 MB.
-System memory in use after: 118.3 MB.
-
-Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2393.
-Total: 4.512200 ms (FindLiveObjects: 0.187800 ms CreateObjectMapping: 0.055400 ms MarkObjects: 4.230200 ms  DeleteObjects: 0.037300 ms)
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2346.
+Total: 15.480800 ms (FindLiveObjects: 0.709400 ms CreateObjectMapping: 0.257000 ms MarkObjects: 13.713600 ms  DeleteObjects: 0.797000 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -312,509 +131,60 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 485.122419 seconds.
-  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Spikes_01.fbx
-  artifactKey: Guid(de848775ed979f34f87c268b3090e34c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Spikes_01.fbx using Guid(de848775ed979f34f87c268b3090e34c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '706331a487b77c71a625daa38da70f3c') in 0.180503 seconds 
+  path: Assets/Scripts/Nivel1
+  artifactKey: Guid(d321b4f1825a6934faca6b95e56dab95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Nivel1 using Guid(d321b4f1825a6934faca6b95e56dab95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '558634873085838b540a0b15d5080aea') in 0.021521 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000159 seconds.
-  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Spikes_04.fbx
-  artifactKey: Guid(8a40fa1bb254812459f38746c5d4cfb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Spikes_04.fbx using Guid(8a40fa1bb254812459f38746c5d4cfb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6e8a835785d5b925740c507a361f4fa') in 0.050700 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000214 seconds.
-  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Spikes_04_Convex.asset
-  artifactKey: Guid(875030f035c16d248881fa50bd24f94c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Spikes_04_Convex.asset using Guid(875030f035c16d248881fa50bd24f94c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '074ecf7007d48cb957aa8b62fec0b891') in 0.016120 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000212 seconds.
-  path: Assets/Assets/PolygonDungeonRealms/Prefabs/Environments/SM_Env_Hell_Spikes_06.prefab
-  artifactKey: Guid(99104113e60aced47bfd36eb0758c6c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonDungeonRealms/Prefabs/Environments/SM_Env_Hell_Spikes_06.prefab using Guid(99104113e60aced47bfd36eb0758c6c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3597be531db1f3cd086515509c8a5b39') in 0.142932 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000214 seconds.
-  path: Assets/Assets/PolygonDungeonRealms/Prefabs/Environments/SM_Env_Plant_Spikey_01.prefab
-  artifactKey: Guid(97fc0fa4be7eeaf48bc505924221f2bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonDungeonRealms/Prefabs/Environments/SM_Env_Plant_Spikey_01.prefab using Guid(97fc0fa4be7eeaf48bc505924221f2bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8229988942d4858540a1751de1d9c56') in 0.093452 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000257 seconds.
-  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Spikes_01.fbx
-  artifactKey: Guid(079fc4931f9d5654e9ec872381797013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Spikes_01.fbx using Guid(079fc4931f9d5654e9ec872381797013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5be787ab1194dc798571b2a223c04d2') in 0.048754 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000181 seconds.
-  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Spikes_02_Convex.asset
-  artifactKey: Guid(046a1fabbdf0ea44a947f206a50697a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Spikes_02_Convex.asset using Guid(046a1fabbdf0ea44a947f206a50697a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee1490d2e5b47344f1102c362f3d1d9d') in 0.012503 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000213 seconds.
-  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Props/BattleGround/SM_Prop_Spike_Fortification_01.prefab
-  artifactKey: Guid(235c9a28d34302249ac8233cf98d8297) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Props/BattleGround/SM_Prop_Spike_Fortification_01.prefab using Guid(235c9a28d34302249ac8233cf98d8297) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5882139510b38ae1301aad4e8b849b96') in 0.113579 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000222 seconds.
-  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Props/BattleGround/SM_Prop_Spike_Fortification_02.prefab
-  artifactKey: Guid(bf7636086a3cbf4429611a44a0293ff2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Props/BattleGround/SM_Prop_Spike_Fortification_02.prefab using Guid(bf7636086a3cbf4429611a44a0293ff2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '281bd0eb5109a972dd447a8cbe2c8b85') in 0.061043 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000233 seconds.
-  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Props/BattleGround/SM_Prop_Spike_Wall_02.prefab
-  artifactKey: Guid(54af4c2ea084a084dac70906c4da5c29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Props/BattleGround/SM_Prop_Spike_Wall_02.prefab using Guid(54af4c2ea084a084dac70906c4da5c29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c31341eaa6be0f7d8a54e452c3dc5a15') in 0.058297 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000230 seconds.
-  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Props/BattleGround/SM_Prop_Spike_Fortification_03.prefab
-  artifactKey: Guid(c09337db46d95c6468437afccf3bb9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Props/BattleGround/SM_Prop_Spike_Fortification_03.prefab using Guid(c09337db46d95c6468437afccf3bb9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fb878c6d9df62234e6a9fbae2d83c55') in 0.060293 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000181 seconds.
-  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Spike_01.fbx
-  artifactKey: Guid(443b79a26110b1d4cb7a2339f0715890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Spike_01.fbx using Guid(443b79a26110b1d4cb7a2339f0715890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4527a2289c014949d1746b1d00d505c') in 0.036388 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000162 seconds.
-  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Plant_Spikey_01.fbx
-  artifactKey: Guid(57ad3d38b20ffce48ad62000caa6216c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Plant_Spikey_01.fbx using Guid(57ad3d38b20ffce48ad62000caa6216c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2e262fbab36b308a22101c41b7a85ba') in 0.033791 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000205 seconds.
-  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Spikes_03_Convex.asset
-  artifactKey: Guid(9e3605725f246134aaf2145c87a07083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Spikes_03_Convex.asset using Guid(9e3605725f246134aaf2145c87a07083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f91cf001bcfcfb2b51715ced70a84a01') in 0.013231 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000183 seconds.
-  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Spikes_03.fbx
-  artifactKey: Guid(0102181ed3e28344ea240ece90160e4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Spikes_03.fbx using Guid(0102181ed3e28344ea240ece90160e4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6930f85381d5b19a5a4793980e44e13') in 0.058125 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000198 seconds.
-  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Spikes_02_Convex.asset
-  artifactKey: Guid(7271194a63d9b4746ae081ec9ac8c4e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Spikes_02_Convex.asset using Guid(7271194a63d9b4746ae081ec9ac8c4e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf902b711365dd83c263b06db3692b8d') in 0.015417 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000236 seconds.
-  path: Assets/Assets/PolygonDungeonRealms/Prefabs/Environments/SM_Env_Hell_Spikes_05.prefab
-  artifactKey: Guid(1d979db59fa7f1f48ac953325be2140e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonDungeonRealms/Prefabs/Environments/SM_Env_Hell_Spikes_05.prefab using Guid(1d979db59fa7f1f48ac953325be2140e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ce3f7a55787424798d61a2ef98db56b') in 0.072423 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000257 seconds.
-  path: Assets/Assets/PolygonDungeonRealms/Prefabs/Environments/SM_Env_Hell_Spikes_01.prefab
-  artifactKey: Guid(b3ea28ad9ce04ee4182d26e1605c674d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonDungeonRealms/Prefabs/Environments/SM_Env_Hell_Spikes_01.prefab using Guid(b3ea28ad9ce04ee4182d26e1605c674d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b89e12790259970a4dc513ae8636900') in 0.044371 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000187 seconds.
-  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Prop_Spike_Wall_01.fbx
-  artifactKey: Guid(d948b51d152cd2348b756856f220cc7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Prop_Spike_Wall_01.fbx using Guid(d948b51d152cd2348b756856f220cc7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2f1c186adcbded3387895a82a38ce17') in 0.064124 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000162 seconds.
-  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Spike_Skull_03.fbx
-  artifactKey: Guid(841f19e07d9714b49ab7314ac9ebe2d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Spike_Skull_03.fbx using Guid(841f19e07d9714b49ab7314ac9ebe2d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b71006d770b162b8e9ac5239e723bd32') in 0.058233 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000188 seconds.
-  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Spike_Skull_02.fbx
-  artifactKey: Guid(921129a7ca0b3e743a30172af46ec724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Spike_Skull_02.fbx using Guid(921129a7ca0b3e743a30172af46ec724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21de1ea548c6b28345400005b9155229') in 0.045196 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000191 seconds.
-  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Spike_Skull_01.fbx
-  artifactKey: Guid(c610d73f304395046bbdbedce07fe95f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Spike_Skull_01.fbx using Guid(c610d73f304395046bbdbedce07fe95f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0fcf20ea9c3f508a7ea46c6b0587433') in 0.058888 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000150 seconds.
-  path: Assets/Assets/PolygonDungeonRealms/Prefabs/Environments/SM_Env_Hell_Spikes_04.prefab
-  artifactKey: Guid(92064442806018f4095480c9d0700358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonDungeonRealms/Prefabs/Environments/SM_Env_Hell_Spikes_04.prefab using Guid(92064442806018f4095480c9d0700358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07a61df0aa206c564076f36cd5f6b026') in 0.045240 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000265 seconds.
-  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Spikes_01_Convex.asset
-  artifactKey: Guid(40917c22f540f4d43a095bc54daa4d85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Spikes_01_Convex.asset using Guid(40917c22f540f4d43a095bc54daa4d85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e58ed6583c7db174985f527adfc83989') in 0.014547 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000199 seconds.
-  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Spikes_05.fbx
-  artifactKey: Guid(443a5bf7b067da843bf985af76d8e47a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Spikes_05.fbx using Guid(443a5bf7b067da843bf985af76d8e47a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19e6be529ba1cc007230df7caaa32e90') in 0.018108 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000236 seconds.
-  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Prop_Spike_Fortification_03_Convex.asset
-  artifactKey: Guid(1f337430a5700b04486845545942a3d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Prop_Spike_Fortification_03_Convex.asset using Guid(1f337430a5700b04486845545942a3d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4ed3f3c6692f0b7914a7a83c76c6a1b') in 0.014731 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000270 seconds.
-  path: Assets/Assets/PolygonDungeonRealms/Prefabs/Environments/SM_Env_Hell_Spikes_02.prefab
-  artifactKey: Guid(46cd2b5041a601c4a934298012becc51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonDungeonRealms/Prefabs/Environments/SM_Env_Hell_Spikes_02.prefab using Guid(46cd2b5041a601c4a934298012becc51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '892ad1f9c384b348e1bfd993a5d4b092') in 0.064132 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000239 seconds.
-  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Prop_Spike_Fortification_01.fbx
-  artifactKey: Guid(d08b550b5fbea0345b560d6a6d03a5c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Prop_Spike_Fortification_01.fbx using Guid(d08b550b5fbea0345b560d6a6d03a5c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd202bb42917bf0925a1fe93f69545662') in 0.019649 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000189 seconds.
-  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Props/BattleGround/SM_Prop_Spike_Wall_01.prefab
-  artifactKey: Guid(2cb1b4b63f7bf794aa992126b6f64580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Props/BattleGround/SM_Prop_Spike_Wall_01.prefab using Guid(2cb1b4b63f7bf794aa992126b6f64580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '253fddc32184fd96e9ae47dbbb80ee88') in 0.033120 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000218 seconds.
-  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Prop_Spike_Wall_01_Convex.asset
-  artifactKey: Guid(ca4e55aa2e98dda4aa0d18e2113f9008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Prop_Spike_Wall_01_Convex.asset using Guid(ca4e55aa2e98dda4aa0d18e2113f9008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41d165f16ed016ed94caa6ecf82c8740') in 0.012849 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000262 seconds.
-  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Prop_Spike_Wall_02.fbx
-  artifactKey: Guid(c757ea12a0ab79444ad80f4b183a6dae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Prop_Spike_Wall_02.fbx using Guid(c757ea12a0ab79444ad80f4b183a6dae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cc98bdda1bad132f26a4b3e93ac4965') in 0.017143 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000149 seconds.
-  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Spikes_02.fbx
-  artifactKey: Guid(6f40d208025ec6d44a8c21c3ac91e0c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Spikes_02.fbx using Guid(6f40d208025ec6d44a8c21c3ac91e0c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c38f92166d489678fc53468aa555042f') in 0.076079 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000236 seconds.
-  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Prop_Spike_Wall_03.fbx
-  artifactKey: Guid(9f38a280a0ab75045bd8b14089b1bab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Prop_Spike_Wall_03.fbx using Guid(9f38a280a0ab75045bd8b14089b1bab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e667c74c229695455f0b77e052b04dad') in 0.035425 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000207 seconds.
-  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Prop_Spike_Fortification_02.fbx
-  artifactKey: Guid(fa401bdd68ee5b9498078d5f37811a44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Prop_Spike_Fortification_02.fbx using Guid(fa401bdd68ee5b9498078d5f37811a44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94fd2183e37214f37a96e2df0ff56e48') in 0.020361 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000176 seconds.
-  path: Assets/Assets/PolygonDungeonRealms/Prefabs/Environments/SM_Env_Hell_Spikes_03.prefab
-  artifactKey: Guid(14a154085757b584ca95fae07d6e1e42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonDungeonRealms/Prefabs/Environments/SM_Env_Hell_Spikes_03.prefab using Guid(14a154085757b584ca95fae07d6e1e42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b46e7cf999a945f24f3684f030455695') in 0.045000 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000195 seconds.
-  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Spike_Skull_01_Convex.asset
-  artifactKey: Guid(9a2dd9fd0f0774845b59ee715498ebc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Spike_Skull_01_Convex.asset using Guid(9a2dd9fd0f0774845b59ee715498ebc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '227abef985660acd4eef00d95434c94e') in 0.012435 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000241 seconds.
-  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Prop_Spike_Fortification_02_Convex.asset
-  artifactKey: Guid(eaedcbe71340a884bb35a55ec4dca923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Prop_Spike_Fortification_02_Convex.asset using Guid(eaedcbe71340a884bb35a55ec4dca923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c75c38f5dbe516055759a9937ff5fd4b') in 0.012910 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000170 seconds.
-  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Plant_Spikey_01_Convex.asset
-  artifactKey: Guid(7480a9529a6a3114ca6d9bfdda00ce55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Plant_Spikey_01_Convex.asset using Guid(7480a9529a6a3114ca6d9bfdda00ce55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '463b33d7d92f62716f2a2093980a5000') in 0.013782 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000200 seconds.
-  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Spike_Skull_02_Convex.asset
-  artifactKey: Guid(5f6269442f3b77e4ab72d3908e5e8250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Spike_Skull_02_Convex.asset using Guid(5f6269442f3b77e4ab72d3908e5e8250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36bf09110f311a227af9c81daec80c10') in 0.014088 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000165 seconds.
-  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Skull_Huge_01.fbx
-  artifactKey: Guid(5493e090a5477f341a8454ea6f2c47fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Skull_Huge_01.fbx using Guid(5493e090a5477f341a8454ea6f2c47fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b62f741400be209d64281f3b02233f07') in 0.076547 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000184 seconds.
-  path: Assets/Assets/PolygonFantasyKingdom/Models/SM_Prop_Spike_Fortification_03.fbx
-  artifactKey: Guid(e6d2495900a0d5f4fa397aab03b73071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonFantasyKingdom/Models/SM_Prop_Spike_Fortification_03.fbx using Guid(e6d2495900a0d5f4fa397aab03b73071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11502b44442b0919d9b1ae023a36a0e1') in 0.016705 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000194 seconds.
-  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Spikes_05_Convex.asset
-  artifactKey: Guid(c82756287d58498439900957d9afe6d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Spikes_05_Convex.asset using Guid(c82756287d58498439900957d9afe6d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '967d4a783b2cb2c2ae60269fb2c15db9') in 0.015057 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000230 seconds.
-  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Spike_01_Convex.asset
-  artifactKey: Guid(10dde3ddca5da7b4e9aec2b2c4b3606a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Spike_01_Convex.asset using Guid(10dde3ddca5da7b4e9aec2b2c4b3606a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fc67b3e45e80b9208010f549f077c49') in 0.013397 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000210 seconds.
-  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Prop_Spike_Fortification_01_Convex.asset
-  artifactKey: Guid(ee495a6582a9c9d4cb058798f9ba04a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Prop_Spike_Fortification_01_Convex.asset using Guid(ee495a6582a9c9d4cb058798f9ba04a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e27c4a9cb8b530ff52756b9f7a7d5a9a') in 0.013347 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000220 seconds.
-  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Spikes_02.fbx
-  artifactKey: Guid(bd8d865cb24567c4083a1145165ff5af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Spikes_02.fbx using Guid(bd8d865cb24567c4083a1145165ff5af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53076026379130f6bb6784165e9d820d') in 0.018255 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000250 seconds.
-  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Spikes_06.fbx
-  artifactKey: Guid(eb7e4c8a9673abc4d8d9453c269138d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Env_Hell_Spikes_06.fbx using Guid(eb7e4c8a9673abc4d8d9453c269138d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddcb094d7e887b6433c4acd27142b997') in 0.018459 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000248 seconds.
-  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Prop_Spike_Wall_03_Convex.asset
-  artifactKey: Guid(7d14db126c448104c802b30f70eeba24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Prop_Spike_Wall_03_Convex.asset using Guid(7d14db126c448104c802b30f70eeba24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '841afa3921d623d8ea2e51267e0bdb8d') in 0.014124 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000206 seconds.
-  path: Assets/Assets/PolygonFantasyKingdom/Prefabs/Props/BattleGround/SM_Prop_Spike_Wall_03.prefab
-  artifactKey: Guid(39843985b8da784469bb17724f9acb0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonFantasyKingdom/Prefabs/Props/BattleGround/SM_Prop_Spike_Wall_03.prefab using Guid(39843985b8da784469bb17724f9acb0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c04d411e85872c95ea43f714e7395d85') in 0.036547 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000249 seconds.
-  path: Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Prop_Spike_Wall_02_Convex.asset
-  artifactKey: Guid(05f03e4947d5bcd4982166762e58bfb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonFantasyKingdom/Models/Convex/SM_Prop_Spike_Wall_02_Convex.asset using Guid(05f03e4947d5bcd4982166762e58bfb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '875680ec117210b4715fb3a22da2673f') in 0.015235 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000197 seconds.
-  path: Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Spike_Skull_03_Convex.asset
-  artifactKey: Guid(f0c6efb05069f0d4487e6239c3eaea2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets/PolygonDungeonRealms/Models/SM_Prop_Hell_Spike_Skull_03_Convex.asset using Guid(f0c6efb05069f0d4487e6239c3eaea2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05277a27fb1d6d9f6512f389d7574d21') in 0.013992 seconds 
+  Time since last request: 5.732759 seconds.
+  path: Assets/Scenes/Nivel1.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Nivel1.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e8b98236af883b94041a9f9caa3dce9') in 0.032631 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.005656 seconds.
+Registered in 0.004987 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.52 ms, found 6 plugins.
+Refreshing native plugins compatible for Editor in 1.39 ms, found 6 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.098 seconds
+- Completed reload, in  0.824 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1098ms)
-		BeginReloadAssembly (142ms)
+	ReloadAssembly (824ms)
+		BeginReloadAssembly (94ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
+			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (34ms)
-		EndReloadAssembly (889ms)
-			LoadAssemblies (132ms)
+			CreateAndSetChildDomain (26ms)
+		EndReloadAssembly (679ms)
+			LoadAssemblies (77ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (314ms)
+			SetupTypeCache (230ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (44ms)
-			SetupLoadedEditorAssemblies (324ms)
+			RebuildScriptCaches (32ms)
+			SetupLoadedEditorAssemblies (253ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (5ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (82ms)
-				ProcessInitializeOnLoadAttributes (221ms)
-				ProcessInitializeOnLoadMethodAttributes (10ms)
-				AfterProcessingInitializeOnLoad (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (68ms)
+				ProcessInitializeOnLoadAttributes (164ms)
+				ProcessInitializeOnLoadMethodAttributes (8ms)
+				AfterProcessingInitializeOnLoad (6ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (8ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.78 ms, found 6 plugins.
+Refreshing native plugins compatible for Editor in 1.81 ms, found 6 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1890 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 118.3 MB.
-System memory in use after: 118.4 MB.
+Unloading 1891 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.1 MB.
+System memory in use after: 96.2 MB.
 
-Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2396.
-Total: 3.450300 ms (FindLiveObjects: 0.224600 ms CreateObjectMapping: 0.062100 ms MarkObjects: 3.123100 ms  DeleteObjects: 0.039000 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005738 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.56 ms, found 6 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.075 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1075ms)
-		BeginReloadAssembly (134ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (29ms)
-		EndReloadAssembly (877ms)
-			LoadAssemblies (131ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (298ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (45ms)
-			SetupLoadedEditorAssemblies (319ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (82ms)
-				ProcessInitializeOnLoadAttributes (217ms)
-				ProcessInitializeOnLoadMethodAttributes (10ms)
-				AfterProcessingInitializeOnLoad (3ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (8ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.57 ms, found 6 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1943 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 123.9 MB.
-System memory in use after: 122.3 MB.
-
-Unloading 47 unused Assets to reduce memory usage. Loaded Objects now: 2425.
-Total: 4.183300 ms (FindLiveObjects: 0.178100 ms CreateObjectMapping: 0.051000 ms MarkObjects: 2.926900 ms  DeleteObjects: 1.026000 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 583.355869 seconds.
-  path: Assets/KriptoFX/MeshEffect/Materials/Effect1/Mesh_MeshEffect.mat
-  artifactKey: Guid(bc92ed8818b855c43b7a7b24eff2d193) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/KriptoFX/MeshEffect/Materials/Effect1/Mesh_MeshEffect.mat using Guid(bc92ed8818b855c43b7a7b24eff2d193) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90826c6040309a733527de561a50ed40') in 0.152128 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 201.505890 seconds.
-  path: Assets/KriptoFX/MeshEffect/Materials/Effect3/Mesh_MeshEffect.mat
-  artifactKey: Guid(7a9224ab9ee16df4d839ba02921be788) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/KriptoFX/MeshEffect/Materials/Effect3/Mesh_MeshEffect.mat using Guid(7a9224ab9ee16df4d839ba02921be788) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fabc8f1332be27c65724388e5e2f22a') in 0.020360 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 27.700339 seconds.
-  path: Assets/KriptoFX/MeshEffect/Materials/Effect6/DistortionMesh_MeshEffect.mat
-  artifactKey: Guid(1fd5a4c57efcbd14db1c8f313d99653a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/KriptoFX/MeshEffect/Materials/Effect6/DistortionMesh_MeshEffect.mat using Guid(1fd5a4c57efcbd14db1c8f313d99653a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3387e56826970be3df0e69822c2c665') in 0.035311 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 114.306920 seconds.
-  path: Assets/KriptoFX/MeshEffect/Materials/Effect11/WeaponMesh_MeshEffectMobile.mat
-  artifactKey: Guid(2bb317eabeaf45d41946156ad91b1416) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/KriptoFX/MeshEffect/Materials/Effect11/WeaponMesh_MeshEffectMobile.mat using Guid(2bb317eabeaf45d41946156ad91b1416) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f464e3fe0e0a8317b1c245272f8432cc') in 0.086525 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 12.632208 seconds.
-  path: Assets/KriptoFX/MeshEffect/Materials/Effect10/DistortionMesh_MeshEffect.mat
-  artifactKey: Guid(4ceb6068f99cd1246bd7d6feec2a93ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/KriptoFX/MeshEffect/Materials/Effect10/DistortionMesh_MeshEffect.mat using Guid(4ceb6068f99cd1246bd7d6feec2a93ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c357e3ec93f2ada19468e37aa4e0332c') in 0.038500 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 46.801588 seconds.
-  path: Assets/KriptoFX/MeshEffect/Materials/Effect19/Water_MeshEffect.mat
-  artifactKey: Guid(ca682f77cfc9a5d4983a4abd1fd91058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/KriptoFX/MeshEffect/Materials/Effect19/Water_MeshEffect.mat using Guid(ca682f77cfc9a5d4983a4abd1fd91058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50e8091059e722e78be70c2629a523a6') in 0.080195 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 37.797836 seconds.
-  path: Assets/KriptoFX/MeshEffect/Materials/Effect18/Mesh_MeshEffect.mat
-  artifactKey: Guid(54624a8f34e7c154eb7ad5f7f7b003f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/KriptoFX/MeshEffect/Materials/Effect18/Mesh_MeshEffect.mat using Guid(54624a8f34e7c154eb7ad5f7f7b003f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31223a81c92af8ed8208dd886f77f2a7') in 0.032704 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 47.073002 seconds.
-  path: Assets/KriptoFX/MeshEffect/Materials/Effect2/Mesh_MeshEffect.mat
-  artifactKey: Guid(2c19ef8da93cb8e4c9bef336a6bdc121) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/KriptoFX/MeshEffect/Materials/Effect2/Mesh_MeshEffect.mat using Guid(2c19ef8da93cb8e4c9bef336a6bdc121) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d0c67ea03f61de7b8cd43b296c78732') in 0.040157 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005808 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.60 ms, found 6 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.100 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1100ms)
-		BeginReloadAssembly (139ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (34ms)
-		EndReloadAssembly (894ms)
-			LoadAssemblies (132ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (315ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (44ms)
-			SetupLoadedEditorAssemblies (322ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (84ms)
-				ProcessInitializeOnLoadAttributes (217ms)
-				ProcessInitializeOnLoadMethodAttributes (11ms)
-				AfterProcessingInitializeOnLoad (3ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (8ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.57 ms, found 6 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1942 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 124.0 MB.
-System memory in use after: 122.6 MB.
-
-Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 2465.
-Total: 4.497200 ms (FindLiveObjects: 0.170600 ms CreateObjectMapping: 0.050100 ms MarkObjects: 3.066200 ms  DeleteObjects: 1.208900 ms)
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2348.
+Total: 3.588000 ms (FindLiveObjects: 0.180400 ms CreateObjectMapping: 0.070800 ms MarkObjects: 3.309100 ms  DeleteObjects: 0.026900 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
