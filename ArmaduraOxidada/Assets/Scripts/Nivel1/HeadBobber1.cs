@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class HeadBobber1 : MonoBehaviour
+public class HeadBobber : MonoBehaviour
 {
     public AudioSource Pasos;
     private float timer = 0.0f;
@@ -17,7 +17,7 @@ public class HeadBobber1 : MonoBehaviour
 
     void Update()
     {
-        if (pause.GetComponent<Pausar1>().IsPaused)
+        if (pause.GetComponent<Pausar>().IsPaused)
         {
             return;
         }
