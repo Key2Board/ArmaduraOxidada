@@ -9,6 +9,7 @@ public class Pausar : MonoBehaviour
     public static bool GameIsPaused = false;
     public GameObject pauseMenuUI;
     public GameObject Camera;
+    public AudioSource Musica;
     public bool IsPaused { get { return Pausar.GameIsPaused; } }
 
     void Update()
@@ -29,6 +30,7 @@ public class Pausar : MonoBehaviour
     public void Resume()
     {
         pauseMenuUI.SetActive(false);
+        Musica.Play();
         Camera.GetComponent<SFPSC_FPSCamera>().enabled = true;
         Cursor.visible = false;
         Cursor.lockState = CursorLockMode.None;
@@ -39,6 +41,7 @@ public class Pausar : MonoBehaviour
     void Pause()
     {
         pauseMenuUI.SetActive(true);
+        Musica.Pause();
         Camera.GetComponent<SFPSC_FPSCamera>().enabled = false;
         Cursor.visible = true;
         Cursor.lockState = CursorLockMode.Confined;

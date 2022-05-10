@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class TriggerAnimacion : MonoBehaviour
 {
-    [SerializeField] private Animator AbrirPorton;
-    [SerializeField] private string abrirPorton = "AbrirPorton";
+    [SerializeField] private Animator Animador;
+    [SerializeField] private string Animacion = "AbrirPorton";
     bool triggered = false;
     void OnTriggerEnter(Collider other)
     {
@@ -13,10 +13,10 @@ public class TriggerAnimacion : MonoBehaviour
         {
             if (other.CompareTag("Player"))
             {
-                AbrirPorton.Play(abrirPorton, 0, 0.0f);
+                Animador.Play(Animacion, 0, 0.0f);
             }
             triggered = true;
         }
-
+        
     }
 }
