@@ -83,7 +83,6 @@
     <Compile Include="Assets\Assets\Simple FPS Controller\Scripts\Grappling Hook\SFPSC_GrapplingHook.cs" />
     <Compile Include="Assets\Scripts\Nivel1\Pausar1.cs" />
     <Compile Include="Assets\Assets\HandpaintedEnvironmentVol1\Scripts\LevelSelect.cs" />
-    <Compile Include="Assets\NewPlayableBehaviour.cs" />
     <Compile Include="Assets\Assets\KriptoFX\MeshEffect\Scripts\Helpers\ME_AnimatorEvents.cs" />
     <Compile Include="Assets\Assets\KriptoFX\MeshEffect\Scripts\ME_ParticleCollisionDecal.cs" />
     <Compile Include="Assets\Assets\KriptoFX\MeshEffect\DemoResources\Scripts\ME_DemoGUI.cs" />
