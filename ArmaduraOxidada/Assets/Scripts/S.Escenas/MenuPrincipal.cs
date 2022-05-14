@@ -5,9 +5,26 @@ using UnityEngine.SceneManagement;
 
 public class MenuPrincipal : MonoBehaviour
 {
+    public Animator transicionNegro;
+    public float tiempoEspera;
+    int menuPrincipal = 1;
+    int Niveles = 2;
+    int nivel1 = 3;
+    int nivel2 = 4;
+    int nivel3 = 5;
+    int nivel4 = 6;
     public void Jugar()
     {
-        SceneManager.LoadScene("Niveles");
+        StartCoroutine(Jugar(Niveles));
+        //SceneManager.LoadScene("Niveles");
+    }
+    IEnumerator Jugar(int levelIndex)
+    {
+        transicionNegro.SetTrigger("Start");
+
+        yield return new WaitForSeconds(tiempoEspera);
+
+        SceneManager.LoadScene(levelIndex);
     }
 
     public void Salir()
@@ -20,9 +37,10 @@ public class MenuPrincipal : MonoBehaviour
 #endif
     }
     public void Nivel1()
-    {
+    {      
         SceneManager.LoadScene("Nivel1");
     }
+
     public void Nivel2()
     {
         SceneManager.LoadScene("Nivel2");
@@ -37,6 +55,15 @@ public class MenuPrincipal : MonoBehaviour
     }
     public void Regresar()
     {
-        SceneManager.LoadScene("MenuPrincipal");
+        StartCoroutine(Regresar(menuPrincipal));
+        //SceneManager.LoadScene("MenuPrincipal");
+    }
+    IEnumerator Regresar(int levelIndex2)
+    {
+        transicionNegro.SetTrigger("Start");
+
+        yield return new WaitForSeconds(tiempoEspera);
+
+        SceneManager.LoadScene(levelIndex2);
     }
 }

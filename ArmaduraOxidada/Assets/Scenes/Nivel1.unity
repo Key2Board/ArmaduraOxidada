@@ -47472,7 +47472,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   teleportTarget: {fileID: 290687351}
   thePlayer: {fileID: 1427518750}
-  teleport: {fileID: 0}
+  teleport: {fileID: 1045344226}
 --- !u!65 &1849158285
 BoxCollider:
   m_ObjectHideFlags: 0
