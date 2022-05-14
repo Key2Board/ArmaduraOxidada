@@ -106,7 +106,7 @@ public class SFPSC_PlayerMovement : MonoBehaviour
             {
                 rb.AddForce(-jumpForce * rb.mass * Vector3.down);
                 //Sondio al comenzar el salto
-               //Impulso.Play();
+               Impulso.Play();
                 jumpBlocked = true;
                 Invoke("UnblockJump", jumpCooldown);
                 //Invoca la función PlayJump para que suene el sonido de aterrizaje

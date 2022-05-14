@@ -37,8 +37,17 @@ public class MenuPrincipal : MonoBehaviour
 #endif
     }
     public void Nivel1()
-    {      
-        SceneManager.LoadScene("Nivel1");
+    {
+        StartCoroutine(uno(nivel1));
+        //SceneManager.LoadScene("Nivel1");
+    }
+    IEnumerator uno(int levelIndex3)
+    {
+        transicionNegro.SetTrigger("Start");
+
+        yield return new WaitForSeconds(tiempoEspera);
+
+        SceneManager.LoadScene(levelIndex3);
     }
 
     public void Nivel2()
