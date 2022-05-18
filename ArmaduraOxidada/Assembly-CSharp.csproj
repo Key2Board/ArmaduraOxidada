@@ -71,7 +71,6 @@
     <Compile Include="Assets\Assets\Simple FPS Controller\Scripts\SFPSC_PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\Pausar.cs" />
     <Compile Include="Assets\Assets\KriptoFX\MeshEffect\Scripts\ME_LightCurves.cs" />
-    <Compile Include="Assets\Scripts\Nivel1\HeadBobber1.cs" />
     <Compile Include="Assets\Assets\HandpaintedEnvironmentVol1\Scripts\SmoothMouseLook.cs" />
     <Compile Include="Assets\Assets\KriptoFX\MeshEffect\PostEffects\PC\Common\ME_MinAttribute.cs" />
     <Compile Include="Assets\Scripts\HeadBobber.cs" />
