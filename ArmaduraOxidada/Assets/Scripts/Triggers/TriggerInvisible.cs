@@ -8,18 +8,21 @@ public class TriggerInvisible : MonoBehaviour
     public GameObject i2;
     public GameObject i3;
     public GameObject i4;
+    public AudioSource Sonido;
+
     private void OnTriggerEnter(Collider other)
     {
-        i1.GetComponent<Renderer>().enabled = true;
-        i2.GetComponent<Renderer>().enabled = true;
-        i3.GetComponent<Renderer>().enabled = true;
-        i4.GetComponent<Renderer>().enabled = true;
+        i1.GetComponent<MeshRenderer>().enabled = true;
+        i2.GetComponent<MeshRenderer>().enabled = true;
+        i3.GetComponent<MeshRenderer>().enabled = true;
+        i4.GetComponent<MeshRenderer>().enabled = true;
+        Sonido.Play();
     }
     private void OnTriggerExit(Collider other)
     {
-        i1.GetComponent<Renderer>().enabled = false;
-        i2.GetComponent<Renderer>().enabled = false;
-        i3.GetComponent<Renderer>().enabled = false;
-        i4.GetComponent<Renderer>().enabled = false;
+        i1.GetComponent<MeshRenderer>().enabled = false;
+        i2.GetComponent<MeshRenderer>().enabled = false;
+        i3.GetComponent<MeshRenderer>().enabled = false;
+        i4.GetComponent<MeshRenderer>().enabled = false;
     }
 }
