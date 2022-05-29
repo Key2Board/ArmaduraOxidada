@@ -52,15 +52,42 @@ public class MenuPrincipal : MonoBehaviour
 
     public void Nivel2()
     {
-        SceneManager.LoadScene("Nivel2");
+        StartCoroutine(dos(nivel2));
+        //SceneManager.LoadScene("Nivel2");
+    }
+    IEnumerator dos(int levelIndex4)
+    {
+        transicionNegro.SetTrigger("Start");
+
+        yield return new WaitForSeconds(tiempoEspera);
+
+        SceneManager.LoadScene(levelIndex4);
     }
     public void Nivel3()
     {
-        SceneManager.LoadScene("Nivel3");
+        StartCoroutine(tres(nivel3));
+        //SceneManager.LoadScene("Nivel3");
+    }
+    IEnumerator tres(int levelIndex5)
+    {
+        transicionNegro.SetTrigger("Start");
+
+        yield return new WaitForSeconds(tiempoEspera);
+
+        SceneManager.LoadScene(levelIndex5);
     }
     public void Nivel4()
     {
-        SceneManager.LoadScene("Nivel4");
+        StartCoroutine(cuatro(nivel4));
+        //SceneManager.LoadScene("Nivel4");
+    }
+    IEnumerator cuatro(int levelIndex6)
+    {
+        transicionNegro.SetTrigger("Start");
+
+        yield return new WaitForSeconds(tiempoEspera);
+
+        SceneManager.LoadScene(levelIndex6);
     }
     public void Regresar()
     {

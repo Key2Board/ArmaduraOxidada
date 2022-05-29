@@ -53,16 +53,16 @@
     <UnityVersion>2020.3.30f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
+    <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\BOXOPHOBIC\Polyverse Skies\Core\Editor\PolyverseSkiesHub.cs" />
-    <Compile Include="Assets\BOXOPHOBIC\Polyverse Skies\Core\Editor\PolyverseSkiesWindows.cs" />
-    <Compile Include="Assets\BOXOPHOBIC\Polyverse Skies\Core\Editor\PolyverseSkiesShaderGUI.cs" />
-    <Compile Include="Assets\BOXOPHOBIC\Polyverse Skies\Core\Editor\PolyverseSkiesCreate.cs" />
+    <Compile Include="Assets\Assets\BOXOPHOBIC\Polyverse Skies\Core\Editor\PolyverseSkiesHub.cs" />
+    <Compile Include="Assets\Assets\BOXOPHOBIC\Polyverse Skies\Core\Editor\PolyverseSkiesWindows.cs" />
+    <Compile Include="Assets\Assets\BOXOPHOBIC\Polyverse Skies\Core\Editor\PolyverseSkiesShaderGUI.cs" />
+    <Compile Include="Assets\Assets\BOXOPHOBIC\Polyverse Skies\Core\Editor\PolyverseSkiesCreate.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\BOXOPHOBIC\Polyverse Skies\Core\Editor\Boxophobic.PolyverseSkies.Editor.asmdef" />
+    <None Include="Assets\Assets\BOXOPHOBIC\Polyverse Skies\Core\Editor\Boxophobic.PolyverseSkies.Editor.asmdef" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -659,12 +659,6 @@
     <Reference Include="System.Xml.XPath.XDocument">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.30f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Xml.XPath.XDocument.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEditor.UI">
-      <HintPath>Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.UI">
-      <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEngine.TestRunner">
       <HintPath>Library\ScriptAssemblies\UnityEngine.TestRunner.dll</HintPath>
     </Reference>
@@ -684,6 +678,14 @@
     <ProjectReference Include="Boxophobic.PolyverseSkies.Runtime.csproj">
       <Project>{D9F9AD75-1C49-D424-4211-4D2682739DA4}</Project>
       <Name>Boxophobic.PolyverseSkies.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityEditor.UI.csproj">
+      <Project>{167DCE34-46D9-2206-9337-F062C1639020}</Project>
+      <Name>UnityEditor.UI</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityEngine.UI.csproj">
+      <Project>{BF910877-414E-8DA4-2A3F-BF750CF4CD75}</Project>
+      <Name>UnityEngine.UI</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
