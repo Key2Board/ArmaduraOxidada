@@ -17321,7 +17321,6 @@ GameObject:
   - component: {fileID: 703735548}
   - component: {fileID: 703735547}
   - component: {fileID: 703735546}
-  - component: {fileID: 703735545}
   - component: {fileID: 703735550}
   m_Layer: 0
   m_Name: CambioEscena
@@ -17330,22 +17329,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &703735545
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 703735544}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 28809e0859c2c604f8c0a9f60217353e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  transicionBlanco: {fileID: 0}
-  numeroEscena: 4
-  tiempoEspera: 5
-  Canvas: {fileID: 0}
 --- !u!65 &703735546
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -17434,6 +17417,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c4bdf6b25f4cd5f488fdb2d1560f6d31, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  transition: {fileID: 1544976736}
+  transitionTime: 1
   numeroEscena: 4
 --- !u!1 &705507993
 GameObject:

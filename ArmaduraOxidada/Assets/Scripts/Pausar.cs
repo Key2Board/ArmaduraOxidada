@@ -51,6 +51,7 @@ public class Pausar : MonoBehaviour
     public void LoadMenu()
     {
         Time.timeScale = 1f;
+        //pauseMenuUI.SetActive(false);
         SceneManager.LoadScene("MenuPrincipal");
     }
 }

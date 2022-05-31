@@ -3419,7 +3419,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c4bdf6b25f4cd5f488fdb2d1560f6d31, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  numeroEscena: 5
+  transition: {fileID: 1931872598}
+  transitionTime: 1
+  numeroEscena: 6
 --- !u!65 &563973113
 BoxCollider:
   m_ObjectHideFlags: 0

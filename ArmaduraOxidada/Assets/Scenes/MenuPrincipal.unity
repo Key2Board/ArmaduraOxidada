@@ -2078,6 +2078,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   transicionNegro: {fileID: 1212831764}
   tiempoEspera: 0.5
+  menuPrincipal: 1
+  Niveles: 2
+  nivel1: 3
+  nivel2: 5
+  nivel3: 7
+  nivel4: 9
 --- !u!1 &1459746373
 GameObject:
   m_ObjectHideFlags: 0

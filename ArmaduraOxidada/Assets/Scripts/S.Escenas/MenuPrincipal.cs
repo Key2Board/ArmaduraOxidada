@@ -7,12 +7,12 @@ public class MenuPrincipal : MonoBehaviour
 {
     public Animator transicionNegro;
     public float tiempoEspera;
-    int menuPrincipal = 1;
-    int Niveles = 2;
-    int nivel1 = 3;
-    int nivel2 = 4;
-    int nivel3 = 5;
-    int nivel4 = 6;
+    public int menuPrincipal = 1;
+    public int Niveles = 2;
+    public int nivel1 = 3;
+    public int nivel2 = 4;
+    public int nivel3 = 5;
+    public int nivel4 = 6;
     public void Jugar()
     {
         StartCoroutine(Jugar(Niveles));
