@@ -214,7 +214,7 @@ GameObject:
   - component: {fileID: 82824163}
   - component: {fileID: 82824162}
   m_Layer: 5
-  m_Name: Castillo 1 (3)
+  m_Name: "Im\xE1genCastillo3"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -290,7 +290,7 @@ GameObject:
   - component: {fileID: 421523226}
   - component: {fileID: 421523225}
   m_Layer: 5
-  m_Name: Button (3)
+  m_Name: "Bot\xF3nTutorial"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -680,7 +680,7 @@ GameObject:
   - component: {fileID: 587807834}
   - component: {fileID: 587807833}
   m_Layer: 5
-  m_Name: Button (2)
+  m_Name: "Bot\xF3nCastillo3"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -813,7 +813,7 @@ GameObject:
   - component: {fileID: 644981174}
   - component: {fileID: 644981173}
   m_Layer: 5
-  m_Name: Button
+  m_Name: "Bot\xF3nCastillo1"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1157,7 +1157,7 @@ GameObject:
   - component: {fileID: 997975857}
   - component: {fileID: 997975856}
   m_Layer: 5
-  m_Name: Castillo 1 (2)
+  m_Name: "Im\xE1genCastillo2"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1511,7 +1511,7 @@ GameObject:
   - component: {fileID: 1212638553}
   - component: {fileID: 1212638552}
   m_Layer: 5
-  m_Name: Button (1)
+  m_Name: "Bot\xF3nCastillo2"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1727,7 +1727,7 @@ GameObject:
   - component: {fileID: 1313762478}
   - component: {fileID: 1313762477}
   m_Layer: 5
-  m_Name: Castillo 1
+  m_Name: "Im\xE1genTutorial"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1772,7 +1772,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: d456e2f72a0bf7d46891405d40e7b3d6, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1881,7 +1881,7 @@ GameObject:
   - component: {fileID: 1474387688}
   - component: {fileID: 1474387687}
   m_Layer: 5
-  m_Name: Castillo 1 (1)
+  m_Name: "Im\xE1genCastillo1"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2035,7 +2035,7 @@ GameObject:
   - component: {fileID: 1606179772}
   - component: {fileID: 1606179771}
   m_Layer: 5
-  m_Name: Image
+  m_Name: Fondo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2073,14 +2073,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 0.8039216}
+  m_Color: {r: 0.509434, g: 0.509434, b: 0.509434, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: a461f224b16782e41941f5a74eeaadf6, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
