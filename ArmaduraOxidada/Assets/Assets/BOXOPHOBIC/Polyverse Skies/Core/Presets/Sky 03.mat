@@ -30,7 +30,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _CloudsCubemap:
-        m_Texture: {fileID: 8900000, guid: e3373d7062a4a5044ac0f0745de6c934, type: 3}
+        m_Texture: {fileID: 8900000, guid: c38d494f5baa15f409afb86bf0d6fe38, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Cubemap:
@@ -162,7 +162,7 @@ Material:
     - _BumpScale: 1
     - _CloudHeight: 0
     - _CloudsCat: 1
-    - _CloudsHeight: 0.2
+    - _CloudsHeight: 0.059
     - _CloudsLitbySun: 0
     - _CloudsRotation: 100
     - _CloudsRotationSpeed: 1
@@ -264,8 +264,8 @@ Material:
     m_Colors:
     - _CloudLightColor: {r: 1, g: 1, b: 1, a: 1}
     - _CloudShadowColor: {r: 0.33239606, g: 0.46899295, b: 0.85294116, a: 1}
-    - _CloudsLightColor: {r: 0.4056604, g: 0.112896055, b: 0.112896055, a: 1}
-    - _CloudsShadowColor: {r: 0.49056602, g: 0.22455037, b: 0, a: 1}
+    - _CloudsLightColor: {r: 0.052954778, g: 0.07617392, b: 0.3207547, a: 1}
+    - _CloudsShadowColor: {r: 0.4339623, g: 0.4339623, b: 0.4339623, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Color0: {r: 0, g: 0.5054344, b: 1, a: 0}
     - _Color1: {r: 1, g: 1, b: 1, a: 0}

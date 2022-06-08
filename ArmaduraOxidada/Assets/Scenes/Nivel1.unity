@@ -97,7 +97,7 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 0}
+  m_LightingDataAsset: {fileID: 112000000, guid: dccdb6a856a3b10458c988bdfdaa2dc1, type: 2}
   m_LightingSettings: {fileID: 0}
 --- !u!196 &4
 NavMeshSettings:
@@ -34034,6 +34034,10 @@ PrefabInstance:
       value: 18
       objectReference: {fileID: 0}
     - target: {fileID: 198538063223312148, guid: ab407c5ee2fcbab428d8cb691ea3bd43, type: 3}
+      propertyPath: ShapeModule.radiusThickness
+      value: 1.0000
+      objectReference: {fileID: 0}
+    - target: {fileID: 198538063223312148, guid: ab407c5ee2fcbab428d8cb691ea3bd43, type: 3}
       propertyPath: InitialModule.startColor.maxGradient.ctime1
       value: 65535
       objectReference: {fileID: 0}
@@ -55333,6 +55337,10 @@ PrefabInstance:
     - target: {fileID: 198538063223312148, guid: ab407c5ee2fcbab428d8cb691ea3bd43, type: 3}
       propertyPath: InitialModule.rotation3D
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 198538063223312148, guid: ab407c5ee2fcbab428d8cb691ea3bd43, type: 3}
+      propertyPath: ShapeModule.radiusThickness
+      value: 1.0000
       objectReference: {fileID: 0}
     - target: {fileID: 198538063223312148, guid: ab407c5ee2fcbab428d8cb691ea3bd43, type: 3}
       propertyPath: InitialModule.maxNumParticles
