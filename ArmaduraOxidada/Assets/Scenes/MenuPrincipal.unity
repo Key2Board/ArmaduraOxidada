@@ -157,7 +157,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -423, y: 123}
+  m_AnchoredPosition: {x: -453.00003, y: 208.56}
   m_SizeDelta: {x: -39.651306, y: -257.4349}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &22554633
@@ -193,7 +193,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "Arte\nJavier D\xEDaz"
+  m_Text: "Arte\nJavier D\xEDaz\nPablo Ramos"
 --- !u!222 &22554634
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -513,7 +513,7 @@ RectTransform:
   - {fileID: 777371483}
   - {fileID: 1930571600}
   - {fileID: 907865649}
-  - {fileID: 469816837}
+  - {fileID: 868120311}
   m_Father: {fileID: 346849873}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -522,87 +522,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: -63}
   m_SizeDelta: {x: 332.6176, y: 332.6176}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!1 &469816836
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 469816837}
-  - component: {fileID: 469816839}
-  - component: {fileID: 469816838}
-  m_Layer: 5
-  m_Name: Dec
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &469816837
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 469816836}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 362056960}
-  m_RootOrder: 9
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 414, y: -168.2}
-  m_SizeDelta: {x: -39.651306, y: -257.4349}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &469816838
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 469816836}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 40
-    m_FontStyle: 0
-    m_BestFit: 0
-    m_MinSize: 0
-    m_MaxSize: 60
-    m_Alignment: 4
-    m_AlignByGeometry: 0
-    m_RichText: 1
-    m_HorizontalOverflow: 1
-    m_VerticalOverflow: 1
-    m_LineSpacing: 1
-  m_Text: 'Testeo
-
-'
---- !u!222 &469816839
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 469816836}
-  m_CullTransparentMesh: 1
 --- !u!1 &524219717
 GameObject:
   m_ObjectHideFlags: 0
@@ -849,7 +768,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 226}
+  m_AnchoredPosition: {x: 0, y: 343}
   m_SizeDelta: {x: -39.651306, y: -257.4349}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &631021742
@@ -953,11 +872,11 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 40
+    m_FontSize: 50
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 4
-    m_MaxSize: 60
+    m_MinSize: 0
+    m_MaxSize: 70
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
@@ -1007,7 +926,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -39}
+  m_AnchoredPosition: {x: 0, y: 32.380005}
   m_SizeDelta: {x: -39.6513, y: -195.4181}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &777371484
@@ -1179,6 +1098,85 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!1 &868120310
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 868120311}
+  - component: {fileID: 868120313}
+  - component: {fileID: 868120312}
+  m_Layer: 5
+  m_Name: Voz
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &868120311
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 868120310}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 362056960}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 486, y: -141}
+  m_SizeDelta: {x: -39.651306, y: -257.4349}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &868120312
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 868120310}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 40
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 2
+    m_MaxSize: 60
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 1
+    m_VerticalOverflow: 1
+    m_LineSpacing: 1
+  m_Text: "Voces del Caballero y Mago\nPablo Dar\xEDo Moreno"
+--- !u!222 &868120313
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 868120310}
+  m_CullTransparentMesh: 1
 --- !u!1 &907865648
 GameObject:
   m_ObjectHideFlags: 0
@@ -1213,7 +1211,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 414, y: 123}
+  m_AnchoredPosition: {x: 486, y: 198.18}
   m_SizeDelta: {x: -39.651306, y: -257.4349}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &907865650
@@ -1613,8 +1611,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -185}
-  m_SizeDelta: {x: 198.3099, y: 41.5799}
+  m_AnchoredPosition: {x: 0.0000019073, y: -202}
+  m_SizeDelta: {x: 245.64, y: 72.1493}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1295669876
 MonoBehaviour:
@@ -2119,7 +2117,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -423, y: -126.62}
+  m_AnchoredPosition: {x: -453.00003, y: -141}
   m_SizeDelta: {x: -39.651306, y: -257.4349}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1459746375
@@ -2277,7 +2275,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -423.00003, y: -7.9916077}
+  m_AnchoredPosition: {x: -453.00003, y: 32.380005}
   m_SizeDelta: {x: -39.651306, y: -257.4349}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1682218069
@@ -2356,7 +2354,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.000030517578, y: 123}
+  m_AnchoredPosition: {x: 0.000030517578, y: 198.18}
   m_SizeDelta: {x: -39.651306, y: -257.4349}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1726561596
@@ -2392,7 +2390,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "Narrativa\nJavier D\xEDaz"
+  m_Text: "Narrativa y Di\xE1logos\nJavier D\xEDaz"
 --- !u!222 &1726561597
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2528,7 +2526,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 414, y: -34.539032}
+  m_AnchoredPosition: {x: 486, y: 27.919}
   m_SizeDelta: {x: -39.6513, y: -204.34}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1930571601
@@ -2564,7 +2562,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "Dise\xF1o y Decorado\nFrancisco Puigdelloses\nPablo Ramos"
+  m_Text: "Dise\xF1o y Decorado\nFrancisco Puigdelloses\nPablo Ramos\nPablo Dar\xEDo
+    Moreno"
 --- !u!222 &1930571602
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2588,7 +2587,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1942239141
 Transform:
   m_ObjectHideFlags: 0
